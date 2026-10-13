@@ -14,7 +14,7 @@ from cgcomp.parsers import mapped, spqr, oxrna
 from conftest import ROOT
 
 CLI = Path(sys.executable).parent / 'cgcomp'
-CASES = [(mode, model.stem, ext) for mode, model in MODELS.items() if not model.blocker and mode != 'generic'
+CASES = [(mode, model.stem, ext) for mode, model in MODELS.items() if mode != 'generic'
          for ext in model.formats if (ROOT / 'CG_models' / f'{model.stem}.{ext}').is_file()]
 CASES += [('generic', stem, ext) for stem in ('exp_VFold', 'exp_FebRNA', 'exp_RNA-JP', 'exp_SimRNA') for ext in ('pdb', 'cif')]
 CASES += [('generic', 'exp', 'pdb')]
@@ -122,27 +122,27 @@ def test_cli_help_and_all_mode_listing(tmp_path):
     assert '--list-modes' in help_result.stdout
     listed = run_cli(['--list-modes'], tmp_path)
     assert listed.returncode == 0
+    assert {line.split()[0] for line in listed.stdout.splitlines()} == set(MODELS)
     for mode, model in MODELS.items():
         assert mode in listed.stdout
         assert mode in help_result.stdout
         assert model.auxiliary in listed.stdout
 
 
-BLOCKED_CASES = [(mode, model.stem, ext) for mode, model in MODELS.items() if model.blocker
-                 for ext in ('pdb', 'cif')]
-
-
-@pytest.mark.parametrize('mode,stem,ext', BLOCKED_CASES)
-def test_genuinely_unsupported_actual_inputs(mode, stem, ext, tmp_path):
+@pytest.mark.parametrize('mode,stem', [('nast', 'exp_NAST'), ('yup', 'exp_YUP'), ('nares-2p', 'exp_Nares-2P')])
+@pytest.mark.parametrize('ext', ['pdb', 'cif'])
+def test_removed_modes_are_not_cli_choices(mode, stem, ext, tmp_path):
     result = run_cli(['-i', ROOT / 'CG_models' / f'{stem}.{ext}', '-m', mode, '-o', tmp_path / 'out'], tmp_path)
-    assert result.returncode == 2
-    assert MODELS[mode].blocker in result.stderr
-    assert len(parse_input(mode, ROOT / 'CG_models' / f'{stem}.{ext}')) == 102
+    assert result.returncode == 2 and 'invalid choice' in result.stderr
+    assert mode not in MODELS and mode not in PARSERS
     assert not (tmp_path / 'out').exists()
+    listed = run_cli(['--list-modes'], tmp_path)
+    assert listed.returncode == 0
+    assert mode not in listed.stdout
 
 
 @pytest.mark.parametrize('mode', [mode for mode, model in MODELS.items()
-                                 if not model.blocker and 'cif' in model.formats and mode != 'generic'])
+                                 if 'cif' in model.formats and mode != 'generic'])
 def test_equivalent_pdb_cif_and_mmcif(mode, tmp_path):
     model = MODELS[mode]
     outputs = []

@@ -10,7 +10,7 @@ from .pdb_writer import write_outputs
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description='Reconstruct RNA using supplied single-nucleotide fragments. All archived models are recognized; --list-modes reports supported representations and technical blockers.')
+    parser = argparse.ArgumentParser(description='Reconstruct RNA using supplied single-nucleotide fragments. Supports 11 CG models and generic atomic fitting; --list-modes reports supported representations.')
     parser.add_argument('-i', '--input', help='Input PDB/mmCIF or native oxRNA DAT')
     parser.add_argument('-m', '--mode', choices=sorted(MODELS))
     parser.add_argument('-o', '--output', help='Output directory')
@@ -22,10 +22,8 @@ def main(argv=None):
     args = parser.parse_args(argv)
     if args.list_modes:
         for mode, model in sorted(MODELS.items()):
-            status = 'UNSUPPORTED' if model.blocker else 'SUPPORTED'
+            status = 'SUPPORTED'
             print(f'{mode:12} {status:11} formats={"/".join(model.formats):14} auxiliary={model.auxiliary}; {model.profile}')
-            if model.blocker:
-                print(f'  Blocker: {model.blocker}')
         return 0
     if not all((args.input, args.mode, args.output)):
         parser.error('--input, --mode, and --output are required unless --list-modes is used')

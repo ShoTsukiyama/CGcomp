@@ -1,25 +1,24 @@
 # CGcomp
 
-CGcomp reconstructs RNA backbone and all-atom structures from coarse-grained (CG) models. It adds missing heavy atoms by placing nucleotide fragments according to the input CG coordinates. CGcomp does not perform energy minimization or structural refinement.
+**CGcomp** reconstructs RNA backbone and all-atom heavy-atom structures from coarse-grained (CG) RNA models. It supports **11 CG models** and a `generic` mode for structures containing known atomic coordinates.
+
+CGcomp places nucleotide templates to complete missing atoms. It does **not** perform structural refinement or energy minimization.
 
 ## Installation
 
-Clone the repository and install CGcomp in a Conda environment:
+From the CGcomp source directory:
 
 ```bash
-git clone https://github.com/USERNAME/CGcomp.git
-cd CGcomp
 conda env create -f environment.yml
 conda activate cgcomp
 pip install .
 ```
 
-Replace `USERNAME` with the repository owner's GitHub username.
-
 Check the installation:
 
 ```bash
 cgcomp --help
+cgcomp --list-modes
 ```
 
 ## Usage
@@ -28,64 +27,61 @@ cgcomp --help
 cgcomp -i INPUT -m MODEL -o OUTPUT_DIR
 ```
 
-- `-i`, `--input`: Input CG structure file.
-- `-m`, `--mode`: CG model name (see below).
-- `-o`, `--output`: Output directory.
+- `-i`, `--input`: input CG structure
+- `-m`, `--mode`: CG model (see the table below)
+- `-o`, `--output`: output directory
 
-For example:
-
-```bash
-cgcomp -i input.pdb -m simrna -o results
-```
-
-For oxRNA, provide the corresponding topology file, which contains nucleotide identities and strand connectivity:
+For example, to reconstruct a SimRNA structure:
 
 ```bash
-cgcomp -i input.dat -m oxrna --topology input.top -o results
+cgcomp -i CG_models/exp_SimRNA.pdb -m simrna -o results/simrna
 ```
 
-To display available model names and their input requirements:
+**oxRNA** requires the topology file corresponding to its DAT structure:
 
 ```bash
-cgcomp --list-modes
+cgcomp -i CG_models/exp_oxRNA.dat -m oxrna \
+  --topology examples/auxiliary/exp_oxRNA.top -o results/oxrna
 ```
 
-### Supported CG models
+For all available options, run `cgcomp --help`.
+
+## Supported CG models
 
 | CG model | Mode | Input format |
 |---|---|---|
-| FebRNA | `febrna` | PDB, CIF, mmCIF |
-| HiRE-RNA | `hire-rna` | PDB, CIF, mmCIF |
-| iFoldRNA | `ifoldrna` | PDB, CIF, mmCIF |
-| isRNA1 | `isrna1` | PDB, CIF, mmCIF |
-| isRNA2 | `isrna2` | PDB, CIF, mmCIF |
+| FebRNA | `febrna` | PDB, CIF/mmCIF |
+| HiRE-RNA | `hire-rna` | PDB, CIF/mmCIF |
+| iFoldRNA | `ifoldrna` | PDB, CIF/mmCIF |
+| isRNA1 | `isrna1` | PDB, CIF/mmCIF |
+| isRNA2 | `isrna2` | PDB, CIF/mmCIF |
 | oxRNA | `oxrna` | DAT + topology file |
-| RNA-JP | `rna-jp` | PDB, CIF, mmCIF |
-| SimRNA | `simrna` | PDB, CIF, mmCIF |
+| RNA-JP | `rna-jp` | PDB, CIF/mmCIF |
+| SimRNA | `simrna` | PDB, CIF/mmCIF |
 | SPQR | `spqr` | PDB (native SPQR format) |
-| TopRNA | `toprna` | PDB, CIF, mmCIF |
-| VFold | `vfold` | PDB, CIF, mmCIF |
-| Generic atomic input | `generic` | PDB, CIF, mmCIF |
+| TopRNA | `toprna` | PDB, CIF/mmCIF |
+| VFold | `vfold` | PDB, CIF/mmCIF |
+| Generic atomic coordinates | `generic` | PDB, CIF/mmCIF |
 
-The `generic` mode requires at least three non-collinear matched heavy-atom coordinates per nucleotide. SPQR reconstruction currently supports the A3 state only.
+The `generic` mode requires at least three non-collinear matching heavy-atom positions per nucleotide. SPQR reconstruction supports the **A3 state only**. The iFoldRNA and TopRNA modes use bead definitions compatible with the supplied RNAgrainy-generated examples; other bead definitions are not necessarily interchangeable.
 
-NAST, NARES-2P, and YUP are not supported for atomic reconstruction because their CG representations do not provide sufficient information to determine nucleotide orientations.
+## Output files
 
-## Output
-
-CGcomp writes three files to the selected output directory:
+CGcomp writes the following files to the specified output directory:
 
 ```text
-results/
+OUTPUT_DIR/
 ├── backbone.pdb
 ├── all_atom.pdb
 └── fit_report.json
 ```
 
-- **`backbone.pdb`**: Reconstructed RNA backbone heavy-atom coordinates.
-- **`all_atom.pdb`**: Reconstructed RNA backbone, ribose, and nucleobase heavy-atom coordinates.
-- **`fit_report.json`**: Reconstruction information and fitting diagnostics.
+- **`backbone.pdb`**: reconstructed RNA backbone heavy atoms
+- **`all_atom.pdb`**: reconstructed RNA backbone, ribose, and nucleobase heavy atoms
+- **`fit_report.json`**: information about template fitting and reconstruction
+
+Hydrogen atoms are not included.
 
 ## Template attribution
 
-Nucleotide fragments used by CGcomp originate from [Arena](https://github.com/pylelab/Arena). Check the source's redistribution terms before redistributing these fragment files.
+The nucleotide fragments used by CGcomp originate from [Arena](https://github.com/pylelab/Arena). Please check the original source and its redistribution terms before sharing the fragment files.

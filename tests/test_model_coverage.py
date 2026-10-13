@@ -14,10 +14,14 @@ def test_complete_archive_model_catalog():
     # Inputs are top-level files; *_full.pdb directories hold generated outputs.
     stems = {path.stem for path in (ROOT / 'CG_models').iterdir()
              if path.is_file() and path.suffix in ('.pdb', '.cif', '.dat')}
-    assert stems == {model.stem for model in MODELS.values()}
+    historical_stems = {'exp_NAST', 'exp_YUP', 'exp_Nares-2P'}
+    assert stems - historical_stems == {model.stem for model in MODELS.values()}
     inventory = json.loads((ROOT / 'docs/model_inventory.json').read_text())
-    assert len(inventory['models']) == len(MODELS) == 15
-    assert sum(not m.blocker for m in MODELS.values()) == 12  # 11 CG modes + generic.
+    # Historical inventories retain all supplied inputs, including removed modes.
+    assert len(inventory['models']) == 15
+    assert set(MODELS) == {'febrna', 'hire-rna', 'ifoldrna', 'isrna1', 'isrna2',
+                           'oxrna', 'rna-jp', 'simrna', 'spqr', 'toprna', 'vfold', 'generic'}
+    assert len(MODELS) == 12  # 11 CG modes + generic.
 
 
 def test_inventory_cli_readme_examples_outputs_and_coverage_agree():
@@ -25,16 +29,13 @@ def test_inventory_cli_readme_examples_outputs_and_coverage_agree():
     commands = json.loads((ROOT / 'docs/example_commands.json').read_text())
     report = json.loads((ROOT / 'docs/validation_report.json').read_text())
     readme = (ROOT / 'README.md').read_text()
-    assert {entry['mode'] for entry in inventory.values()} == set(MODELS)
-    assert {entry['mode'] for entry in report['modes']} == set(MODELS)
-    assert {entry['mode'] for entry in commands} == {m for m, model in MODELS.items() if not model.blocker}
+    removed = {'nast', 'yup', 'nares-2p'}
+    assert {entry['mode'] for entry in inventory.values()} - removed == set(MODELS)
+    assert {entry['mode'] for entry in report['modes']} - removed == set(MODELS)
+    assert {entry['mode'] for entry in commands} == set(MODELS)
     from Bio.PDB import PDBParser
     for mode, model in MODELS.items():
         assert f'`{mode}`' in readme
-        if model.blocker:
-            row = next(r for r in report['modes'] if r['mode'] == mode)
-            assert row['outputs'] == [] and row['blocker'] == model.blocker
-            continue
         examples = [entry for entry in commands if entry['mode'] == mode]
         documented = [shlex.split(line) for line in readme.splitlines() if line.startswith('cgcomp -i ')]
         def options(command):
@@ -60,23 +61,6 @@ def test_mapping_against_every_supplied_atomic_residue(mode):
         assert sites.keys() == bead.sites.keys()
         for name, xyz in sites.items():
             assert np.linalg.norm(xyz - bead.sites[name]) < .0015
-
-
-def test_nares_midpoints_and_orientation_ambiguity(fragments):
-    residues = parse_input('nares-2p', ROOT / 'CG_models/exp_Nares-2P.pdb')
-    for previous, current in zip(residues, residues[1:]):
-        assert np.linalg.norm(current.sites['P'] - (previous.sites['S'] + current.sites['S']) / 2) < .001
-    # S-B rotation preserves both local sites, hence every inter-residue midpoint
-    # as well. It changes real atom positions, proving the inverse is not unique.
-    atoms = fragments['A']
-    sites = mapped.reference_sites('nares-2p', 'A', atoms)
-    axis = sites['B'] - sites['S']
-    axis /= np.linalg.norm(axis)
-    rotation = 2 * np.outer(axis, axis) - np.eye(3)  # Proper half-turn about S-B.
-    rotated = {n: (xyz - sites['S']) @ rotation + sites['S'] for n, xyz in atoms.items()}
-    new_sites = mapped.reference_sites('nares-2p', 'A', rotated)
-    assert all(np.allclose(new_sites[n], xyz, atol=1e-12) for n, xyz in sites.items())
-    assert np.linalg.norm(rotated['P'] - atoms['P']) > 1
 
 
 def test_ifold_archive_profile_is_not_native_ding2008():

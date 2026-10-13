@@ -147,9 +147,6 @@ def run(label):
     fragments, reference = load_fragments(), read_structure(ROOT/'CG_models/exp.pdb')
     results = {}
     for mode, model in MODELS.items():
-        if model.blocker:
-            results[mode] = dict(blocker=model.blocker)
-            continue
         ext = model.formats[0]
         source = ROOT/'CG_models'/f'{model.stem}.{ext}'
         output = dest/mode
@@ -179,12 +176,11 @@ def run(label):
     report = ROOT/'docs/reconstruction_validation'/f'{label}.json'
     report.write_text(json.dumps(results,indent=2)+'\n')
     for mode,r in results.items():
-        if 'blocker' not in r:
-            a,g = r['experimental_comparison'],r['geometry']
-            print(mode, 'fit',round(r['fit_residual']['mean'],4),'backbone',round(a['backbone_rmsd_angstrom'],3),
-                  'all',round(a['all_heavy_rmsd_angstrom'],3),'O3-P',round(g['internucleotide']['median'],3),
-                  'bond max deviation',round(g['absolute_bond_deviation']['maximum'],3),
-                  'bad bonds',g['bonds_exceeding_tolerance'])
+        a,g = r['experimental_comparison'],r['geometry']
+        print(mode, 'fit',round(r['fit_residual']['mean'],4),'backbone',round(a['backbone_rmsd_angstrom'],3),
+              'all',round(a['all_heavy_rmsd_angstrom'],3),'O3-P',round(g['internucleotide']['median'],3),
+              'bond max deviation',round(g['absolute_bond_deviation']['maximum'],3),
+              'bad bonds',g['bonds_exceeding_tolerance'])
 
 if __name__=='__main__':
     run(sys.argv[1])

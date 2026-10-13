@@ -34,8 +34,6 @@ def kabsch(source, target, center=True):
 
 
 def reconstruct(residues, fragments, mode):
-    if MODELS[mode].blocker:
-        raise ValueError(MODELS[mode].blocker)
     output, diagnostics = [], []
     for r in residues:
         atoms = fragments[r.base]

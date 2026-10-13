@@ -12,7 +12,7 @@ from conftest import ROOT
 spec = importlib.util.spec_from_file_location('geometry_audit', ROOT/'docs/validate_reconstruction.py')
 audit = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(audit)
-SUPPORTED = [m for m, model in MODELS.items() if not model.blocker]
+SUPPORTED = list(MODELS)
 
 
 def actual_input(mode):
@@ -118,12 +118,6 @@ def test_spqr_independent_phosphate_does_not_break_fragment(base, fragments):
     assert fits[0]['phosphate_site_deviation_angstrom'] == pytest.approx(np.linalg.norm([1.,-.7,.4]))
     assert fits[0]['output_site_residuals_angstrom']['SUGR'] < 1e-10
     assert np.allclose(spqr.frame_sites(base,out[0].sites),spqr.target_frame(r),atol=1e-10)
-
-
-@pytest.mark.parametrize('mode', ['nares-2p','nast','yup'])
-def test_missing_orientation_stays_blocked_for_geometry(mode, fragments):
-    with pytest.raises(ValueError, match='unconstrained|undetermined'):
-        reconstruct(actual_input(mode),fragments,mode)
 
 
 @pytest.mark.parametrize('mode', SUPPORTED)

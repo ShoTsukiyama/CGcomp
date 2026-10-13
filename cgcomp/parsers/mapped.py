@@ -42,7 +42,7 @@ def atomic_names(mode, base):
         return ('P', "C4'", 'N9' if base in 'AG' else 'N1')
     if mode in ('simrna', 'rna-jp'):
         return ('P', "C4'", 'N9', 'C6', 'C2') if base in 'AG' else ('P', "C4'", 'N1', 'C2', 'C4')
-    return ('P',) if mode == 'yup' else ("C3'",) if mode == 'nast' else ()
+    return ()
 
 
 def reference_sites(mode, base, atoms):
@@ -61,12 +61,6 @@ def reference_sites(mode, base, atoms):
         return {'P': center(atoms, ('P', 'OP1', 'OP2'), True),
                 'S': center(atoms, (*SUGAR_RING, "C5'", "O3'", "O2'"), True),
                 'B': center(atoms, PURINE_RING if base in 'AG' else (*PYRIMIDINE_RING, 'O2'), True)}
-    if mode == 'nares-2p':
-        # P depends on a neighboring sugar, so cannot be a local fragment site.
-        # Recording S/B is useful for proving the missing rotational constraint.
-        return {'S': center(atoms, (*SUGAR_RING, "C5'", "O5'", "O3'", "O2'")),
-                'B': center(atoms, PURINE_RING if base in 'AG' else
-                            (*PYRIMIDINE_RING, 'O2', 'N4' if base == 'C' else 'O4'))}
     return {n: atoms[n] for n in atomic_names(mode, base)}
 
 
@@ -76,7 +70,7 @@ def real_atom_sites(mode, residue):
         return {'P': residue.sites['P'], "C4'": residue.sites['S']}
     if mode == 'toprna':
         return {'P': residue.sites['P']}
-    if mode in ('ifoldrna', 'nares-2p'):
+    if mode == 'ifoldrna':
         return {}  # Even the P-labeled bead is NOT a phosphorus atom here.
     if mode == 'hire-rna':
         return {n: p for n, p in residue.sites.items() if n not in ('B1', 'B2')}
@@ -88,7 +82,7 @@ def parse(path, mode):
     for r in residues:
         if mode in ('isrna1', 'isrna2'):
             expected = {'P', 'S', *GROUPS[mode][r.base]}
-        elif mode in ('ifoldrna', 'toprna', 'nares-2p'):
+        elif mode in ('ifoldrna', 'toprna'):
             expected = {'P', 'S', 'B'}
         else:
             expected = set(atomic_names(mode, r.base))
@@ -98,4 +92,4 @@ def parse(path, mode):
 
 
 PARSERS = {mode: partial(parse, mode=mode) for mode in
-           ('vfold', 'febrna', 'rna-jp', 'toprna', 'ifoldrna', 'isrna1', 'isrna2', 'yup', 'nast', 'nares-2p')}
+           ('vfold', 'febrna', 'rna-jp', 'toprna', 'ifoldrna', 'isrna1', 'isrna2')}
