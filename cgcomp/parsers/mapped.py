@@ -2,7 +2,8 @@
 
 COM means mass-weighted heavy-atom center. Geometric averages are explicitly
 separate. iFoldRNA's supplied export groups differ from the original native
-three-bead definition; only the audited archive profile is implemented.
+three-bead definition; the audited archive profile is the RNAgrainy-compatible
+default. Native publication profiles remain distinct and are not implemented.
 """
 from functools import partial
 import numpy as np

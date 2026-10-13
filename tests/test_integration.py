@@ -32,8 +32,6 @@ def test_installed_cli_actual_archive_models(mode, stem, ext, tmp_path, fragment
     input_file = ROOT / 'CG_models' / f'{stem}.{ext}'
     output = tmp_path / 'output'
     options = ['--topology', ROOT / 'examples/auxiliary/exp_oxRNA.top'] if mode == 'oxrna' else []
-    if mode in ('ifoldrna', 'toprna'):
-        options += ['--bead-profile', 'archive']
     completed = run_cli(['--input', input_file, '--mode', mode, '--output', output, *options], tmp_path)
     assert completed.returncode == 0, completed.stderr
     cg = parse_input(mode, input_file, ROOT / 'examples/auxiliary/exp_oxRNA.top' if mode == 'oxrna' else None)
@@ -152,8 +150,7 @@ def test_equivalent_pdb_cif_and_mmcif(mode, tmp_path):
     mmcif.write_bytes((ROOT / 'CG_models' / f'{model.stem}.cif').read_bytes())
     for i, source in enumerate((ROOT / 'CG_models' / f'{model.stem}.pdb', ROOT / 'CG_models' / f'{model.stem}.cif', mmcif)):
         directory = tmp_path / str(i)
-        options = ['--bead-profile', 'archive'] if mode in ('ifoldrna', 'toprna') else []
-        result = run_cli(['-i', source, '-m', mode, '-o', directory, *options], tmp_path)
+        result = run_cli(['-i', source, '-m', mode, '-o', directory], tmp_path)
         assert result.returncode == 0, result.stderr
         s = PDBParser(QUIET=True).get_structure('output', directory / 'all_atom.pdb')
         outputs.append(np.array([a.coord for a in s.get_atoms()]))
@@ -168,10 +165,18 @@ def test_oxrna_cli_requires_topology(tmp_path):
 
 
 @pytest.mark.parametrize('mode', ['ifoldrna', 'toprna'])
-def test_archive_profile_must_be_explicit(mode, tmp_path):
-    result = run_cli(['-i', ROOT / 'CG_models' / (MODELS[mode].stem + '.pdb'), '-m', mode, '-o', tmp_path / 'out'], tmp_path)
-    assert result.returncode == 2 and '--bead-profile archive' in result.stderr
-    assert not (tmp_path / 'out').exists()
+def test_default_matches_previous_archive_profile(mode, tmp_path):
+    args = ['-i', ROOT / 'CG_models' / (MODELS[mode].stem + '.pdb'), '-m', mode]
+    default, explicit = tmp_path / 'default', tmp_path / 'explicit'
+    for directory, options in [(default, []), (explicit, ['--bead-profile', 'archive'])]:
+        result = run_cli([*args, '-o', directory, *options], tmp_path)
+        assert result.returncode == 0, result.stderr
+    for name in ('backbone.pdb', 'all_atom.pdb', 'fit_report.json'):
+        assert (default / name).read_bytes() == (explicit / name).read_bytes()
+    # Preserved results were generated before the default changed.
+    for name in ('backbone.pdb', 'all_atom.pdb'):
+        previous = ROOT / 'examples/reconstructed' / mode / 'pdb' / name
+        assert (default / name).read_bytes() == previous.read_bytes()
 
 
 def test_dat_is_not_silently_parsed_as_another_mode(tmp_path):

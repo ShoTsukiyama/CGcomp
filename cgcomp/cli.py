@@ -16,7 +16,7 @@ def main(argv=None):
     parser.add_argument('-o', '--output', help='Output directory')
     parser.add_argument('--list-modes', action='store_true', help='List formats, auxiliary inputs, reconstruction status, and profiles')
     parser.add_argument('--topology', help='Matching native topology, required by oxrna')
-    parser.add_argument('--bead-profile', choices=['archive'], help='Required for ifoldrna/toprna: explicitly select the audited archive export definitions, which differ from the native publications')
+    parser.add_argument('--bead-profile', choices=['archive'], help='Optional for ifoldrna/toprna: archive is the default RNAgrainy-compatible mapping; native publication definitions differ')
     parser.add_argument('--fragments', help='Directory containing A.pdb/U.pdb/G.pdb/C.pdb')
     parser.add_argument('--sequence', help='Optional FASTA used to verify the input sequence')
     args = parser.parse_args(argv)
@@ -30,8 +30,6 @@ def main(argv=None):
     if not all((args.input, args.mode, args.output)):
         parser.error('--input, --mode, and --output are required unless --list-modes is used')
     try:
-        if args.mode in ('ifoldrna', 'toprna') and args.bead_profile != 'archive':
-            raise ValueError(f'{args.mode} requires --bead-profile archive: the supplied export differs from the published native bead definition; see --list-modes and README')
         if args.bead_profile and args.mode not in ('ifoldrna', 'toprna'):
             raise ValueError('--bead-profile is only applicable to ifoldrna/toprna')
         if Path(args.input).suffix.lower().lstrip('.') not in MODELS[args.mode].formats:

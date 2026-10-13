@@ -1,7 +1,6 @@
 import json
 import shlex
 from pathlib import Path
-import zipfile
 import numpy as np
 import pytest
 from cgcomp.models import MODELS
@@ -12,9 +11,9 @@ from conftest import ROOT
 
 
 def test_complete_archive_model_catalog():
-    with zipfile.ZipFile(ROOT / 'CG_models.zip') as archive:
-        stems = {Path(n).stem for n in archive.namelist()
-                 if not n.startswith('__MACOSX/') and Path(n).suffix in ('.pdb', '.cif', '.dat')}
+    # Inputs are top-level files; *_full.pdb directories hold generated outputs.
+    stems = {path.stem for path in (ROOT / 'CG_models').iterdir()
+             if path.is_file() and path.suffix in ('.pdb', '.cif', '.dat')}
     assert stems == {model.stem for model in MODELS.values()}
     inventory = json.loads((ROOT / 'docs/model_inventory.json').read_text())
     assert len(inventory['models']) == len(MODELS) == 15
@@ -39,7 +38,10 @@ def test_inventory_cli_readme_examples_outputs_and_coverage_agree():
         examples = [entry for entry in commands if entry['mode'] == mode]
         documented = [shlex.split(line) for line in readme.splitlines() if line.startswith('cgcomp -i ')]
         def options(command):
-            return dict(zip(command[1::2], command[2::2]))
+            result = dict(zip(command[1::2], command[2::2]))
+            if mode in ('ifoldrna', 'toprna'):
+                result.pop('--bead-profile', None)  # Historical manifest uses the now-default archive mapping.
+            return result
         assert any(options(entry['command']) == options(command) for entry in examples for command in documented)
         for entry in examples:
             for name, atoms in [('backbone.pdb', 1224), ('all_atom.pdb', 2181)]:

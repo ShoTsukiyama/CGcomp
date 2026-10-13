@@ -1,4 +1,5 @@
-import zipfile
+import hashlib
+import json
 import numpy as np
 import pytest
 from Bio.PDB import PDBParser
@@ -11,14 +12,26 @@ from conftest import ROOT
 
 
 def test_original_data_and_bundled_fragments_unchanged():
-    for archive in ('CG_models.zip', 'single_nucleotide_fragments.zip'):
-        with zipfile.ZipFile(ROOT / archive) as z:
-            for item in z.infolist():
-                if item.is_dir() or item.filename.startswith('__MACOSX/'):
-                    continue
-                assert (ROOT / item.filename).read_bytes() == z.read(item)
+    inventory = json.loads((ROOT / 'docs/input_inventory.json').read_text())
+    for item in inventory:
+        data = (ROOT / item['file']).read_bytes()
+        assert len(data) == item['bytes'], item['file']
+        assert hashlib.sha256(data).hexdigest() == item['sha256'], item['file']
+    # The recorded member sizes and bundled copies also cover the fragment README.
+    members = json.loads((ROOT / 'docs/archive_inventory.json').read_text())['single_nucleotide_fragments.zip']['members']
+    for item in members:
+        if item['name'].endswith('/'):
+            continue
+        source = ROOT / item['name']
+        data = source.read_bytes()
+        assert len(data) == item['bytes'], item['name']
+        assert data == (ROOT / 'cgcomp/data/fragments' / source.name).read_bytes()
     for base in 'AUGC':
         assert (ROOT / 'single_nucleotide_fragments' / (base + '.pdb')).read_bytes() == (ROOT / 'cgcomp/data/fragments' / (base + '.pdb')).read_bytes()
+    recorded = json.loads((ROOT / 'docs/validation_report.json').read_text())['structural_validation']['preservation_checks']['fragments']
+    for item in recorded:
+        data = (ROOT / 'single_nucleotide_fragments' / (item['base'] + '.pdb')).read_bytes()
+        assert hashlib.sha256(data).hexdigest() == item['original_sha256'], item['base']
 
 
 def test_fragment_loading(fragments):
