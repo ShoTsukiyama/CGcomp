@@ -1,0 +1,16 @@
+CG model	Mode	Input format	Input residues	Backbone output	Full-atom output	Test result	Blocker
+FebRNA	febrna	pdb/cif/mmcif	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+HiRE-RNA	hire-rna	pdb/cif/mmcif	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+iFoldRNA	ifoldrna	pdb/cif/mmcif	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+isRNA1	isrna1	pdb/cif/mmcif	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+isRNA2	isrna2	pdb/cif/mmcif	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+Nares-2P	nares-2p	pdb/cif/mmcif	102	not generated	not generated	unsupported; actual-input rejection verified	NARES-2P P is a midpoint between adjacent S sites, not an intra-nucleotide atomic landmark. S and B supply only two independent local points; rotation about S-B is unconstrained. A base normal or a third intra-nucleotide landmark is required.
+NAST	nast	pdb/cif/mmcif	102	not generated	not generated	unsupported; actual-input rejection verified	NAST supplies only C3' per nucleotide and no orientation. Three rotational degrees of freedom remain undetermined; two additional non-collinear intra-nucleotide landmarks or an authoritative oriented frame are required.
+oxRNA	oxrna	dat	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+RNA-JP	rna-jp	pdb/cif/mmcif	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+SimRNA	simrna	pdb/cif/mmcif	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+SPQR	spqr	pdb	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+TopRNA	toprna	pdb/cif/mmcif	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+VFold	vfold	pdb/cif/mmcif	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none
+YUP	yup	pdb/cif/mmcif	102	not generated	not generated	unsupported; actual-input rejection verified	The supplied YUP export contains only one P site per nucleotide and no orientation. Three rotational degrees of freedom remain undetermined; two additional non-collinear intra-nucleotide landmarks or an authoritative oriented frame are required.
+Generic atomic RNA	generic	pdb/cif/mmcif	102	1224 atoms	2181 atoms	passed installed CLI, independent PDB/constraint validation	none

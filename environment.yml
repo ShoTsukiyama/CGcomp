@@ -1,0 +1,10 @@
+name: cgcomp
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - numpy>=1.23
+  - biopython>=1.81
+  - pytest>=7
+  - pip

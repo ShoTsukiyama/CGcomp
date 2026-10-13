@@ -1,0 +1,327 @@
+[
+  {
+    "mode": "febrna",
+    "input": "CG_models/exp_FebRNA.cif",
+    "output": "examples/reconstructed/febrna/cif",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_FebRNA.cif",
+      "-m",
+      "febrna",
+      "-o",
+      "examples/reconstructed/febrna/cif"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "febrna",
+    "input": "CG_models/exp_FebRNA.pdb",
+    "output": "examples/reconstructed/febrna/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_FebRNA.pdb",
+      "-m",
+      "febrna",
+      "-o",
+      "examples/reconstructed/febrna/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "hire-rna",
+    "input": "CG_models/exp_HiRE-RNA.cif",
+    "output": "examples/reconstructed/hire-rna/cif",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_HiRE-RNA.cif",
+      "-m",
+      "hire-rna",
+      "-o",
+      "examples/reconstructed/hire-rna/cif"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "hire-rna",
+    "input": "CG_models/exp_HiRE-RNA.pdb",
+    "output": "examples/reconstructed/hire-rna/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_HiRE-RNA.pdb",
+      "-m",
+      "hire-rna",
+      "-o",
+      "examples/reconstructed/hire-rna/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "ifoldrna",
+    "input": "CG_models/exp_iFoldRNA.cif",
+    "output": "examples/reconstructed/ifoldrna/cif",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_iFoldRNA.cif",
+      "-m",
+      "ifoldrna",
+      "-o",
+      "examples/reconstructed/ifoldrna/cif",
+      "--bead-profile",
+      "archive"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "ifoldrna",
+    "input": "CG_models/exp_iFoldRNA.pdb",
+    "output": "examples/reconstructed/ifoldrna/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_iFoldRNA.pdb",
+      "-m",
+      "ifoldrna",
+      "-o",
+      "examples/reconstructed/ifoldrna/pdb",
+      "--bead-profile",
+      "archive"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "isrna1",
+    "input": "CG_models/exp_isRNA1.cif",
+    "output": "examples/reconstructed/isrna1/cif",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_isRNA1.cif",
+      "-m",
+      "isrna1",
+      "-o",
+      "examples/reconstructed/isrna1/cif"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "isrna1",
+    "input": "CG_models/exp_isRNA1.pdb",
+    "output": "examples/reconstructed/isrna1/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_isRNA1.pdb",
+      "-m",
+      "isrna1",
+      "-o",
+      "examples/reconstructed/isrna1/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "isrna2",
+    "input": "CG_models/exp_isRNA2.cif",
+    "output": "examples/reconstructed/isrna2/cif",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_isRNA2.cif",
+      "-m",
+      "isrna2",
+      "-o",
+      "examples/reconstructed/isrna2/cif"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "isrna2",
+    "input": "CG_models/exp_isRNA2.pdb",
+    "output": "examples/reconstructed/isrna2/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_isRNA2.pdb",
+      "-m",
+      "isrna2",
+      "-o",
+      "examples/reconstructed/isrna2/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "oxrna",
+    "input": "CG_models/exp_oxRNA.dat",
+    "output": "examples/reconstructed/oxrna/dat",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_oxRNA.dat",
+      "-m",
+      "oxrna",
+      "-o",
+      "examples/reconstructed/oxrna/dat",
+      "--topology",
+      "examples/auxiliary/exp_oxRNA.top"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "rna-jp",
+    "input": "CG_models/exp_RNA-JP.cif",
+    "output": "examples/reconstructed/rna-jp/cif",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_RNA-JP.cif",
+      "-m",
+      "rna-jp",
+      "-o",
+      "examples/reconstructed/rna-jp/cif"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "rna-jp",
+    "input": "CG_models/exp_RNA-JP.pdb",
+    "output": "examples/reconstructed/rna-jp/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_RNA-JP.pdb",
+      "-m",
+      "rna-jp",
+      "-o",
+      "examples/reconstructed/rna-jp/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "simrna",
+    "input": "CG_models/exp_SimRNA.cif",
+    "output": "examples/reconstructed/simrna/cif",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_SimRNA.cif",
+      "-m",
+      "simrna",
+      "-o",
+      "examples/reconstructed/simrna/cif"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "simrna",
+    "input": "CG_models/exp_SimRNA.pdb",
+    "output": "examples/reconstructed/simrna/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_SimRNA.pdb",
+      "-m",
+      "simrna",
+      "-o",
+      "examples/reconstructed/simrna/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "spqr",
+    "input": "CG_models/exp_SPQR.pdb",
+    "output": "examples/reconstructed/spqr/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_SPQR.pdb",
+      "-m",
+      "spqr",
+      "-o",
+      "examples/reconstructed/spqr/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "toprna",
+    "input": "CG_models/exp_TopRNA.cif",
+    "output": "examples/reconstructed/toprna/cif",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_TopRNA.cif",
+      "-m",
+      "toprna",
+      "-o",
+      "examples/reconstructed/toprna/cif",
+      "--bead-profile",
+      "archive"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "toprna",
+    "input": "CG_models/exp_TopRNA.pdb",
+    "output": "examples/reconstructed/toprna/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_TopRNA.pdb",
+      "-m",
+      "toprna",
+      "-o",
+      "examples/reconstructed/toprna/pdb",
+      "--bead-profile",
+      "archive"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "vfold",
+    "input": "CG_models/exp_VFold.cif",
+    "output": "examples/reconstructed/vfold/cif",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_VFold.cif",
+      "-m",
+      "vfold",
+      "-o",
+      "examples/reconstructed/vfold/cif"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "vfold",
+    "input": "CG_models/exp_VFold.pdb",
+    "output": "examples/reconstructed/vfold/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_VFold.pdb",
+      "-m",
+      "vfold",
+      "-o",
+      "examples/reconstructed/vfold/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "mode": "generic",
+    "input": "CG_models/exp.pdb",
+    "output": "examples/reconstructed/generic/pdb",
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp.pdb",
+      "-m",
+      "generic",
+      "-o",
+      "examples/reconstructed/generic/pdb"
+    ],
+    "returncode": 0
+  }
+]

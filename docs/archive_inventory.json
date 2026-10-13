@@ -1,0 +1,260 @@
+{
+  "CG_models.zip": {
+    "sha256": "815f0479fce33d8515ee7608624b5d92aba4f0cc7d5a1dd348349714045f9b3f",
+    "members": [
+      {
+        "name": "CG_models/",
+        "bytes": 0
+      },
+      {
+        "name": "CG_models/exp_VFold.cif",
+        "bytes": 44916
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_VFold.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp.pdb",
+        "bytes": 172324
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp.pdb",
+        "bytes": 176
+      },
+      {
+        "name": "CG_models/exp_VFold.pdb",
+        "bytes": 49754
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_VFold.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_YUP.cif",
+        "bytes": 15872
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_YUP.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_YUP.pdb",
+        "bytes": 16704
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_YUP.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/.DS_Store",
+        "bytes": 8196
+      },
+      {
+        "name": "__MACOSX/CG_models/._.DS_Store",
+        "bytes": 120
+      },
+      {
+        "name": "CG_models/exp_Nares-2P.pdb",
+        "bytes": 49757
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_Nares-2P.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_Nares-2P.cif",
+        "bytes": 46913
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_Nares-2P.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_HiRE-RNA.cif",
+        "bytes": 99961
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_HiRE-RNA.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_HiRE-RNA.pdb",
+        "bytes": 108563
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_HiRE-RNA.pdb",
+        "bytes": 441
+      },
+      {
+        "name": "CG_models/exp_NAST.cif",
+        "bytes": 17089
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_NAST.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_iFoldRNA.pdb",
+        "bytes": 49757
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_iFoldRNA.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_iFoldRNA.cif",
+        "bytes": 47512
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_iFoldRNA.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_NAST.pdb",
+        "bytes": 16705
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_NAST.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_FebRNA.cif",
+        "bytes": 44918
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_FebRNA.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_SPQR.pdb",
+        "bytes": 28690
+      },
+      {
+        "name": "CG_models/exp_FebRNA.pdb",
+        "bytes": 49755
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_FebRNA.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_TopRNA.pdb",
+        "bytes": 49755
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_TopRNA.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_isRNA2.cif",
+        "bytes": 86303
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_isRNA2.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_TopRNA.cif",
+        "bytes": 45580
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_TopRNA.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_isRNA2.pdb",
+        "bytes": 82803
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_isRNA2.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_isRNA1.cif",
+        "bytes": 75526
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_isRNA1.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_oxRNA.dat",
+        "bytes": 17804
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_oxRNA.dat",
+        "bytes": 176
+      },
+      {
+        "name": "CG_models/exp_RNA-JP.pdb",
+        "bytes": 82803
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_RNA-JP.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_RNA-JP.cif",
+        "bytes": 80210
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_RNA-JP.cif",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_isRNA1.pdb",
+        "bytes": 75513
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_isRNA1.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_SimRNA.pdb",
+        "bytes": 82803
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_SimRNA.pdb",
+        "bytes": 385
+      },
+      {
+        "name": "CG_models/exp_SimRNA.cif",
+        "bytes": 80210
+      },
+      {
+        "name": "__MACOSX/CG_models/._exp_SimRNA.cif",
+        "bytes": 385
+      }
+    ]
+  },
+  "single_nucleotide_fragments.zip": {
+    "sha256": "9737bfc237320805c877fd7a33f41fbb876d01483ea35b42cf1aaa2987bd3ee5",
+    "members": [
+      {
+        "name": "single_nucleotide_fragments/",
+        "bytes": 0
+      },
+      {
+        "name": "single_nucleotide_fragments/A.pdb",
+        "bytes": 1813
+      },
+      {
+        "name": "single_nucleotide_fragments/U.pdb",
+        "bytes": 1651
+      },
+      {
+        "name": "single_nucleotide_fragments/C.pdb",
+        "bytes": 1651
+      },
+      {
+        "name": "single_nucleotide_fragments/G.pdb",
+        "bytes": 1894
+      },
+      {
+        "name": "single_nucleotide_fragments/README.md",
+        "bytes": 1991
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_FebRNA.pdb",
+      "-m",
+      "febrna",
+      "-o",
+      "examples/reconstructed/febrna/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_HiRE-RNA.cif",
+      "-m",
+      "hire-rna",
+      "-o",
+      "examples/reconstructed/hire-rna/cif"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_iFoldRNA.pdb",
+      "-m",
+      "ifoldrna",
+      "--bead-profile",
+      "archive",
+      "-o",
+      "examples/reconstructed/ifoldrna/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_isRNA1.pdb",
+      "-m",
+      "isrna1",
+      "-o",
+      "examples/reconstructed/isrna1/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_isRNA2.pdb",
+      "-m",
+      "isrna2",
+      "-o",
+      "examples/reconstructed/isrna2/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_oxRNA.dat",
+      "-m",
+      "oxrna",
+      "--topology",
+      "examples/auxiliary/exp_oxRNA.top",
+      "-o",
+      "examples/reconstructed/oxrna/dat"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_RNA-JP.pdb",
+      "-m",
+      "rna-jp",
+      "-o",
+      "examples/reconstructed/rna-jp/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_SimRNA.pdb",
+      "-m",
+      "simrna",
+      "-o",
+      "examples/reconstructed/simrna/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_SPQR.pdb",
+      "-m",
+      "spqr",
+      "-o",
+      "examples/reconstructed/spqr/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_TopRNA.pdb",
+      "-m",
+      "toprna",
+      "--bead-profile",
+      "archive",
+      "-o",
+      "examples/reconstructed/toprna/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp_VFold.pdb",
+      "-m",
+      "vfold",
+      "-o",
+      "examples/reconstructed/vfold/pdb"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "cgcomp",
+      "-i",
+      "CG_models/exp.pdb",
+      "-m",
+      "generic",
+      "-o",
+      "examples/reconstructed/generic/pdb"
+    ],
+    "returncode": 0
+  }
+]

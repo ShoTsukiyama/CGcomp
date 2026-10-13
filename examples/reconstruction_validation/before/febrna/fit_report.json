@@ -1,0 +1,1739 @@
+{
+  "mode": "febrna",
+  "residues": [
+    {
+      "chain": "A",
+      "residue": 1,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.06178944606192458,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 2,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.042816071083073115,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 3,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.04383594390602817,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 4,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.07958235442240787,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 5,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.05613169921705233,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 6,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.023713765765863783,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 7,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.03936253334613629,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 8,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.08174223738566685,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 9,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.48645383191103037,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 10,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.11693511730668711,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 11,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.06794648962189219,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 12,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.0721731474938476,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 13,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.023286283257981197,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 14,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.07527770603795432,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 15,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.0252446897989043,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 16,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.04716546595105012,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 17,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.049378829056575146,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 18,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.06437984898695864,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 19,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.07367463501615161,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 20,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.11154511207351098,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 21,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.06806457947885798,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 22,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.03340643759084127,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 23,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.07822765458596274,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 24,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.06373908383158902,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 25,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.024646304928783936,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 26,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.07933264211178503,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 27,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.059692633590468856,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 28,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.08370840653924792,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 29,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.06639629282609916,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 30,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.11522147685364785,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 31,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.10068485861051789,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 32,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.2900193486727827,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 33,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.1765533542160261,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 34,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.08992377402238139,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 35,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.0331734588452981,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 36,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.03871701560380877,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 37,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.08421300413670625,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 38,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.18780125392951685,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 39,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.48582507164770145,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 40,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.0211357958748987,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 41,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.040419212410788746,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 42,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.07144102853150953,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 43,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.05283431568635293,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 44,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.03506866056422901,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 45,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.0448045043490774,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 46,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.2375968548389726,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 47,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.2879812533273655,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 48,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.047477358609225064,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 49,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.039089685257541744,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 50,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.05211140038120783,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 51,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.07552562975392374,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 52,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.055688869812691714,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 53,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.09178321313776813,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 54,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.048963289003897216,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 55,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.039012784118304625,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 56,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.04878319057236794,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 57,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.0552564064760812,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 58,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.4257367883136325,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 59,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.2568625416736305,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 60,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.08102419601320977,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 61,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.1273957108507886,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 62,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.09891327667324493,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 63,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.09199618926920658,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 64,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.1298534723438743,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 65,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.05270947007854846,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 66,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.0679593848264908,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 67,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.03056829383334571,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 68,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.09920991478152968,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 69,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.06695802377990925,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 70,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.06536757855705323,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 71,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.04356916072741343,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 72,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.015815749077263623,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 73,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.024557306211276397,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 74,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.043343855401815824,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 75,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.23746033760079305,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 76,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.035287791059095845,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 77,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.28231924601301156,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 78,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.20265506871701955,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 79,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.07287733459152744,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 80,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.3688719573238184,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 81,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.08240461557964247,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 82,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.2735069565969156,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 83,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.11315284329328894,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 84,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.09096853250387718,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 85,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.032819998457362956,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 86,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.10599348457411269,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 87,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.05000191738834692,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 88,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.052354624435335076,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 89,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.04645534521122797,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 90,
+      "base": "U",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.038427922424997554,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 91,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.5924335506082968,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 92,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.181877530225708,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 93,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.15668233618493896,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 94,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.17929702782416695,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 95,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.06006634337641518,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 96,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.058832055949013154,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 97,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.05704319536310658,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 98,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.019490811556932237,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 99,
+      "base": "A",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.024740386218270988,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 100,
+      "base": "G",
+      "constraints": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "fit_rmsd_angstrom": 0.027953876639384926,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N9": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 101,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.05758410278692736,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 102,
+      "base": "C",
+      "constraints": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "fit_rmsd_angstrom": 0.10587415334735105,
+      "mapping_profile": "named atomic sites",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0
+      }
+    }
+  ]
+}

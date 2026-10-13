@@ -1,0 +1,379 @@
+data_exp_YUP
+_entry.id exp_YUP
+
+loop_
+_entity.id
+_entity.type
+A polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+A polyribonucleotide A GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+Axp A
+
+loop_
+_struct_conn.id
+_struct_conn.conn_type_id
+_struct_conn.ptnr1_label_asym_id
+_struct_conn.ptnr1_label_comp_id
+_struct_conn.ptnr1_label_seq_id
+_struct_conn.ptnr1_label_atom_id
+_struct_conn.pdbx_ptnr1_label_alt_id
+_struct_conn.ptnr1_auth_asym_id
+_struct_conn.ptnr1_auth_seq_id
+_struct_conn.pdbx_ptnr1_PDB_ins_code
+_struct_conn.ptnr1_symmetry
+_struct_conn.ptnr2_label_asym_id
+_struct_conn.ptnr2_label_comp_id
+_struct_conn.ptnr2_label_seq_id
+_struct_conn.ptnr2_label_atom_id
+_struct_conn.pdbx_ptnr2_label_alt_id
+_struct_conn.ptnr2_auth_asym_id
+_struct_conn.ptnr2_auth_seq_id
+_struct_conn.pdbx_ptnr2_PDB_ins_code
+_struct_conn.ptnr2_symmetry
+_struct_conn.details
+_struct_conn.pdbx_dist_value
+1 covale Axp G 1 P ? A 1 ? 1_555 Axp C 2 P ? A 2 ? 1_555 ? 5.9743
+2 covale Axp C 2 P ? A 2 ? 1_555 Axp U 3 P ? A 3 ? 1_555 ? 6.0043
+3 covale Axp U 3 P ? A 3 ? 1_555 Axp C 4 P ? A 4 ? 1_555 ? 5.9858
+4 covale Axp C 4 P ? A 4 ? 1_555 Axp U 5 P ? A 5 ? 1_555 ? 5.9352
+5 covale Axp U 5 P ? A 5 ? 1_555 Axp G 6 P ? A 6 ? 1_555 ? 5.9039
+6 covale Axp G 6 P ? A 6 ? 1_555 Axp G 7 P ? A 7 ? 1_555 ? 5.8743
+7 covale Axp G 7 P ? A 7 ? 1_555 Axp U 8 P ? A 8 ? 1_555 ? 5.7192
+8 covale Axp U 8 P ? A 8 ? 1_555 Axp A 9 P ? A 9 ? 1_555 ? 6.0149
+9 covale Axp A 9 P ? A 9 ? 1_555 Axp A 10 P ? A 10 ? 1_555 ? 4.7249
+10 covale Axp A 10 P ? A 10 ? 1_555 Axp C 11 P ? A 11 ? 1_555 ? 5.9967
+11 covale Axp C 11 P ? A 11 ? 1_555 Axp U 12 P ? A 12 ? 1_555 ? 5.7951
+12 covale Axp U 12 P ? A 12 ? 1_555 Axp A 13 P ? A 13 ? 1_555 ? 5.6584
+13 covale Axp A 13 P ? A 13 ? 1_555 Axp G 14 P ? A 14 ? 1_555 ? 5.8592
+14 covale Axp G 14 P ? A 14 ? 1_555 Axp A 15 P ? A 15 ? 1_555 ? 5.8400
+15 covale Axp A 15 P ? A 15 ? 1_555 Axp G 16 P ? A 16 ? 1_555 ? 5.8218
+16 covale Axp G 16 P ? A 16 ? 1_555 Axp A 17 P ? A 17 ? 1_555 ? 6.0213
+17 covale Axp A 17 P ? A 17 ? 1_555 Axp U 18 P ? A 18 ? 1_555 ? 6.2877
+18 covale Axp U 18 P ? A 18 ? 1_555 Axp C 19 P ? A 19 ? 1_555 ? 6.1482
+19 covale Axp C 19 P ? A 19 ? 1_555 Axp C 20 P ? A 20 ? 1_555 ? 5.8652
+20 covale Axp C 20 P ? A 20 ? 1_555 Axp C 21 P ? A 21 ? 1_555 ? 5.7107
+21 covale Axp C 21 P ? A 21 ? 1_555 Axp U 22 P ? A 22 ? 1_555 ? 5.7436
+22 covale Axp U 22 P ? A 22 ? 1_555 Axp C 23 P ? A 23 ? 1_555 ? 5.7675
+23 covale Axp C 23 P ? A 23 ? 1_555 Axp A 24 P ? A 24 ? 1_555 ? 5.9814
+24 covale Axp A 24 P ? A 24 ? 1_555 Axp G 25 P ? A 25 ? 1_555 ? 6.0897
+25 covale Axp G 25 P ? A 25 ? 1_555 Axp A 26 P ? A 26 ? 1_555 ? 5.6322
+26 covale Axp A 26 P ? A 26 ? 1_555 Axp C 27 P ? A 27 ? 1_555 ? 5.9270
+27 covale Axp C 27 P ? A 27 ? 1_555 Axp C 28 P ? A 28 ? 1_555 ? 5.9229
+28 covale Axp C 28 P ? A 28 ? 1_555 Axp C 29 P ? A 29 ? 1_555 ? 5.9640
+29 covale Axp C 29 P ? A 29 ? 1_555 Axp U 30 P ? A 30 ? 1_555 ? 6.0966
+30 covale Axp U 30 P ? A 30 ? 1_555 Axp U 31 P ? A 31 ? 1_555 ? 7.4925
+31 covale Axp U 31 P ? A 31 ? 1_555 Axp U 32 P ? A 32 ? 1_555 ? 6.0876
+32 covale Axp U 32 P ? A 32 ? 1_555 Axp U 33 P ? A 33 ? 1_555 ? 6.2907
+33 covale Axp U 33 P ? A 33 ? 1_555 Axp A 34 P ? A 34 ? 1_555 ? 6.5948
+34 covale Axp A 34 P ? A 34 ? 1_555 Axp G 35 P ? A 35 ? 1_555 ? 5.7981
+35 covale Axp G 35 P ? A 35 ? 1_555 Axp U 36 P ? A 36 ? 1_555 ? 5.9362
+36 covale Axp U 36 P ? A 36 ? 1_555 Axp C 37 P ? A 37 ? 1_555 ? 5.7093
+37 covale Axp C 37 P ? A 37 ? 1_555 Axp A 38 P ? A 38 ? 1_555 ? 5.1218
+38 covale Axp A 38 P ? A 38 ? 1_555 Axp G 39 P ? A 39 ? 1_555 ? 5.3148
+39 covale Axp G 39 P ? A 39 ? 1_555 Axp U 40 P ? A 40 ? 1_555 ? 4.3876
+40 covale Axp U 40 P ? A 40 ? 1_555 Axp G 41 P ? A 41 ? 1_555 ? 5.5432
+41 covale Axp G 41 P ? A 41 ? 1_555 Axp U 42 P ? A 42 ? 1_555 ? 5.5175
+42 covale Axp U 42 P ? A 42 ? 1_555 Axp G 43 P ? A 43 ? 1_555 ? 5.4413
+43 covale Axp G 43 P ? A 43 ? 1_555 Axp G 44 P ? A 44 ? 1_555 ? 5.9583
+44 covale Axp G 44 P ? A 44 ? 1_555 Axp A 45 P ? A 45 ? 1_555 ? 5.8031
+45 covale Axp A 45 P ? A 45 ? 1_555 Axp A 46 P ? A 46 ? 1_555 ? 5.1981
+46 covale Axp A 46 P ? A 46 ? 1_555 Axp A 47 P ? A 47 ? 1_555 ? 5.7804
+47 covale Axp A 47 P ? A 47 ? 1_555 Axp A 48 P ? A 48 ? 1_555 ? 5.2186
+48 covale Axp A 48 P ? A 48 ? 1_555 Axp U 49 P ? A 49 ? 1_555 ? 5.6271
+49 covale Axp U 49 P ? A 49 ? 1_555 Axp C 50 P ? A 50 ? 1_555 ? 5.5952
+50 covale Axp C 50 P ? A 50 ? 1_555 Axp U 51 P ? A 51 ? 1_555 ? 5.9372
+51 covale Axp U 51 P ? A 51 ? 1_555 Axp C 52 P ? A 52 ? 1_555 ? 5.8467
+52 covale Axp C 52 P ? A 52 ? 1_555 Axp U 53 P ? A 53 ? 1_555 ? 5.9411
+53 covale Axp U 53 P ? A 53 ? 1_555 Axp A 54 P ? A 54 ? 1_555 ? 5.6674
+54 covale Axp A 54 P ? A 54 ? 1_555 Axp G 55 P ? A 55 ? 1_555 ? 5.7231
+55 covale Axp G 55 P ? A 55 ? 1_555 Axp C 56 P ? A 56 ? 1_555 ? 5.9475
+56 covale Axp C 56 P ? A 56 ? 1_555 Axp A 57 P ? A 57 ? 1_555 ? 5.8089
+57 covale Axp A 57 P ? A 57 ? 1_555 Axp G 58 P ? A 58 ? 1_555 ? 5.6577
+58 covale Axp G 58 P ? A 58 ? 1_555 Axp U 59 P ? A 59 ? 1_555 ? 6.3271
+59 covale Axp U 59 P ? A 59 ? 1_555 Axp G 60 P ? A 60 ? 1_555 ? 5.3336
+60 covale Axp G 60 P ? A 60 ? 1_555 Axp G 61 P ? A 61 ? 1_555 ? 6.1691
+61 covale Axp G 61 P ? A 61 ? 1_555 Axp C 62 P ? A 62 ? 1_555 ? 7.0960
+62 covale Axp C 62 P ? A 62 ? 1_555 Axp G 63 P ? A 63 ? 1_555 ? 6.2744
+63 covale Axp G 63 P ? A 63 ? 1_555 Axp C 64 P ? A 64 ? 1_555 ? 6.1013
+64 covale Axp C 64 P ? A 64 ? 1_555 Axp C 65 P ? A 65 ? 1_555 ? 6.1838
+65 covale Axp C 65 P ? A 65 ? 1_555 Axp C 66 P ? A 66 ? 1_555 ? 5.8652
+66 covale Axp C 66 P ? A 66 ? 1_555 Axp G 67 P ? A 67 ? 1_555 ? 5.8457
+67 covale Axp G 67 P ? A 67 ? 1_555 Axp A 68 P ? A 68 ? 1_555 ? 5.2586
+68 covale Axp A 68 P ? A 68 ? 1_555 Axp A 69 P ? A 69 ? 1_555 ? 5.8528
+69 covale Axp A 69 P ? A 69 ? 1_555 Axp C 70 P ? A 70 ? 1_555 ? 5.9413
+70 covale Axp C 70 P ? A 70 ? 1_555 Axp A 71 P ? A 71 ? 1_555 ? 5.8876
+71 covale Axp A 71 P ? A 71 ? 1_555 Axp G 72 P ? A 72 ? 1_555 ? 5.7032
+72 covale Axp G 72 P ? A 72 ? 1_555 Axp G 73 P ? A 73 ? 1_555 ? 5.9878
+73 covale Axp G 73 P ? A 73 ? 1_555 Axp G 74 P ? A 74 ? 1_555 ? 6.1316
+74 covale Axp G 74 P ? A 74 ? 1_555 Axp A 75 P ? A 75 ? 1_555 ? 5.9286
+75 covale Axp A 75 P ? A 75 ? 1_555 Axp C 76 P ? A 76 ? 1_555 ? 6.3204
+76 covale Axp C 76 P ? A 76 ? 1_555 Axp U 77 P ? A 77 ? 1_555 ? 5.9955
+77 covale Axp U 77 P ? A 77 ? 1_555 Axp U 78 P ? A 78 ? 1_555 ? 5.3902
+78 covale Axp U 78 P ? A 78 ? 1_555 Axp G 79 P ? A 79 ? 1_555 ? 5.8493
+79 covale Axp G 79 P ? A 79 ? 1_555 Axp A 80 P ? A 80 ? 1_555 ? 6.2310
+80 covale Axp A 80 P ? A 80 ? 1_555 Axp A 81 P ? A 81 ? 1_555 ? 5.3128
+81 covale Axp A 81 P ? A 81 ? 1_555 Axp A 82 P ? A 82 ? 1_555 ? 6.4522
+82 covale Axp A 82 P ? A 82 ? 1_555 Axp G 83 P ? A 83 ? 1_555 ? 5.7816
+83 covale Axp G 83 P ? A 83 ? 1_555 Axp C 84 P ? A 84 ? 1_555 ? 5.4601
+84 covale Axp C 84 P ? A 84 ? 1_555 Axp G 85 P ? A 85 ? 1_555 ? 5.6658
+85 covale Axp G 85 P ? A 85 ? 1_555 Axp A 86 P ? A 86 ? 1_555 ? 5.7959
+86 covale Axp A 86 P ? A 86 ? 1_555 Axp A 87 P ? A 87 ? 1_555 ? 6.0629
+87 covale Axp A 87 P ? A 87 ? 1_555 Axp A 88 P ? A 88 ? 1_555 ? 6.3862
+88 covale Axp A 88 P ? A 88 ? 1_555 Axp G 89 P ? A 89 ? 1_555 ? 5.6040
+89 covale Axp G 89 P ? A 89 ? 1_555 Axp U 90 P ? A 90 ? 1_555 ? 6.6275
+90 covale Axp U 90 P ? A 90 ? 1_555 Axp A 91 P ? A 91 ? 1_555 ? 6.4032
+91 covale Axp A 91 P ? A 91 ? 1_555 Axp A 92 P ? A 92 ? 1_555 ? 4.9592
+92 covale Axp A 92 P ? A 92 ? 1_555 Axp A 93 P ? A 93 ? 1_555 ? 6.5706
+93 covale Axp A 93 P ? A 93 ? 1_555 Axp G 94 P ? A 94 ? 1_555 ? 6.8481
+94 covale Axp G 94 P ? A 94 ? 1_555 Axp C 95 P ? A 95 ? 1_555 ? 5.1868
+95 covale Axp C 95 P ? A 95 ? 1_555 Axp C 96 P ? A 96 ? 1_555 ? 5.5714
+96 covale Axp C 96 P ? A 96 ? 1_555 Axp A 97 P ? A 97 ? 1_555 ? 5.7701
+97 covale Axp A 97 P ? A 97 ? 1_555 Axp G 98 P ? A 98 ? 1_555 ? 5.8489
+98 covale Axp G 98 P ? A 98 ? 1_555 Axp A 99 P ? A 99 ? 1_555 ? 5.9149
+99 covale Axp A 99 P ? A 99 ? 1_555 Axp G 100 P ? A 100 ? 1_555 ? 5.9155
+100 covale Axp G 100 P ? A 100 ? 1_555 Axp C 101 P ? A 101 ? 1_555 ? 5.8532
+101 covale Axp C 101 P ? A 101 ? 1_555 Axp C 102 P ? A 102 ? 1_555 ? 6.0501
+
+loop_
+_struct_conn_type.id
+covale
+
+loop_
+_entity_poly_seq.entity_id
+_entity_poly_seq.num
+_entity_poly_seq.mon_id
+_entity_poly_seq.hetero
+A 1 G ?
+A 2 C ?
+A 3 U ?
+A 4 C ?
+A 5 U ?
+A 6 G ?
+A 7 G ?
+A 8 U ?
+A 9 A ?
+A 10 A ?
+A 11 C ?
+A 12 U ?
+A 13 A ?
+A 14 G ?
+A 15 A ?
+A 16 G ?
+A 17 A ?
+A 18 U ?
+A 19 C ?
+A 20 C ?
+A 21 C ?
+A 22 U ?
+A 23 C ?
+A 24 A ?
+A 25 G ?
+A 26 A ?
+A 27 C ?
+A 28 C ?
+A 29 C ?
+A 30 U ?
+A 31 U ?
+A 32 U ?
+A 33 U ?
+A 34 A ?
+A 35 G ?
+A 36 U ?
+A 37 C ?
+A 38 A ?
+A 39 G ?
+A 40 U ?
+A 41 G ?
+A 42 U ?
+A 43 G ?
+A 44 G ?
+A 45 A ?
+A 46 A ?
+A 47 A ?
+A 48 A ?
+A 49 U ?
+A 50 C ?
+A 51 U ?
+A 52 C ?
+A 53 U ?
+A 54 A ?
+A 55 G ?
+A 56 C ?
+A 57 A ?
+A 58 G ?
+A 59 U ?
+A 60 G ?
+A 61 G ?
+A 62 C ?
+A 63 G ?
+A 64 C ?
+A 65 C ?
+A 66 C ?
+A 67 G ?
+A 68 A ?
+A 69 A ?
+A 70 C ?
+A 71 A ?
+A 72 G ?
+A 73 G ?
+A 74 G ?
+A 75 A ?
+A 76 C ?
+A 77 U ?
+A 78 U ?
+A 79 G ?
+A 80 A ?
+A 81 A ?
+A 82 A ?
+A 83 G ?
+A 84 C ?
+A 85 G ?
+A 86 A ?
+A 87 A ?
+A 88 A ?
+A 89 G ?
+A 90 U ?
+A 91 A ?
+A 92 A ?
+A 93 A ?
+A 94 G ?
+A 95 C ?
+A 96 C ?
+A 97 A ?
+A 98 G ?
+A 99 A ?
+A 100 G ?
+A 101 C ?
+A 102 C ?
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 P P . G Axp A 1 ? -3.972 14.885 -29.031 1 1 ? 1 A 1
+ATOM 2 P P . C Axp A 2 ? -7.545 17.991 -25.387 1 1 ? 2 A 1
+ATOM 3 P P . U Axp A 3 ? -11.81 18.041 -21.161 1 1 ? 3 A 1
+ATOM 4 P P . C Axp A 4 ? -14.753 15.079 -16.872 1 1 ? 4 A 1
+ATOM 5 P P . U Axp A 5 ? -15.198 10.424 -13.217 1 1 ? 5 A 1
+ATOM 6 P P . G Axp A 6 ? -13.021 5.635 -10.537 1 1 ? 6 A 1
+ATOM 7 P P . G Axp A 7 ? -8.497 2.328 -8.775 1 1 ? 7 A 1
+ATOM 8 P P . U Axp A 8 ? -3 1.351 -7.535 1 1 ? 8 A 1
+ATOM 9 P P . A Axp A 9 ? 2.856 2.565 -6.893 1 1 ? 9 A 1
+ATOM 10 P P . A Axp A 10 ? 6.242 4.13 -3.993 1 1 ? 10 A 1
+ATOM 11 P P . C Axp A 11 ? 7.213 6.804 1.286 1 1 ? 11 A 1
+ATOM 12 P P . U Axp A 12 ? 4.963 9.009 6.15 1 1 ? 12 A 1
+ATOM 13 P P . A Axp A 13 ? 1.328 8.774 10.48 1 1 ? 13 A 1
+ATOM 14 P P . G Axp A 14 ? -2.532 5.754 13.691 1 1 ? 14 A 1
+ATOM 15 P P . A Axp A 15 ? -5.184 0.762 15.158 1 1 ? 15 A 1
+ATOM 16 P P . G Axp A 16 ? -5.444 -5.054 15.143 1 1 ? 16 A 1
+ATOM 17 P P . A Axp A 17 ? -2.908 -10.379 13.931 1 1 ? 17 A 1
+ATOM 18 P P . U Axp A 18 ? 1.807 -14.066 12.005 1 1 ? 18 A 1
+ATOM 19 P P . C Axp A 19 ? 7.625 -15.093 10.303 1 1 ? 19 A 1
+ATOM 20 P P . C Axp A 20 ? 12.899 -13.495 12.311 1 1 ? 20 A 1
+ATOM 21 P P . C Axp A 21 ? 15.41 -12.932 17.409 1 1 ? 21 A 1
+ATOM 22 P P . U Axp A 22 ? 16.015 -13.846 23.047 1 1 ? 22 A 1
+ATOM 23 P P . C Axp A 23 ? 14.365 -16.363 27.967 1 1 ? 23 A 1
+ATOM 24 P P . A Axp A 24 ? 11.333 -20.649 30.833 1 1 ? 24 A 1
+ATOM 25 P P . G Axp A 25 ? 7.893 -25.674 30.831 1 1 ? 25 A 1
+ATOM 26 P P . A Axp A 26 ? 6.099 -30.502 28.552 1 1 ? 26 A 1
+ATOM 27 P P . C Axp A 27 ? 7.011 -35.19 25.042 1 1 ? 27 A 1
+ATOM 28 P P . C Axp A 28 ? 10.697 -38.631 21.935 1 1 ? 28 A 1
+ATOM 29 P P . C Axp A 29 ? 16.274 -40.547 21.043 1 1 ? 29 A 1
+ATOM 30 P P . U Axp A 30 ? 21.959 -41.094 23.176 1 1 ? 30 A 1
+ATOM 31 P P . U Axp A 31 ? 24.491 -37.798 29.41 1 1 ? 31 A 1
+ATOM 32 P P . U Axp A 32 ? 23.659 -33.611 33.75 1 1 ? 32 A 1
+ATOM 33 P P . U Axp A 33 ? 20.461 -28.318 32.597 1 1 ? 33 A 1
+ATOM 34 P P . A Axp A 34 ? 21.34 -24.73 27.134 1 1 ? 34 A 1
+ATOM 35 P P . G Axp A 35 ? 21.232 -24.008 21.382 1 1 ? 35 A 1
+ATOM 36 P P . U Axp A 36 ? 18.22 -24.738 16.319 1 1 ? 36 A 1
+ATOM 37 P P . C Axp A 37 ? 13.468 -25.403 13.225 1 1 ? 37 A 1
+ATOM 38 P P . A Axp A 38 ? 8.41 -24.924 12.577 1 1 ? 38 A 1
+ATOM 39 P P . G Axp A 39 ? 3.652 -22.628 13.157 1 1 ? 39 A 1
+ATOM 40 P P . U Axp A 40 ? 0.537 -21.765 16.124 1 1 ? 40 A 1
+ATOM 41 P P . G Axp A 41 ? -2.397 -19.461 20.224 1 1 ? 41 A 1
+ATOM 42 P P . U Axp A 42 ? -2.713 -15.877 24.407 1 1 ? 42 A 1
+ATOM 43 P P . G Axp A 43 ? -0.755 -11.284 26.57 1 1 ? 43 A 1
+ATOM 44 P P . G Axp A 44 ? 2.302 -6.187 26.15 1 1 ? 44 A 1
+ATOM 45 P P . A Axp A 45 ? 5.705 -1.905 24.211 1 1 ? 45 A 1
+ATOM 46 P P . A Axp A 46 ? 6.91 0.93 20.024 1 1 ? 46 A 1
+ATOM 47 P P . A Axp A 47 ? 6.761 3.289 14.749 1 1 ? 47 A 1
+ATOM 48 P P . A Axp A 48 ? 9.153 2.703 10.148 1 1 ? 48 A 1
+ATOM 49 P P . U Axp A 49 ? 9.638 -0.088 5.286 1 1 ? 49 A 1
+ATOM 50 P P . C Axp A 50 ? 7.144 -3.282 1.428 1 1 ? 50 A 1
+ATOM 51 P P . U Axp A 51 ? 2.029 -5.347 -0.768 1 1 ? 51 A 1
+ATOM 52 P P . C Axp A 52 ? -3.795 -5.268 -1.277 1 1 ? 52 A 1
+ATOM 53 P P . U Axp A 53 ? -8.93 -2.406 -0.418 1 1 ? 53 A 1
+ATOM 54 P P . A Axp A 54 ? -11.618 2.501 0.485 1 1 ? 54 A 1
+ATOM 55 P P . G Axp A 55 ? -11.522 8.221 0.323 1 1 ? 55 A 1
+ATOM 56 P P . C Axp A 56 ? -9.032 13.489 -0.869 1 1 ? 56 A 1
+ATOM 57 P P . A Axp A 57 ? -5.059 16.808 -3.504 1 1 ? 57 A 1
+ATOM 58 P P . G Axp A 58 ? -1.025 17.403 -7.426 1 1 ? 58 A 1
+ATOM 59 P P . U Axp A 59 ? 4.679 19.784 -8.778 1 1 ? 59 A 1
+ATOM 60 P P . G Axp A 60 ? 8.058 21.883 -12.331 1 1 ? 60 A 1
+ATOM 61 P P . G Axp A 61 ? 7.041 23.772 -18.115 1 1 ? 61 A 1
+ATOM 62 P P . C Axp A 62 ? 0.876 24.603 -21.529 1 1 ? 62 A 1
+ATOM 63 P P . G Axp A 63 ? -5.274 25.572 -22.308 1 1 ? 63 A 1
+ATOM 64 P P . C Axp A 64 ? -9.759 29.706 -22.165 1 1 ? 64 A 1
+ATOM 65 P P . C Axp A 65 ? -9.612 35.854 -22.813 1 1 ? 65 A 1
+ATOM 66 P P . C Axp A 66 ? -6.532 40.108 -25.424 1 1 ? 66 A 1
+ATOM 67 P P . G Axp A 67 ? -2.668 41.552 -29.566 1 1 ? 67 A 1
+ATOM 68 P P . A Axp A 68 ? -0.706 39.984 -34.186 1 1 ? 68 A 1
+ATOM 69 P P . A Axp A 69 ? -4.085 35.25 -33.533 1 1 ? 69 A 1
+ATOM 70 P P . C Axp A 70 ? -3.401 29.468 -32.35 1 1 ? 70 A 1
+ATOM 71 P P . A Axp A 71 ? 1.122 26.248 -30.391 1 1 ? 71 A 1
+ATOM 72 P P . G Axp A 72 ? 5.933 26.781 -27.375 1 1 ? 72 A 1
+ATOM 73 P P . G Axp A 73 ? 7.853 30.65 -23.228 1 1 ? 73 A 1
+ATOM 74 P P . G Axp A 74 ? 6.876 34.664 -18.697 1 1 ? 74 A 1
+ATOM 75 P P . A Axp A 75 ? 3.849 36.746 -14.044 1 1 ? 75 A 1
+ATOM 76 P P . C Axp A 76 ? -0.796 36.168 -9.797 1 1 ? 76 A 1
+ATOM 77 P P . U Axp A 77 ? -4.559 32.495 -6.917 1 1 ? 77 A 1
+ATOM 78 P P . U Axp A 78 ? -6.527 28.235 -4.265 1 1 ? 78 A 1
+ATOM 79 P P . G Axp A 79 ? -4.034 24.323 -0.702 1 1 ? 79 A 1
+ATOM 80 P P . A Axp A 80 ? 1.583 22.084 0.802 1 1 ? 80 A 1
+ATOM 81 P P . A Axp A 81 ? 6.789 21.971 -0.252 1 1 ? 81 A 1
+ATOM 82 P P . A Axp A 82 ? 12.31 20.534 -3.266 1 1 ? 82 A 1
+ATOM 83 P P . G Axp A 83 ? 14.389 24.059 -7.35 1 1 ? 83 A 1
+ATOM 84 P P . C Axp A 84 ? 13.735 29.282 -8.801 1 1 ? 84 A 1
+ATOM 85 P P . G Axp A 85 ? 12.292 34.428 -6.92 1 1 ? 85 A 1
+ATOM 86 P P . A Axp A 86 ? 11.572 37.234 -1.9 1 1 ? 86 A 1
+ATOM 87 P P . A Axp A 87 ? 10.32 32.662 1.88 1 1 ? 87 A 1
+ATOM 88 P P . A Axp A 88 ? 4.798 30.997 4.622 1 1 ? 88 A 1
+ATOM 89 P P . G Axp A 89 ? -0.594 30.043 3.43 1 1 ? 89 A 1
+ATOM 90 P P . U Axp A 90 ? -2.438 28.488 -2.743 1 1 ? 90 A 1
+ATOM 91 P P . A Axp A 91 ? -1.502 26.127 -8.621 1 1 ? 91 A 1
+ATOM 92 P P . A Axp A 92 ? -3.556 21.749 -9.72 1 1 ? 92 A 1
+ATOM 93 P P . A Axp A 93 ? -7.426 17.954 -13.434 1 1 ? 93 A 1
+ATOM 94 P P . G Axp A 94 ? -2.454 16.343 -17.859 1 1 ? 94 A 1
+ATOM 95 P P . C Axp A 95 ? 1.738 13.685 -19.364 1 1 ? 95 A 1
+ATOM 96 P P . C Axp A 96 ? 1.848 8.427 -21.203 1 1 ? 96 A 1
+ATOM 97 P P . A Axp A 97 ? -0.812 3.588 -22.877 1 1 ? 97 A 1
+ATOM 98 P P . G Axp A 98 ? -5.666 0.692 -24.381 1 1 ? 98 A 1
+ATOM 99 P P . A Axp A 99 ? -11.399 0.148 -25.731 1 1 ? 99 A 1
+ATOM 100 P P . G Axp A 100 ? -16.688 2.318 -27.251 1 1 ? 100 A 1
+ATOM 101 P P . C Axp A 101 ? -19.916 6.557 -29.674 1 1 ? 101 A 1
+ATOM 102 P P . C Axp A 102 ? -20.473 11.67 -32.86 1 1 ? 102 A 1

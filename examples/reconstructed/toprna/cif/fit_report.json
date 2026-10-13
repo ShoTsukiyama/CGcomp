@@ -1,0 +1,1739 @@
+{
+  "mode": "toprna",
+  "residues": [
+    {
+      "chain": "A",
+      "residue": 1,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.039520690754557254,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.028760213540965907,
+        "B": 0.029819566176521192
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 2,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0662595567951477,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0576723262904224,
+        "B": 0.09260496762373269
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 3,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.08445213889010117,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.05546160565810531,
+        "B": 0.11876894526708856
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 4,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.14433126676111893,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.05760496259439004,
+        "B": 0.19031778965950322
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 5,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10124274332950259,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.049414044690937776,
+        "B": 0.13959434090803233
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 6,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0261115179608853,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.029616562169878735,
+        "B": 0.02092446461955476
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 7,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.028270877486511855,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.03302395012498921,
+        "B": 0.027999049957482418
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 8,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.08459273824627765,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.10076596041912442,
+        "B": 0.07646427750160081
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 9,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.42088156091786,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.3458556832711733,
+        "B": 0.40320393563643037
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 10,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.13887705426634853,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.08731361141796695,
+        "B": 0.13939618341143895
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 11,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1439616300752376,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.07236210594645859,
+        "B": 0.19374616104153466
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 12,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11971180291585376,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.05569406560958334,
+        "B": 0.16134306828265538
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 13,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.017953161353465544,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.013220769114761263,
+        "B": 0.022779990288793593
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 14,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.09654613614040372,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0643375229231796,
+        "B": 0.10417414691365587
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 15,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.02225903760301482,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.012010777856363708,
+        "B": 0.026430137801071958
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 16,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.07196592721167278,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.04732250644360076,
+        "B": 0.0827962047649132
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 17,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.01806790652188017,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0232711468191093,
+        "B": 0.016081594978000064
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 18,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12344979591083077,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.04117818894096359,
+        "B": 0.16748211153510348
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 19,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.13782164232181604,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.05174749693525181,
+        "B": 0.18691306237903216
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 20,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.20065799036994458,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.09523907528026966,
+        "B": 0.2531847164825435
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 21,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12913531074657145,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.06154061103061057,
+        "B": 0.17002671691966367
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 22,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04569287972202978,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0484975631546519,
+        "B": 0.060902289949405684
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 23,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.18427952193366198,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.09618336841377839,
+        "B": 0.2446616195311102
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 24,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11535978451030889,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.07804512464338922,
+        "B": 0.13202197610279442
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 25,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.051793973074336974,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0448006787015922,
+        "B": 0.05417934211192921
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 26,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.06445126364047649,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.06356159226333434,
+        "B": 0.04539870150974283
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 27,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11798843164395065,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0650450248409189,
+        "B": 0.16289811798011744
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 28,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.16617113391961855,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.07177087702366824,
+        "B": 0.22076746556951418
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 29,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.13401164776540284,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.03941383726205618,
+        "B": 0.17740201886610404
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 30,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.09145949733990034,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0472483491281743,
+        "B": 0.12175049191751418
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 31,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0769552875295335,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.07310819762888657,
+        "B": 0.08117486376067755
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 32,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.8386575411710047,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.7837259720335853,
+        "B": 0.9424963157027589
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 33,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.4728332900788183,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.3896895096089667,
+        "B": 0.5563428045788161
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 34,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1033219785027889,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0624251410162134,
+        "B": 0.11667384993333425
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 35,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.02962912859430015,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.013643279659081303,
+        "B": 0.04112602067251456
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 36,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0533929900765938,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.06159006177096022,
+        "B": 0.06523064467960325
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 37,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.14698929204780525,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.07156522994985877,
+        "B": 0.1953162586297288
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 38,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.3769872422828931,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.3717323833526106,
+        "B": 0.39833336838993044
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 39,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.5555663904120314,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.48842855406413843,
+        "B": 0.6088865792166754
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 40,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04555616362843934,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.03257762179782767,
+        "B": 0.062180985792777026
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 41,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04869518003486937,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.05398516707276413,
+        "B": 0.044737781171596464
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 42,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0968469386712869,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.05333090623304395,
+        "B": 0.12074088125745218
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 43,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.09050124359922952,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.09523038094410409,
+        "B": 0.08878591067780504
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 44,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04924561553948104,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.03249880701007815,
+        "B": 0.05501580268775459
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 45,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.05006784086234037,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.06270672862419428,
+        "B": 0.04699044987645156
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 46,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.2470727706667117,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.295346073640693,
+        "B": 0.07548310336747363
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 47,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.3659020365848008,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.26137089394403124,
+        "B": 0.41218051512209697
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 48,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.05121575581032762,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.037270013648211926,
+        "B": 0.04553694572003504
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 49,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.07659998980728755,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.06259054441849307,
+        "B": 0.10563994834280942
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 50,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12054417105831679,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.07812497673922558,
+        "B": 0.16555275403015096
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 51,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11842500828518131,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.04472563549059194,
+        "B": 0.1589896369213774
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 52,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11195767349028367,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.051575878113041755,
+        "B": 0.15277309962296481
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 53,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.14085389795715883,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.05444792974443417,
+        "B": 0.18452643277399608
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 54,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.07075674892863666,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0496511129091785,
+        "B": 0.08019954695590377
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 55,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.06535936712371894,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.049659221802671905,
+        "B": 0.07757811722643973
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 56,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.065063395572117,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.06671705103646075,
+        "B": 0.08467255212474818
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 57,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.03779449434695906,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.028131437866540626,
+        "B": 0.04081810177966038
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 58,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.5892474376988982,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.576976446623806,
+        "B": 0.5910931143255782
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 59,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.28089600797416425,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.14197432785809996,
+        "B": 0.33601872738189165
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 60,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11069018565895362,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.05196384055241439,
+        "B": 0.1520163515200441
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 61,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0702551365827047,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.010624191468080153,
+        "B": 0.08266451313280028
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 62,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.14161230604636152,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.021611543962069144,
+        "B": 0.17089259768415718
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 63,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11945294199380647,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.09190949845744134,
+        "B": 0.11880896181634297
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 64,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12540604068692882,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.09815225523255601,
+        "B": 0.122583048783691
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 65,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.03937412835756591,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.04693149736037336,
+        "B": 0.04845196234125242
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 66,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.13074375298433014,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.056320357774090356,
+        "B": 0.17447487064140907
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 67,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.006882612582616684,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.006858548554277442,
+        "B": 0.00902144268111745
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 68,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11960726700952776,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.05054208945423707,
+        "B": 0.14620816799918707
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 69,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10197649744640426,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.052792636263051536,
+        "B": 0.12765193471424258
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 70,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12787413896508174,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.06190393367664635,
+        "B": 0.17325015335191757
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 71,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.06673343282697171,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.03397463703529518,
+        "B": 0.08204178895594032
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 72,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0262262277606403,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.03148688243666524,
+        "B": 0.03168854733358315
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 73,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.036150419114487235,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.04335938339650643,
+        "B": 0.030362815482105524
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 74,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04098826749530294,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0207923105300115,
+        "B": 0.039574553559759064
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 75,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.2679420535660171,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.14232871435360225,
+        "B": 0.29663675964738523
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 76,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04726327943044308,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.026822001413376064,
+        "B": 0.06539824446841334
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 77,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.3418312067900172,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.12696732962376678,
+        "B": 0.4092023096098889
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 78,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.2556443531229552,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.29611961211523447,
+        "B": 0.32096932261531325
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 79,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.08732320068754691,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.08458453642137112,
+        "B": 0.11924395910145212
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 80,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.43709350072644954,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.2853396607415868,
+        "B": 0.4865693570608806
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 81,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.07736086211093463,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.07435862076148618,
+        "B": 0.06907536216191837
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 82,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.2726806104787276,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.21051258309063797,
+        "B": 0.19687266210243823
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 83,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12873932390001983,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.09531905500671072,
+        "B": 0.13185485829359261
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 84,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.14804587762456958,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.06585401077518038,
+        "B": 0.18532591001078652
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 85,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.043793111069077205,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.04537673356644348,
+        "B": 0.038476197204480346
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 86,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10884990224413431,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.06566362875397377,
+        "B": 0.10334726625662294
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 87,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0006530913355388566,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0007696301881350715,
+        "B": 0.0006848036649007296
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 88,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04775284046370005,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.04740631668269992,
+        "B": 0.04269782893820344
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 89,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10600201966629627,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.12207864437129047,
+        "B": 0.09080087685176426
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 90,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04460385167939281,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.05843045578414432,
+        "B": 0.04222730490732252
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 91,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1898585860423263,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.1905316829471353,
+        "B": 0.17867728956059872
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 92,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.37196645578788556,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.39815824676160033,
+        "B": 0.4005228306016758
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 93,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11561812714458403,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.02540289649899984,
+        "B": 0.1347650577646821
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 94,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1963030205286586,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.1225969707516,
+        "B": 0.22192452350552588
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 95,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.14067768242528314,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.10522085251058944,
+        "B": 0.18719855938727736
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 96,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1097327918130419,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.049086412386430675,
+        "B": 0.14492187732373693
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 97,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.07479529525918,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.037828489995896955,
+        "B": 0.08708761998168217
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 98,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.01207448999662701,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0051390726885755834,
+        "B": 0.01165229527626223
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 99,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0234183044415434,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.01289248710891038,
+        "B": 0.032857456639720936
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 100,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.024778525686348755,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.015569839775356104,
+        "B": 0.028557312935233364
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 101,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04963873315403285,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.06181015324108037,
+        "B": 0.05375442972730717
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 102,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.19429131484355874,
+      "mapping_profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "S": 0.0799790013348598,
+        "B": 0.2588038694270705
+      }
+    }
+  ]
+}

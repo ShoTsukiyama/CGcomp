@@ -1,0 +1,39 @@
+[
+  {
+    "source": "/home/sato-lab.org/tsukiyama/software/3D_simulation/CG_model_examples/oxRNA/output/rna.top",
+    "sha256": "2f05e09d7061f1b8a802ca741b92493bbe61b16f789299dd6fa6c4b56f5e52de",
+    "workspace_copy": "examples/auxiliary/exp_oxRNA.top"
+  },
+  {
+    "source": "/home/sato-lab.org/tsukiyama/software/3D_simulation/CG_model_examples/oxRNA/output/final.dat",
+    "sha256": "f38347e68809333c4d96b496c80dac86a74109dede7cfe73c45d0d4b7e71306c",
+    "archive_copy": "CG_models/exp_oxRNA.dat"
+  },
+  {
+    "source": "/home/sato-lab.org/tsukiyama/software/3D_simulation/CG_model_examples/local_sources/spqr-master/tools/python3/pdb2spqr.py",
+    "sha256": "4da1e05afda793392e64090b61377fbfa1560fff08f4c2348b8a43e46be0fae3"
+  },
+  {
+    "source": "/home/sato-lab.org/tsukiyama/software/3D_simulation/CG_model_examples/local_sources/oxDNA-master/src/Particles/RNANucleotide.h",
+    "sha256": "fb7147210400a1f618090b57087aa67ced8ba79055c8a04824034bf6e30f42a7"
+  },
+  {
+    "source": "/home/sato-lab.org/tsukiyama/software/3D_simulation/CG_model_examples/local_sources/oxDNA-master/src/Interactions/rna_model.h",
+    "sha256": "2af27b050e9fc2ded9e6984cb89da2beb79271de88b8e680d999c4a4c61c292a"
+  },
+  {
+    "source": "/home/sato-lab.org/tsukiyama/software/3D_simulation/CG_model_examples/local_sources/oxDNA-master/analysis/src/oxDNA_analysis_tools/oxDNA_PDB.py",
+    "sha256": "c73353dbcdeb9fd1f85252c957805fb191d7ca108208ca28323c7c6393553698",
+    "use": "RNA-only geometric backmapping convention; no external atomic templates used"
+  },
+  {
+    "source": "/home/sato-lab.org/tsukiyama/software/3D_simulation/CG_model_examples/local_sources/oxDNA-master/analysis/src/oxDNA_analysis_tools/UTILS/pdb.py",
+    "sha256": "247756f66df2139f14fd20679a4986a2a15fb6833247cd71d71c8fea8281f1d1",
+    "use": "RNA-only geometric backmapping convention; no external atomic templates used"
+  },
+  {
+    "source": "/home/sato-lab.org/tsukiyama/software/3D_simulation/CG_model_examples/local_sources/oxDNA-master/analysis/src/oxDNA_analysis_tools/UTILS/utils.py",
+    "sha256": "33aaf15f9723cd793599014ae4bc003d1980a035bad7894e63dfc966f424b24a",
+    "use": "RNA-only geometric backmapping convention; no external atomic templates used"
+  }
+]

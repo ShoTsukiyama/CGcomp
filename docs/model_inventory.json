@@ -1,0 +1,912 @@
+{
+  "archive": "CG_models.zip",
+  "all_members": [
+    "CG_models/",
+    "CG_models/exp_VFold.cif",
+    "__MACOSX/CG_models/._exp_VFold.cif",
+    "CG_models/exp.pdb",
+    "__MACOSX/CG_models/._exp.pdb",
+    "CG_models/exp_VFold.pdb",
+    "__MACOSX/CG_models/._exp_VFold.pdb",
+    "CG_models/exp_YUP.cif",
+    "__MACOSX/CG_models/._exp_YUP.cif",
+    "CG_models/exp_YUP.pdb",
+    "__MACOSX/CG_models/._exp_YUP.pdb",
+    "CG_models/.DS_Store",
+    "__MACOSX/CG_models/._.DS_Store",
+    "CG_models/exp_Nares-2P.pdb",
+    "__MACOSX/CG_models/._exp_Nares-2P.pdb",
+    "CG_models/exp_Nares-2P.cif",
+    "__MACOSX/CG_models/._exp_Nares-2P.cif",
+    "CG_models/exp_HiRE-RNA.cif",
+    "__MACOSX/CG_models/._exp_HiRE-RNA.cif",
+    "CG_models/exp_HiRE-RNA.pdb",
+    "__MACOSX/CG_models/._exp_HiRE-RNA.pdb",
+    "CG_models/exp_NAST.cif",
+    "__MACOSX/CG_models/._exp_NAST.cif",
+    "CG_models/exp_iFoldRNA.pdb",
+    "__MACOSX/CG_models/._exp_iFoldRNA.pdb",
+    "CG_models/exp_iFoldRNA.cif",
+    "__MACOSX/CG_models/._exp_iFoldRNA.cif",
+    "CG_models/exp_NAST.pdb",
+    "__MACOSX/CG_models/._exp_NAST.pdb",
+    "CG_models/exp_FebRNA.cif",
+    "__MACOSX/CG_models/._exp_FebRNA.cif",
+    "CG_models/exp_SPQR.pdb",
+    "CG_models/exp_FebRNA.pdb",
+    "__MACOSX/CG_models/._exp_FebRNA.pdb",
+    "CG_models/exp_TopRNA.pdb",
+    "__MACOSX/CG_models/._exp_TopRNA.pdb",
+    "CG_models/exp_isRNA2.cif",
+    "__MACOSX/CG_models/._exp_isRNA2.cif",
+    "CG_models/exp_TopRNA.cif",
+    "__MACOSX/CG_models/._exp_TopRNA.cif",
+    "CG_models/exp_isRNA2.pdb",
+    "__MACOSX/CG_models/._exp_isRNA2.pdb",
+    "CG_models/exp_isRNA1.cif",
+    "__MACOSX/CG_models/._exp_isRNA1.cif",
+    "CG_models/exp_oxRNA.dat",
+    "__MACOSX/CG_models/._exp_oxRNA.dat",
+    "CG_models/exp_RNA-JP.pdb",
+    "__MACOSX/CG_models/._exp_RNA-JP.pdb",
+    "CG_models/exp_RNA-JP.cif",
+    "__MACOSX/CG_models/._exp_RNA-JP.cif",
+    "CG_models/exp_isRNA1.pdb",
+    "__MACOSX/CG_models/._exp_isRNA1.pdb",
+    "CG_models/exp_SimRNA.pdb",
+    "__MACOSX/CG_models/._exp_SimRNA.pdb",
+    "CG_models/exp_SimRNA.cif",
+    "__MACOSX/CG_models/._exp_SimRNA.cif"
+  ],
+  "models": {
+    "VFold": {
+      "mode": "vfold",
+      "files": [
+        "CG_models/exp_VFold.cif",
+        "CG_models/exp_VFold.pdb"
+      ],
+      "formats": [
+        "cif",
+        "pdb"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "C4'",
+          "N9"
+        ],
+        "U": [
+          "P",
+          "C4'",
+          "N1"
+        ],
+        "G": [
+          "P",
+          "C4'",
+          "N9"
+        ],
+        "C": [
+          "P",
+          "C4'",
+          "N1"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "named atomic sites",
+      "required_auxiliary": "none",
+      "blocker": null,
+      "fragment_fit": "matched atomic/virtual site Kabsch",
+      "actual_atomic_sites": "named atomic sites",
+      "atomic_reference_forward_mapping_max_deviation_angstrom": {
+        "C4'": 0.0,
+        "N9": 0.0,
+        "P": 0.0,
+        "N1": 0.0
+      }
+    },
+    "atomic-reference": {
+      "mode": "generic",
+      "files": [
+        "CG_models/exp.pdb"
+      ],
+      "formats": [
+        "pdb"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "OP1",
+          "OP2",
+          "O5'",
+          "C5'",
+          "C4'",
+          "O4'",
+          "C3'",
+          "O3'",
+          "C2'",
+          "O2'",
+          "C1'",
+          "N9",
+          "C8",
+          "N7",
+          "C5",
+          "C6",
+          "N6",
+          "N1",
+          "C2",
+          "N3",
+          "C4"
+        ],
+        "U": [
+          "P",
+          "OP1",
+          "OP2",
+          "O5'",
+          "C5'",
+          "C4'",
+          "O4'",
+          "C3'",
+          "O3'",
+          "C2'",
+          "O2'",
+          "C1'",
+          "N1",
+          "C2",
+          "O2",
+          "N3",
+          "C4",
+          "O4",
+          "C5",
+          "C6"
+        ],
+        "G": [
+          "P",
+          "OP1",
+          "OP2",
+          "O5'",
+          "C5'",
+          "C4'",
+          "O4'",
+          "C3'",
+          "O3'",
+          "C2'",
+          "O2'",
+          "C1'",
+          "N9",
+          "C8",
+          "N7",
+          "C5",
+          "C6",
+          "O6",
+          "N1",
+          "C2",
+          "N2",
+          "N3",
+          "C4"
+        ],
+        "C": [
+          "P",
+          "OP1",
+          "OP2",
+          "O5'",
+          "C5'",
+          "C4'",
+          "O4'",
+          "C3'",
+          "O3'",
+          "C2'",
+          "O2'",
+          "C1'",
+          "N1",
+          "C2",
+          "O2",
+          "N3",
+          "C4",
+          "N4",
+          "C5",
+          "C6"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "all matched atomic sites; three non-collinear matches required",
+      "required_auxiliary": "none",
+      "blocker": null,
+      "fragment_fit": "matched atomic/virtual site Kabsch",
+      "actual_atomic_sites": "named atomic sites"
+    },
+    "YUP": {
+      "mode": "yup",
+      "files": [
+        "CG_models/exp_YUP.cif",
+        "CG_models/exp_YUP.pdb"
+      ],
+      "formats": [
+        "cif",
+        "pdb"
+      ],
+      "status": "unsupported: precise geometric blocker",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P"
+        ],
+        "U": [
+          "P"
+        ],
+        "G": [
+          "P"
+        ],
+        "C": [
+          "P"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "one P site per nucleotide",
+      "required_auxiliary": "none",
+      "blocker": "The supplied YUP export contains only one P site per nucleotide and no orientation. Three rotational degrees of freedom remain undetermined; two additional non-collinear intra-nucleotide landmarks or an authoritative oriented frame are required.",
+      "fragment_fit": "unconstrained orientation",
+      "actual_atomic_sites": "P"
+    },
+    "Nares-2P": {
+      "mode": "nares-2p",
+      "files": [
+        "CG_models/exp_Nares-2P.pdb",
+        "CG_models/exp_Nares-2P.cif"
+      ],
+      "formats": [
+        "pdb",
+        "cif"
+      ],
+      "status": "unsupported: precise geometric blocker",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "S",
+          "B"
+        ],
+        "U": [
+          "P",
+          "S",
+          "B"
+        ],
+        "G": [
+          "P",
+          "S",
+          "B"
+        ],
+        "C": [
+          "P",
+          "S",
+          "B"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "sugar/base centers and inter-residue phosphate midpoints",
+      "required_auxiliary": "none",
+      "blocker": "NARES-2P P is a midpoint between adjacent S sites, not an intra-nucleotide atomic landmark. S and B supply only two independent local points; rotation about S-B is unconstrained. A base normal or a third intra-nucleotide landmark is required.",
+      "fragment_fit": "unconstrained orientation",
+      "actual_atomic_sites": "none"
+    },
+    "HiRE-RNA": {
+      "mode": "hire-rna",
+      "files": [
+        "CG_models/exp_HiRE-RNA.cif",
+        "CG_models/exp_HiRE-RNA.pdb"
+      ],
+      "formats": [
+        "cif",
+        "pdb"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "O5'",
+          "C5'",
+          "C4'",
+          "C1'",
+          "B1",
+          "B2"
+        ],
+        "U": [
+          "P",
+          "O5'",
+          "C5'",
+          "C4'",
+          "C1'",
+          "B1"
+        ],
+        "G": [
+          "P",
+          "O5'",
+          "C5'",
+          "C4'",
+          "C1'",
+          "B1",
+          "B2"
+        ],
+        "C": [
+          "P",
+          "O5'",
+          "C5'",
+          "C4'",
+          "C1'",
+          "B1"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "atomic backbone and ring COMs",
+      "required_auxiliary": "none",
+      "blocker": null,
+      "fragment_fit": "matched atomic/virtual site Kabsch",
+      "actual_atomic_sites": "P/O5'/C5'/C4'/C1'",
+      "atomic_reference_forward_mapping_max_deviation_angstrom": {
+        "C1'": 0.0,
+        "C4'": 0.0,
+        "B1": 0.0007858693354890235,
+        "B2": 0.0007657637910834834,
+        "O5'": 0.0,
+        "P": 0.0,
+        "C5'": 0.0
+      }
+    },
+    "NAST": {
+      "mode": "nast",
+      "files": [
+        "CG_models/exp_NAST.cif",
+        "CG_models/exp_NAST.pdb"
+      ],
+      "formats": [
+        "cif",
+        "pdb"
+      ],
+      "status": "unsupported: precise geometric blocker",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "C3'"
+        ],
+        "U": [
+          "C3'"
+        ],
+        "G": [
+          "C3'"
+        ],
+        "C": [
+          "C3'"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "one C3' site per nucleotide",
+      "required_auxiliary": "none",
+      "blocker": "NAST supplies only C3' per nucleotide and no orientation. Three rotational degrees of freedom remain undetermined; two additional non-collinear intra-nucleotide landmarks or an authoritative oriented frame are required.",
+      "fragment_fit": "unconstrained orientation",
+      "actual_atomic_sites": "C3'"
+    },
+    "iFoldRNA": {
+      "mode": "ifoldrna",
+      "files": [
+        "CG_models/exp_iFoldRNA.pdb",
+        "CG_models/exp_iFoldRNA.cif"
+      ],
+      "formats": [
+        "pdb",
+        "cif"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "S",
+          "B"
+        ],
+        "U": [
+          "P",
+          "S",
+          "B"
+        ],
+        "G": [
+          "P",
+          "S",
+          "B"
+        ],
+        "C": [
+          "P",
+          "S",
+          "B"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "archive export COM groups; differs from Ding2008 native groups",
+      "required_auxiliary": "--bead-profile archive",
+      "blocker": null,
+      "fragment_fit": "matched atomic/virtual site Kabsch",
+      "actual_atomic_sites": "none",
+      "atomic_reference_forward_mapping_max_deviation_angstrom": {
+        "S": 0.0008004321687666577,
+        "B": 0.0007641733522532289,
+        "P": 0.0007640856375689221
+      }
+    },
+    "FebRNA": {
+      "mode": "febrna",
+      "files": [
+        "CG_models/exp_FebRNA.cif",
+        "CG_models/exp_FebRNA.pdb"
+      ],
+      "formats": [
+        "cif",
+        "pdb"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "C4'",
+          "N9"
+        ],
+        "U": [
+          "P",
+          "C4'",
+          "N1"
+        ],
+        "G": [
+          "P",
+          "C4'",
+          "N9"
+        ],
+        "C": [
+          "P",
+          "C4'",
+          "N1"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "named atomic sites",
+      "required_auxiliary": "none",
+      "blocker": null,
+      "fragment_fit": "matched atomic/virtual site Kabsch",
+      "actual_atomic_sites": "named atomic sites",
+      "atomic_reference_forward_mapping_max_deviation_angstrom": {
+        "C4'": 0.0,
+        "N9": 0.0,
+        "P": 0.0,
+        "N1": 0.0
+      }
+    },
+    "SPQR": {
+      "mode": "spqr",
+      "files": [
+        "CG_models/exp_SPQR.pdb"
+      ],
+      "formats": [
+        "pdb"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "0"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "BASE",
+          "XVEC",
+          "YVEC",
+          "SUGR",
+          "PHOS"
+        ],
+        "U": [
+          "BASE",
+          "XVEC",
+          "YVEC",
+          "SUGR",
+          "PHOS"
+        ],
+        "G": [
+          "BASE",
+          "XVEC",
+          "YVEC",
+          "SUGR",
+          "PHOS"
+        ],
+        "C": [
+          "BASE",
+          "XVEC",
+          "YVEC",
+          "SUGR",
+          "PHOS"
+        ]
+      },
+      "explicit_orientation": true,
+      "profile": "BASE/XVEC/YVEC frame, A3 state; real PHOS",
+      "required_auxiliary": "none",
+      "blocker": null,
+      "fragment_fit": "base frame Kabsch",
+      "actual_atomic_sites": "PHOS corresponds to P"
+    },
+    "TopRNA": {
+      "mode": "toprna",
+      "files": [
+        "CG_models/exp_TopRNA.pdb",
+        "CG_models/exp_TopRNA.cif"
+      ],
+      "formats": [
+        "pdb",
+        "cif"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "S",
+          "B"
+        ],
+        "U": [
+          "P",
+          "S",
+          "B"
+        ],
+        "G": [
+          "P",
+          "S",
+          "B"
+        ],
+        "C": [
+          "P",
+          "S",
+          "B"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "archive geometric centers; cytosine B includes exocyclic N4",
+      "required_auxiliary": "--bead-profile archive",
+      "blocker": null,
+      "fragment_fit": "matched atomic/virtual site Kabsch",
+      "actual_atomic_sites": "P",
+      "atomic_reference_forward_mapping_max_deviation_angstrom": {
+        "S": 0.0007817359599713376,
+        "B": 0.0007817359599715271,
+        "P": 0.0
+      }
+    },
+    "isRNA2": {
+      "mode": "isrna2",
+      "files": [
+        "CG_models/exp_isRNA2.cif",
+        "CG_models/exp_isRNA2.pdb"
+      ],
+      "formats": [
+        "cif",
+        "pdb"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "S",
+          "R_1",
+          "A_1",
+          "A_2"
+        ],
+        "U": [
+          "P",
+          "S",
+          "Y_1",
+          "Y_2",
+          "U_1"
+        ],
+        "G": [
+          "P",
+          "S",
+          "R_1",
+          "G_1",
+          "G_2"
+        ],
+        "C": [
+          "P",
+          "S",
+          "Y_1",
+          "Y_2",
+          "C_1"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "P/C4' and three grouped base COMs",
+      "required_auxiliary": "none",
+      "blocker": null,
+      "fragment_fit": "matched atomic/virtual site Kabsch",
+      "actual_atomic_sites": "P and C4'",
+      "atomic_reference_forward_mapping_max_deviation_angstrom": {
+        "C_1": 0.000676267944075923,
+        "A_2": 0.0006811177522329544,
+        "R_1": 0.0007318298566003481,
+        "Y_2": 0.0006915285933169388,
+        "G_2": 0.0007062986982911515,
+        "Y_1": 0.0007319498119431568,
+        "G_1": 0.0007658009750511186,
+        "S": 0.0,
+        "U_1": 0.0007385588879006063,
+        "A_1": 0.0007869547869152335,
+        "P": 0.0
+      }
+    },
+    "isRNA1": {
+      "mode": "isrna1",
+      "files": [
+        "CG_models/exp_isRNA1.cif",
+        "CG_models/exp_isRNA1.pdb"
+      ],
+      "formats": [
+        "cif",
+        "pdb"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "S",
+          "R_C",
+          "A_C",
+          "A_N"
+        ],
+        "U": [
+          "P",
+          "S",
+          "Y_C",
+          "U_O"
+        ],
+        "G": [
+          "P",
+          "S",
+          "R_C",
+          "G_O",
+          "G_N"
+        ],
+        "C": [
+          "P",
+          "S",
+          "Y_C",
+          "C_N"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "P/C4' and grouped base COMs",
+      "required_auxiliary": "none",
+      "blocker": null,
+      "fragment_fit": "matched atomic/virtual site Kabsch",
+      "actual_atomic_sites": "P and C4'",
+      "atomic_reference_forward_mapping_max_deviation_angstrom": {
+        "R_C": 0.0007318298566003481,
+        "Y_C": 0.0007319498119431568,
+        "C_N": 0.0007335718257615169,
+        "A_N": 0.0006811177522329544,
+        "U_O": 0.0007806967383104612,
+        "G_N": 0.0007334196875483355,
+        "A_C": 0.0007869547869152335,
+        "S": 0.0,
+        "G_O": 0.0007782086348239745,
+        "P": 0.0
+      }
+    },
+    "oxRNA": {
+      "mode": "oxrna",
+      "files": [
+        "CG_models/exp_oxRNA.dat"
+      ],
+      "formats": [
+        "dat"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "rigid_bodies": 102,
+      "explicit_orientation": true,
+      "fields": [
+        "COM",
+        "a1",
+        "a3",
+        "velocity",
+        "angular_velocity"
+      ],
+      "profile": "RNA-specific official atomic backmapping proxies",
+      "required_auxiliary": "matching native topology",
+      "blocker": null,
+      "fragment_fit": "RNA proxy Kabsch without centering",
+      "actual_atomic_sites": "none",
+      "topology_note": "Not in ZIP; authentic companion in examples/auxiliary/exp_oxRNA.top, DAT byte identity verified."
+    },
+    "RNA-JP": {
+      "mode": "rna-jp",
+      "files": [
+        "CG_models/exp_RNA-JP.pdb",
+        "CG_models/exp_RNA-JP.cif"
+      ],
+      "formats": [
+        "pdb",
+        "cif"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "C4'",
+          "N9",
+          "C6",
+          "C2"
+        ],
+        "U": [
+          "P",
+          "C4'",
+          "N1",
+          "C2",
+          "C4"
+        ],
+        "G": [
+          "P",
+          "C4'",
+          "N9",
+          "C6",
+          "C2"
+        ],
+        "C": [
+          "P",
+          "C4'",
+          "N1",
+          "C2",
+          "C4"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "named atomic sites",
+      "required_auxiliary": "none",
+      "blocker": null,
+      "fragment_fit": "matched atomic/virtual site Kabsch",
+      "actual_atomic_sites": "named atomic sites",
+      "atomic_reference_forward_mapping_max_deviation_angstrom": {
+        "C4": 0.0,
+        "C6": 0.0,
+        "N9": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0,
+        "P": 0.0,
+        "C2": 0.0
+      }
+    },
+    "SimRNA": {
+      "mode": "simrna",
+      "files": [
+        "CG_models/exp_SimRNA.pdb",
+        "CG_models/exp_SimRNA.cif"
+      ],
+      "formats": [
+        "pdb",
+        "cif"
+      ],
+      "status": "passed actual installed-CLI reconstruction",
+      "sequence_or_topology_in_archive": false,
+      "residues": 102,
+      "chains": [
+        "A"
+      ],
+      "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+      "sites_by_base": {
+        "A": [
+          "P",
+          "C4'",
+          "N9",
+          "C6",
+          "C2"
+        ],
+        "U": [
+          "P",
+          "C4'",
+          "N1",
+          "C2",
+          "C4"
+        ],
+        "G": [
+          "P",
+          "C4'",
+          "N9",
+          "C6",
+          "C2"
+        ],
+        "C": [
+          "P",
+          "C4'",
+          "N1",
+          "C2",
+          "C4"
+        ]
+      },
+      "explicit_orientation": false,
+      "profile": "named atomic sites",
+      "required_auxiliary": "none",
+      "blocker": null,
+      "fragment_fit": "matched atomic/virtual site Kabsch",
+      "actual_atomic_sites": "named atomic sites",
+      "atomic_reference_forward_mapping_max_deviation_angstrom": {
+        "C4": 0.0,
+        "C6": 0.0,
+        "N9": 0.0,
+        "C4'": 0.0,
+        "N1": 0.0,
+        "P": 0.0,
+        "C2": 0.0
+      }
+    }
+  }
+}

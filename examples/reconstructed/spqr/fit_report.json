@@ -1,0 +1,1433 @@
+{
+  "mode": "spqr",
+  "residues": [
+    {
+      "chain": "0",
+      "residue": 0,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 8.568339948907339e-16,
+      "sugar_center_deviation_angstrom": 0.09383649507288126,
+      "phosphate_preservation_shift_angstrom": 0.13847736833737515
+    },
+    {
+      "chain": "0",
+      "residue": 1,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.340372782664612e-15,
+      "sugar_center_deviation_angstrom": 0.112529669185571,
+      "phosphate_preservation_shift_angstrom": 0.40871191492268016
+    },
+    {
+      "chain": "0",
+      "residue": 2,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.1749496091904413e-15,
+      "sugar_center_deviation_angstrom": 0.02808310673615816,
+      "phosphate_preservation_shift_angstrom": 0.7430593092795902
+    },
+    {
+      "chain": "0",
+      "residue": 3,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.2412670766236366e-15,
+      "sugar_center_deviation_angstrom": 0.10612623647874421,
+      "phosphate_preservation_shift_angstrom": 1.3108116449143767
+    },
+    {
+      "chain": "0",
+      "residue": 4,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.866033584759964e-15,
+      "sugar_center_deviation_angstrom": 0.02537567009354826,
+      "phosphate_preservation_shift_angstrom": 0.603946102745669
+    },
+    {
+      "chain": "0",
+      "residue": 5,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 4.668220486087868e-15,
+      "sugar_center_deviation_angstrom": 0.09764473754176536,
+      "phosphate_preservation_shift_angstrom": 0.2646776284879514
+    },
+    {
+      "chain": "0",
+      "residue": 6,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 8.224729953665651e-16,
+      "sugar_center_deviation_angstrom": 0.09574047834386705,
+      "phosphate_preservation_shift_angstrom": 0.9178436362715215
+    },
+    {
+      "chain": "0",
+      "residue": 7,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.685539134478739e-15,
+      "sugar_center_deviation_angstrom": 0.026168919034038455,
+      "phosphate_preservation_shift_angstrom": 0.3255771068152544
+    },
+    {
+      "chain": "0",
+      "residue": 8,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.7733362266239673e-15,
+      "sugar_center_deviation_angstrom": 0.15841200262722593,
+      "phosphate_preservation_shift_angstrom": 0.7292364614171992
+    },
+    {
+      "chain": "0",
+      "residue": 9,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.072098405376252e-15,
+      "sugar_center_deviation_angstrom": 0.15942103649942435,
+      "phosphate_preservation_shift_angstrom": 1.4601805032510746
+    },
+    {
+      "chain": "0",
+      "residue": 10,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.374785818259932e-15,
+      "sugar_center_deviation_angstrom": 0.1020666811868572,
+      "phosphate_preservation_shift_angstrom": 0.571628474608979
+    },
+    {
+      "chain": "0",
+      "residue": 11,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 4.171839369083926e-15,
+      "sugar_center_deviation_angstrom": 0.0231315928667102,
+      "phosphate_preservation_shift_angstrom": 0.4034027806160578
+    },
+    {
+      "chain": "0",
+      "residue": 12,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.396642123083981e-15,
+      "sugar_center_deviation_angstrom": 0.15884263914779664,
+      "phosphate_preservation_shift_angstrom": 0.5146559053061435
+    },
+    {
+      "chain": "0",
+      "residue": 13,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.175583928816829e-15,
+      "sugar_center_deviation_angstrom": 0.09463912338175406,
+      "phosphate_preservation_shift_angstrom": 0.6849219088055887
+    },
+    {
+      "chain": "0",
+      "residue": 14,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.7621861127927565e-15,
+      "sugar_center_deviation_angstrom": 0.15981425913355918,
+      "phosphate_preservation_shift_angstrom": 0.5361814142647136
+    },
+    {
+      "chain": "0",
+      "residue": 15,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 7.556044468858738e-15,
+      "sugar_center_deviation_angstrom": 0.09541609273270174,
+      "phosphate_preservation_shift_angstrom": 0.6991292867814294
+    },
+    {
+      "chain": "0",
+      "residue": 16,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.58724037616909e-15,
+      "sugar_center_deviation_angstrom": 0.15529386622064606,
+      "phosphate_preservation_shift_angstrom": 0.9446909652821196
+    },
+    {
+      "chain": "0",
+      "residue": 17,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.73701795724087e-15,
+      "sugar_center_deviation_angstrom": 0.02555496277197842,
+      "phosphate_preservation_shift_angstrom": 1.164179657164442
+    },
+    {
+      "chain": "0",
+      "residue": 18,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.8730715395979075e-15,
+      "sugar_center_deviation_angstrom": 0.10647553786153242,
+      "phosphate_preservation_shift_angstrom": 0.6627715628951062
+    },
+    {
+      "chain": "0",
+      "residue": 19,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 6.093091690756333e-15,
+      "sugar_center_deviation_angstrom": 0.10240878099338364,
+      "phosphate_preservation_shift_angstrom": 1.067173715074445
+    },
+    {
+      "chain": "0",
+      "residue": 20,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.2573000033218179e-15,
+      "sugar_center_deviation_angstrom": 0.10520914309859322,
+      "phosphate_preservation_shift_angstrom": 0.49897684486739324
+    },
+    {
+      "chain": "0",
+      "residue": 21,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.8651071644422634e-15,
+      "sugar_center_deviation_angstrom": 0.02646188338246487,
+      "phosphate_preservation_shift_angstrom": 0.3883769201922491
+    },
+    {
+      "chain": "0",
+      "residue": 22,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.774758283725532e-15,
+      "sugar_center_deviation_angstrom": 0.10549949825292863,
+      "phosphate_preservation_shift_angstrom": 0.7239163314597861
+    },
+    {
+      "chain": "0",
+      "residue": 23,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 7.328312992309294e-15,
+      "sugar_center_deviation_angstrom": 0.16142083844815633,
+      "phosphate_preservation_shift_angstrom": 0.6463138149275796
+    },
+    {
+      "chain": "0",
+      "residue": 24,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.2679894054973703e-14,
+      "sugar_center_deviation_angstrom": 0.09231133860663557,
+      "phosphate_preservation_shift_angstrom": 0.6730818091699308
+    },
+    {
+      "chain": "0",
+      "residue": 25,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 4.576556929745337e-15,
+      "sugar_center_deviation_angstrom": 0.15765903682876634,
+      "phosphate_preservation_shift_angstrom": 1.1431965342407457
+    },
+    {
+      "chain": "0",
+      "residue": 26,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.2350482661315178e-14,
+      "sugar_center_deviation_angstrom": 0.10094697041835105,
+      "phosphate_preservation_shift_angstrom": 1.123502381887828
+    },
+    {
+      "chain": "0",
+      "residue": 27,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.296847253011292e-15,
+      "sugar_center_deviation_angstrom": 0.10519083576505987,
+      "phosphate_preservation_shift_angstrom": 0.9808326629513178
+    },
+    {
+      "chain": "0",
+      "residue": 28,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 7.611305586242616e-16,
+      "sugar_center_deviation_angstrom": 0.10587428398654135,
+      "phosphate_preservation_shift_angstrom": 0.5909195835273416
+    },
+    {
+      "chain": "0",
+      "residue": 29,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.0097690502670736e-14,
+      "sugar_center_deviation_angstrom": 0.02427105369664808,
+      "phosphate_preservation_shift_angstrom": 0.513388830851223
+    },
+    {
+      "chain": "0",
+      "residue": 30,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 9.155133597044475e-16,
+      "sugar_center_deviation_angstrom": 0.021701421268177666,
+      "phosphate_preservation_shift_angstrom": 0.6984122531919076
+    },
+    {
+      "chain": "0",
+      "residue": 31,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.5995582295586172e-15,
+      "sugar_center_deviation_angstrom": 0.024181743520176067,
+      "phosphate_preservation_shift_angstrom": 1.150921169064616
+    },
+    {
+      "chain": "0",
+      "residue": 32,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.032686465605924e-14,
+      "sugar_center_deviation_angstrom": 0.027247177957140697,
+      "phosphate_preservation_shift_angstrom": 0.9478771296218576
+    },
+    {
+      "chain": "0",
+      "residue": 33,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 7.226690606076879e-15,
+      "sugar_center_deviation_angstrom": 0.1524985967010314,
+      "phosphate_preservation_shift_angstrom": 1.0378623239840703
+    },
+    {
+      "chain": "0",
+      "residue": 34,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.288783399261119e-15,
+      "sugar_center_deviation_angstrom": 0.09295543970937352,
+      "phosphate_preservation_shift_angstrom": 0.5353778438063009
+    },
+    {
+      "chain": "0",
+      "residue": 35,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.0247785517249431e-14,
+      "sugar_center_deviation_angstrom": 0.02777203511202003,
+      "phosphate_preservation_shift_angstrom": 0.5382202718444996
+    },
+    {
+      "chain": "0",
+      "residue": 36,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 7.837891489047696e-15,
+      "sugar_center_deviation_angstrom": 0.10384099838223597,
+      "phosphate_preservation_shift_angstrom": 0.8572528446630931
+    },
+    {
+      "chain": "0",
+      "residue": 37,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4254156828833717e-14,
+      "sugar_center_deviation_angstrom": 0.15599235128684463,
+      "phosphate_preservation_shift_angstrom": 1.0497857241527868
+    },
+    {
+      "chain": "0",
+      "residue": 38,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.2947314098277875e-15,
+      "sugar_center_deviation_angstrom": 0.0977933839337715,
+      "phosphate_preservation_shift_angstrom": 0.494274167175112
+    },
+    {
+      "chain": "0",
+      "residue": 39,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4268849612245744e-14,
+      "sugar_center_deviation_angstrom": 0.026207231667495265,
+      "phosphate_preservation_shift_angstrom": 0.5875391884543276
+    },
+    {
+      "chain": "0",
+      "residue": 40,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 7.270053689609713e-15,
+      "sugar_center_deviation_angstrom": 0.09697353625091053,
+      "phosphate_preservation_shift_angstrom": 0.9095957671805962
+    },
+    {
+      "chain": "0",
+      "residue": 41,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4229923879238375e-14,
+      "sugar_center_deviation_angstrom": 0.030878900750662283,
+      "phosphate_preservation_shift_angstrom": 0.5278590841793044
+    },
+    {
+      "chain": "0",
+      "residue": 42,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.0310738718936457e-15,
+      "sugar_center_deviation_angstrom": 0.09819327010401803,
+      "phosphate_preservation_shift_angstrom": 0.8802717533827841
+    },
+    {
+      "chain": "0",
+      "residue": 43,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.0107298710640793e-14,
+      "sugar_center_deviation_angstrom": 0.09153191116280242,
+      "phosphate_preservation_shift_angstrom": 1.223013268644233
+    },
+    {
+      "chain": "0",
+      "residue": 44,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.423771753963787e-14,
+      "sugar_center_deviation_angstrom": 0.1664509972851164,
+      "phosphate_preservation_shift_angstrom": 1.278833781052505
+    },
+    {
+      "chain": "0",
+      "residue": 45,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 9.222205069512407e-16,
+      "sugar_center_deviation_angstrom": 0.15368473994611187,
+      "phosphate_preservation_shift_angstrom": 0.8047875803574226
+    },
+    {
+      "chain": "0",
+      "residue": 46,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.848668728440602e-14,
+      "sugar_center_deviation_angstrom": 0.1607276732137875,
+      "phosphate_preservation_shift_angstrom": 0.7820810016964336
+    },
+    {
+      "chain": "0",
+      "residue": 47,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.4722662592504516e-14,
+      "sugar_center_deviation_angstrom": 0.161439662731286,
+      "phosphate_preservation_shift_angstrom": 0.6169359914510255
+    },
+    {
+      "chain": "0",
+      "residue": 48,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.5520902078444037e-15,
+      "sugar_center_deviation_angstrom": 0.02782476022735928,
+      "phosphate_preservation_shift_angstrom": 0.9579865730641718
+    },
+    {
+      "chain": "0",
+      "residue": 49,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.855497072593611e-14,
+      "sugar_center_deviation_angstrom": 0.10533528589371431,
+      "phosphate_preservation_shift_angstrom": 0.7764935499825485
+    },
+    {
+      "chain": "0",
+      "residue": 50,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.846526098996417e-14,
+      "sugar_center_deviation_angstrom": 0.02494286862450445,
+      "phosphate_preservation_shift_angstrom": 0.9312996611548641
+    },
+    {
+      "chain": "0",
+      "residue": 51,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.9991722838696e-15,
+      "sugar_center_deviation_angstrom": 0.10707367162278456,
+      "phosphate_preservation_shift_angstrom": 0.5426534731057701
+    },
+    {
+      "chain": "0",
+      "residue": 52,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.854547269334892e-14,
+      "sugar_center_deviation_angstrom": 0.025045221878101424,
+      "phosphate_preservation_shift_angstrom": 0.4568050491022753
+    },
+    {
+      "chain": "0",
+      "residue": 53,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.6736404963781187e-15,
+      "sugar_center_deviation_angstrom": 0.1542430887196084,
+      "phosphate_preservation_shift_angstrom": 1.0079083351925802
+    },
+    {
+      "chain": "0",
+      "residue": 54,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.2161883888976235e-15,
+      "sugar_center_deviation_angstrom": 0.09599059902473402,
+      "phosphate_preservation_shift_angstrom": 0.6163937895283069
+    },
+    {
+      "chain": "0",
+      "residue": 55,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.444655714132381e-14,
+      "sugar_center_deviation_angstrom": 0.10632690390480906,
+      "phosphate_preservation_shift_angstrom": 0.6396100725709788
+    },
+    {
+      "chain": "0",
+      "residue": 56,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4316712258384543e-14,
+      "sugar_center_deviation_angstrom": 0.15529361939409217,
+      "phosphate_preservation_shift_angstrom": 0.8978354333423014
+    },
+    {
+      "chain": "0",
+      "residue": 57,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.5038047658940695e-15,
+      "sugar_center_deviation_angstrom": 0.09507826083358492,
+      "phosphate_preservation_shift_angstrom": 0.6526352509508117
+    },
+    {
+      "chain": "0",
+      "residue": 58,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4342517456430824e-14,
+      "sugar_center_deviation_angstrom": 0.025745355312617724,
+      "phosphate_preservation_shift_angstrom": 0.42139051203165223
+    },
+    {
+      "chain": "0",
+      "residue": 59,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.861038487562858e-14,
+      "sugar_center_deviation_angstrom": 0.09518535665199597,
+      "phosphate_preservation_shift_angstrom": 0.8371053073631379
+    },
+    {
+      "chain": "0",
+      "residue": 60,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.7342238036525468e-15,
+      "sugar_center_deviation_angstrom": 0.09415985884326827,
+      "phosphate_preservation_shift_angstrom": 1.0651468456743496
+    },
+    {
+      "chain": "0",
+      "residue": 61,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.024688864440056e-14,
+      "sugar_center_deviation_angstrom": 0.11135298429274053,
+      "phosphate_preservation_shift_angstrom": 0.4896251909622324
+    },
+    {
+      "chain": "0",
+      "residue": 62,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.7483809675615383e-15,
+      "sugar_center_deviation_angstrom": 0.09305659212219912,
+      "phosphate_preservation_shift_angstrom": 1.0212800172688963
+    },
+    {
+      "chain": "0",
+      "residue": 63,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.0396703652574137e-14,
+      "sugar_center_deviation_angstrom": 0.10241948058131187,
+      "phosphate_preservation_shift_angstrom": 0.22703368075888772
+    },
+    {
+      "chain": "0",
+      "residue": 64,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.45320518000038e-14,
+      "sugar_center_deviation_angstrom": 0.10354542503147086,
+      "phosphate_preservation_shift_angstrom": 0.5545037879228883
+    },
+    {
+      "chain": "0",
+      "residue": 65,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.951593978782523e-15,
+      "sugar_center_deviation_angstrom": 0.10620281768031371,
+      "phosphate_preservation_shift_angstrom": 0.5804917430569986
+    },
+    {
+      "chain": "0",
+      "residue": 66,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4703226376734103e-14,
+      "sugar_center_deviation_angstrom": 0.09032459404445796,
+      "phosphate_preservation_shift_angstrom": 0.7151619588543042
+    },
+    {
+      "chain": "0",
+      "residue": 67,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.336885555457667e-15,
+      "sugar_center_deviation_angstrom": 0.16100098897725573,
+      "phosphate_preservation_shift_angstrom": 1.0400884563994661
+    },
+    {
+      "chain": "0",
+      "residue": 68,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.1065000811460206e-15,
+      "sugar_center_deviation_angstrom": 0.16244004325698244,
+      "phosphate_preservation_shift_angstrom": 0.5446254299369316
+    },
+    {
+      "chain": "0",
+      "residue": 69,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.0845010130893402e-14,
+      "sugar_center_deviation_angstrom": 0.10457349755703386,
+      "phosphate_preservation_shift_angstrom": 0.8599574869741656
+    },
+    {
+      "chain": "0",
+      "residue": 70,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.469191916645382e-14,
+      "sugar_center_deviation_angstrom": 0.15766056071515472,
+      "phosphate_preservation_shift_angstrom": 0.6999208471334859
+    },
+    {
+      "chain": "0",
+      "residue": 71,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 5.14310142114581e-14,
+      "sugar_center_deviation_angstrom": 0.09488438796245503,
+      "phosphate_preservation_shift_angstrom": 0.3153394545115235
+    },
+    {
+      "chain": "0",
+      "residue": 72,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.974017883322843e-15,
+      "sugar_center_deviation_angstrom": 0.09006820429817447,
+      "phosphate_preservation_shift_angstrom": 0.9071818851965064
+    },
+    {
+      "chain": "0",
+      "residue": 73,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.8492744323521625e-14,
+      "sugar_center_deviation_angstrom": 0.09026172224433555,
+      "phosphate_preservation_shift_angstrom": 0.7591988976365461
+    },
+    {
+      "chain": "0",
+      "residue": 74,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.0270617257671126e-14,
+      "sugar_center_deviation_angstrom": 0.16002104803942802,
+      "phosphate_preservation_shift_angstrom": 1.1130839352519917
+    },
+    {
+      "chain": "0",
+      "residue": 75,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.5700924586837751e-15,
+      "sugar_center_deviation_angstrom": 0.10270155715629044,
+      "phosphate_preservation_shift_angstrom": 0.8809540878961906
+    },
+    {
+      "chain": "0",
+      "residue": 76,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4732538223285727e-14,
+      "sugar_center_deviation_angstrom": 0.02618823919995316,
+      "phosphate_preservation_shift_angstrom": 0.5715610444330672
+    },
+    {
+      "chain": "0",
+      "residue": 77,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.0471501066083613e-15,
+      "sugar_center_deviation_angstrom": 0.023431874913035885,
+      "phosphate_preservation_shift_angstrom": 0.7544791583149828
+    },
+    {
+      "chain": "0",
+      "residue": 78,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4481602907145998e-14,
+      "sugar_center_deviation_angstrom": 0.09376228740578806,
+      "phosphate_preservation_shift_angstrom": 0.9887693616992019
+    },
+    {
+      "chain": "0",
+      "residue": 79,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.4684476073050936e-15,
+      "sugar_center_deviation_angstrom": 0.15699588296149902,
+      "phosphate_preservation_shift_angstrom": 0.7840314891096483
+    },
+    {
+      "chain": "0",
+      "residue": 80,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 5.124794773024561e-15,
+      "sugar_center_deviation_angstrom": 0.15903087812990085,
+      "phosphate_preservation_shift_angstrom": 1.1050848565095146
+    },
+    {
+      "chain": "0",
+      "residue": 81,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.8038988979531736e-15,
+      "sugar_center_deviation_angstrom": 0.16104969552894668,
+      "phosphate_preservation_shift_angstrom": 0.45877385599598053
+    },
+    {
+      "chain": "0",
+      "residue": 82,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.848841799841985e-14,
+      "sugar_center_deviation_angstrom": 0.09997519385810574,
+      "phosphate_preservation_shift_angstrom": 0.9008051419275148
+    },
+    {
+      "chain": "0",
+      "residue": 83,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4325749365178208e-14,
+      "sugar_center_deviation_angstrom": 0.10625140348944705,
+      "phosphate_preservation_shift_angstrom": 0.6635320071862408
+    },
+    {
+      "chain": "0",
+      "residue": 84,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.5388086795394242e-15,
+      "sugar_center_deviation_angstrom": 0.09348194843872154,
+      "phosphate_preservation_shift_angstrom": 0.629208459985875
+    },
+    {
+      "chain": "0",
+      "residue": 85,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.4755732987402606e-14,
+      "sugar_center_deviation_angstrom": 0.16294143317542245,
+      "phosphate_preservation_shift_angstrom": 1.0341897887001472
+    },
+    {
+      "chain": "0",
+      "residue": 86,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.5131060595663413e-15,
+      "sugar_center_deviation_angstrom": 0.1596361764562309,
+      "phosphate_preservation_shift_angstrom": 0.9928538769899565
+    },
+    {
+      "chain": "0",
+      "residue": 87,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.858603313151049e-14,
+      "sugar_center_deviation_angstrom": 0.15221537496318274,
+      "phosphate_preservation_shift_angstrom": 0.862042120048679
+    },
+    {
+      "chain": "0",
+      "residue": 88,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.447531919918933e-15,
+      "sugar_center_deviation_angstrom": 0.09721604901492233,
+      "phosphate_preservation_shift_angstrom": 0.7216953822685452
+    },
+    {
+      "chain": "0",
+      "residue": 89,
+      "base": "U",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4481097530666728e-14,
+      "sugar_center_deviation_angstrom": 0.028680155443505335,
+      "phosphate_preservation_shift_angstrom": 0.16972171794954705
+    },
+    {
+      "chain": "0",
+      "residue": 90,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 1.4429482844917582e-14,
+      "sugar_center_deviation_angstrom": 0.15580945029140073,
+      "phosphate_preservation_shift_angstrom": 0.773691050587904
+    },
+    {
+      "chain": "0",
+      "residue": 91,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.027487329997432e-15,
+      "sugar_center_deviation_angstrom": 0.1552818126894473,
+      "phosphate_preservation_shift_angstrom": 1.2301061886000746
+    },
+    {
+      "chain": "0",
+      "residue": 92,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.878883444232895e-14,
+      "sugar_center_deviation_angstrom": 0.15234765638607461,
+      "phosphate_preservation_shift_angstrom": 1.1464237159572392
+    },
+    {
+      "chain": "0",
+      "residue": 93,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 3.454203409104305e-15,
+      "sugar_center_deviation_angstrom": 0.09942480815868197,
+      "phosphate_preservation_shift_angstrom": 1.1231870233195376
+    },
+    {
+      "chain": "0",
+      "residue": 94,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 5.8946465275414735e-15,
+      "sugar_center_deviation_angstrom": 0.10527910138193479,
+      "phosphate_preservation_shift_angstrom": 0.9136992219645914
+    },
+    {
+      "chain": "0",
+      "residue": 95,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 4.022793205352079e-14,
+      "sugar_center_deviation_angstrom": 0.10535404736397583,
+      "phosphate_preservation_shift_angstrom": 0.554833178394622
+    },
+    {
+      "chain": "0",
+      "residue": 96,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 4.9398811753806863e-14,
+      "sugar_center_deviation_angstrom": 0.15942968989616374,
+      "phosphate_preservation_shift_angstrom": 0.5861021726077362
+    },
+    {
+      "chain": "0",
+      "residue": 97,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 5.692838391665561e-14,
+      "sugar_center_deviation_angstrom": 0.09362935652192664,
+      "phosphate_preservation_shift_angstrom": 0.549941253202082
+    },
+    {
+      "chain": "0",
+      "residue": 98,
+      "base": "A",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.8940002804281704e-14,
+      "sugar_center_deviation_angstrom": 0.16282318706983967,
+      "phosphate_preservation_shift_angstrom": 1.049166740046777
+    },
+    {
+      "chain": "0",
+      "residue": 99,
+      "base": "G",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.931220072348316e-14,
+      "sugar_center_deviation_angstrom": 0.09755575730853476,
+      "phosphate_preservation_shift_angstrom": 0.7598065713183293
+    },
+    {
+      "chain": "0",
+      "residue": 100,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 2.9364821847588454e-14,
+      "sugar_center_deviation_angstrom": 0.10224933983585048,
+      "phosphate_preservation_shift_angstrom": 0.623201062783688
+    },
+    {
+      "chain": "0",
+      "residue": 101,
+      "base": "C",
+      "constraints": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "ZVEC"
+      ],
+      "fit_rmsd_angstrom": 5.145497462003087e-15,
+      "sugar_center_deviation_angstrom": 0.10839959809170292,
+      "phosphate_preservation_shift_angstrom": 0.9806039665195629
+    }
+  ]
+}

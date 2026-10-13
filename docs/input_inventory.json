@@ -1,0 +1,1018 @@
+[
+  {
+    "file": "CG_models/.DS_Store",
+    "bytes": 8196,
+    "sha256": "ac00092e6991a2f3429e3e9256ee03642aa8abe9552203e5486de14f781e88ea",
+    "format": "macOS metadata (not structural data)"
+  },
+  {
+    "file": "CG_models/exp.pdb",
+    "bytes": 172324,
+    "sha256": "72b3650746c09426a4bf2debb8b46c12b15a5ce6746974fd18d55f4958772960",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "OP1",
+        "OP2",
+        "O5'",
+        "C5'",
+        "C4'",
+        "O4'",
+        "C3'",
+        "O3'",
+        "C2'",
+        "O2'",
+        "C1'",
+        "N9",
+        "C8",
+        "N7",
+        "C5",
+        "C6",
+        "N6",
+        "N1",
+        "C2",
+        "N3",
+        "C4"
+      ],
+      "U": [
+        "P",
+        "OP1",
+        "OP2",
+        "O5'",
+        "C5'",
+        "C4'",
+        "O4'",
+        "C3'",
+        "O3'",
+        "C2'",
+        "O2'",
+        "C1'",
+        "N1",
+        "C2",
+        "O2",
+        "N3",
+        "C4",
+        "O4",
+        "C5",
+        "C6"
+      ],
+      "G": [
+        "P",
+        "OP1",
+        "OP2",
+        "O5'",
+        "C5'",
+        "C4'",
+        "O4'",
+        "C3'",
+        "O3'",
+        "C2'",
+        "O2'",
+        "C1'",
+        "N9",
+        "C8",
+        "N7",
+        "C5",
+        "C6",
+        "O6",
+        "N1",
+        "C2",
+        "N2",
+        "N3",
+        "C4"
+      ],
+      "C": [
+        "P",
+        "OP1",
+        "OP2",
+        "O5'",
+        "C5'",
+        "C4'",
+        "O4'",
+        "C3'",
+        "O3'",
+        "C2'",
+        "O2'",
+        "C1'",
+        "N1",
+        "C2",
+        "O2",
+        "N3",
+        "C4",
+        "N4",
+        "C5",
+        "C6"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_FebRNA.cif",
+    "bytes": 44918,
+    "sha256": "567ec3b6297578730c238e69a57e0fe893c3586fbf8b7550802099da71953db5",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "U": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "G": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "C": [
+        "P",
+        "C4'",
+        "N1"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_FebRNA.pdb",
+    "bytes": 49755,
+    "sha256": "ca6f4cb286918f10cfd6657afee2d69128ea461f994e8ce19d200e4e86169759",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "U": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "G": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "C": [
+        "P",
+        "C4'",
+        "N1"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_HiRE-RNA.cif",
+    "bytes": 99961,
+    "sha256": "90f9fa1c25d3f2371475251e2fb1069e798eec7e0b89b8b56e1e0e048230ea88",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "U": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "G": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "C": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_HiRE-RNA.pdb",
+    "bytes": 108563,
+    "sha256": "a09ec9dbf07f74b9de5d6ddb6fb73514a57bd1de72932a64601cd6191bbe272c",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "U": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "G": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "C": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_NAST.cif",
+    "bytes": 17089,
+    "sha256": "519ce46978f44b278ff0c66b64870eb58a0e4d566d6b7a641ea53bbe41daf57d",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "C3'"
+      ],
+      "U": [
+        "C3'"
+      ],
+      "G": [
+        "C3'"
+      ],
+      "C": [
+        "C3'"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_NAST.pdb",
+    "bytes": 16705,
+    "sha256": "0f7440580f2fbf3c4c8961de2923191c9767fc3bbdb74bb923acb19f52c410e4",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "C3'"
+      ],
+      "U": [
+        "C3'"
+      ],
+      "G": [
+        "C3'"
+      ],
+      "C": [
+        "C3'"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_Nares-2P.cif",
+    "bytes": 46913,
+    "sha256": "0224d6689efe0367aa6a02488cd16e3f83c5a1c983aa902cbbbd7d1c981a381b",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "S",
+        "B"
+      ],
+      "U": [
+        "P",
+        "S",
+        "B"
+      ],
+      "G": [
+        "P",
+        "S",
+        "B"
+      ],
+      "C": [
+        "P",
+        "S",
+        "B"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_Nares-2P.pdb",
+    "bytes": 49757,
+    "sha256": "6cc8796ca4381aa30f463c1c74d478334c90119d8e8b71129cdf467e994b8bfb",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "S",
+        "B"
+      ],
+      "U": [
+        "P",
+        "S",
+        "B"
+      ],
+      "G": [
+        "P",
+        "S",
+        "B"
+      ],
+      "C": [
+        "P",
+        "S",
+        "B"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_RNA-JP.cif",
+    "bytes": 80210,
+    "sha256": "1cc9766e38998d0ae477e943c82822ab65265a2128c03a6efe7d4b0472566e0f",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "C4'",
+        "N9",
+        "C6",
+        "C2"
+      ],
+      "U": [
+        "P",
+        "C4'",
+        "N1",
+        "C2",
+        "C4"
+      ],
+      "G": [
+        "P",
+        "C4'",
+        "N9",
+        "C6",
+        "C2"
+      ],
+      "C": [
+        "P",
+        "C4'",
+        "N1",
+        "C2",
+        "C4"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_RNA-JP.pdb",
+    "bytes": 82803,
+    "sha256": "52739a50bfcae07d34c580b2be7fdccd1d1bd64046a7092f3cf4a43cab918cd5",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "C4'",
+        "N9",
+        "C6",
+        "C2"
+      ],
+      "U": [
+        "P",
+        "C4'",
+        "N1",
+        "C2",
+        "C4"
+      ],
+      "G": [
+        "P",
+        "C4'",
+        "N9",
+        "C6",
+        "C2"
+      ],
+      "C": [
+        "P",
+        "C4'",
+        "N1",
+        "C2",
+        "C4"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_SPQR.pdb",
+    "bytes": 28690,
+    "sha256": "52a9a90f7cb339ecc1ae770d38228ff416aa82d4c089647d0a8a3c90f9691c00",
+    "format": "SPQR native PDB",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "0"
+    ],
+    "sites_by_base": {
+      "A": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "SUGR",
+        "PHOS"
+      ],
+      "U": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "SUGR",
+        "PHOS"
+      ],
+      "G": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "SUGR",
+        "PHOS"
+      ],
+      "C": [
+        "BASE",
+        "XVEC",
+        "YVEC",
+        "SUGR",
+        "PHOS"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_SimRNA.cif",
+    "bytes": 80210,
+    "sha256": "7e4f5248aed20d8074269db12570e637a4d4d17d9ecf05bf7677de4b2eab9cb8",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "C4'",
+        "N9",
+        "C6",
+        "C2"
+      ],
+      "U": [
+        "P",
+        "C4'",
+        "N1",
+        "C2",
+        "C4"
+      ],
+      "G": [
+        "P",
+        "C4'",
+        "N9",
+        "C6",
+        "C2"
+      ],
+      "C": [
+        "P",
+        "C4'",
+        "N1",
+        "C2",
+        "C4"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_SimRNA.pdb",
+    "bytes": 82803,
+    "sha256": "d9d921e00401de2c1969b27a73f31ee9003629793b572cf322aadd37c132e8cc",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "C4'",
+        "N9",
+        "C6",
+        "C2"
+      ],
+      "U": [
+        "P",
+        "C4'",
+        "N1",
+        "C2",
+        "C4"
+      ],
+      "G": [
+        "P",
+        "C4'",
+        "N9",
+        "C6",
+        "C2"
+      ],
+      "C": [
+        "P",
+        "C4'",
+        "N1",
+        "C2",
+        "C4"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_TopRNA.cif",
+    "bytes": 45580,
+    "sha256": "7117459365cdce226237d91d89617ec75fe87aeb879e00323a94a04d8dab0e5c",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "S",
+        "B"
+      ],
+      "U": [
+        "P",
+        "S",
+        "B"
+      ],
+      "G": [
+        "P",
+        "S",
+        "B"
+      ],
+      "C": [
+        "P",
+        "S",
+        "B"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_TopRNA.pdb",
+    "bytes": 49755,
+    "sha256": "64a3c39973c07fb8380014b90e24e7cd2029d09b12e9d34100ff667058f1048a",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "S",
+        "B"
+      ],
+      "U": [
+        "P",
+        "S",
+        "B"
+      ],
+      "G": [
+        "P",
+        "S",
+        "B"
+      ],
+      "C": [
+        "P",
+        "S",
+        "B"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_VFold.cif",
+    "bytes": 44916,
+    "sha256": "93c838930c9f6116eeffa57e52f92b1620fb41acbe562a517ae80913745ffd3c",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "U": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "G": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "C": [
+        "P",
+        "C4'",
+        "N1"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_VFold.pdb",
+    "bytes": 49754,
+    "sha256": "d8b88e02448c527ca60ed8af32a1ec77496934aa32b6afd01f49c1d064059d49",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "U": [
+        "P",
+        "C4'",
+        "N1"
+      ],
+      "G": [
+        "P",
+        "C4'",
+        "N9"
+      ],
+      "C": [
+        "P",
+        "C4'",
+        "N1"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_YUP.cif",
+    "bytes": 15872,
+    "sha256": "3e2a369a6f662c639c37860efc1e1d31ccd7252ac7d92d50782448d0d0a152de",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P"
+      ],
+      "U": [
+        "P"
+      ],
+      "G": [
+        "P"
+      ],
+      "C": [
+        "P"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_YUP.pdb",
+    "bytes": 16704,
+    "sha256": "a92cc6bca948e02e0c7050222facf65eedbf1c04c567c9578e6336186eab5193",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P"
+      ],
+      "U": [
+        "P"
+      ],
+      "G": [
+        "P"
+      ],
+      "C": [
+        "P"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_iFoldRNA.cif",
+    "bytes": 47512,
+    "sha256": "c4401c7f8eebaccd7aaf23cb6bca8ccea98e5b93090806390ac69f2b53e771c3",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "S",
+        "B"
+      ],
+      "U": [
+        "P",
+        "S",
+        "B"
+      ],
+      "G": [
+        "P",
+        "S",
+        "B"
+      ],
+      "C": [
+        "P",
+        "S",
+        "B"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_iFoldRNA.pdb",
+    "bytes": 49757,
+    "sha256": "daae85052b150adc1b30ba6b0f1f3bba7f8b213dd98335fe67550e3cd47e5d5f",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "S",
+        "B"
+      ],
+      "U": [
+        "P",
+        "S",
+        "B"
+      ],
+      "G": [
+        "P",
+        "S",
+        "B"
+      ],
+      "C": [
+        "P",
+        "S",
+        "B"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_isRNA1.cif",
+    "bytes": 75526,
+    "sha256": "21babb00e1fdffa3b046d82fb88dd6fb01abbf7ac39330254756cd9a0152bf67",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "S",
+        "R_C",
+        "A_C",
+        "A_N"
+      ],
+      "U": [
+        "P",
+        "S",
+        "Y_C",
+        "U_O"
+      ],
+      "G": [
+        "P",
+        "S",
+        "R_C",
+        "G_O",
+        "G_N"
+      ],
+      "C": [
+        "P",
+        "S",
+        "Y_C",
+        "C_N"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_isRNA1.pdb",
+    "bytes": 75513,
+    "sha256": "a5100407cf45f6dba49a7ef999d9b0ee9a5b8ff3abc9502d3c8c77eaa54c397e",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "S",
+        "R_C",
+        "A_C",
+        "A_N"
+      ],
+      "U": [
+        "P",
+        "S",
+        "Y_C",
+        "U_O"
+      ],
+      "G": [
+        "P",
+        "S",
+        "R_C",
+        "G_O",
+        "G_N"
+      ],
+      "C": [
+        "P",
+        "S",
+        "Y_C",
+        "C_N"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_isRNA2.cif",
+    "bytes": 86303,
+    "sha256": "d1893d77ff8a10a02073799c3fb4b5f661e7ac44ff1c2a6dba05fac1cd045400",
+    "format": "cif",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "S",
+        "R_1",
+        "A_1",
+        "A_2"
+      ],
+      "U": [
+        "P",
+        "S",
+        "Y_1",
+        "Y_2",
+        "U_1"
+      ],
+      "G": [
+        "P",
+        "S",
+        "R_1",
+        "G_1",
+        "G_2"
+      ],
+      "C": [
+        "P",
+        "S",
+        "Y_1",
+        "Y_2",
+        "C_1"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_isRNA2.pdb",
+    "bytes": 82803,
+    "sha256": "f421dc521022eb1d8f93c3c4d65665c6f57aca64575bacdbc45edc33d58ecebd",
+    "format": "pdb",
+    "residues": 102,
+    "sequence": "GCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC",
+    "chains": [
+      "A"
+    ],
+    "sites_by_base": {
+      "A": [
+        "P",
+        "S",
+        "R_1",
+        "A_1",
+        "A_2"
+      ],
+      "U": [
+        "P",
+        "S",
+        "Y_1",
+        "Y_2",
+        "U_1"
+      ],
+      "G": [
+        "P",
+        "S",
+        "R_1",
+        "G_1",
+        "G_2"
+      ],
+      "C": [
+        "P",
+        "S",
+        "Y_1",
+        "Y_2",
+        "C_1"
+      ]
+    }
+  },
+  {
+    "file": "CG_models/exp_oxRNA.dat",
+    "bytes": 17804,
+    "sha256": "f38347e68809333c4d96b496c80dac86a74109dede7cfe73c45d0d4b7e71306c",
+    "format": "oxRNA configuration DAT",
+    "rigid_bodies": 102,
+    "fields_per_body": 15,
+    "topology_in_archive": false,
+    "sequence_in_archive": false,
+    "orientations": [
+      "a1",
+      "a3"
+    ],
+    "companion_topology": "examples/auxiliary/exp_oxRNA.top"
+  }
+]

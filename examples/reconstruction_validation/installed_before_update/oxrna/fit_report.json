@@ -1,0 +1,4697 @@
+{
+  "mode": "oxrna",
+  "residues": [
+    {
+      "chain": "1",
+      "residue": 1,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080499,
+      "orientation_vector_residuals": [
+        0.12664622784641574,
+        0.2482003665009833,
+        0.00961375142480642
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389684,
+        1.1942015343863894
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        11.9528798931938,
+        41.7660336501427,
+        73.5208585823939
+      ],
+      "input_axes": [
+        [
+          0.840355124117691,
+          -0.3769332271154,
+          0.389518430456776
+        ],
+        [
+          0.125943584393076,
+          -0.5631697557429967,
+          -0.816687234972236
+        ],
+        [
+          0.527201554359776,
+          0.735364650029319,
+          -0.425790268286973
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 2,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465614,
+      "orientation_vector_residuals": [
+        0.08120758761329826,
+        0.25412379083869774,
+        0.050208689831228295
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025278,
+        0.37796938994022433
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        11.1093695712616,
+        42.4829044681378,
+        73.3534491855249
+      ],
+      "input_axes": [
+        [
+          -0.784299758548386,
+          -0.382871899635384,
+          0.48814239439997
+        ],
+        [
+          -0.02545568696179612,
+          0.8060399596381986,
+          0.5913134460400457
+        ],
+        [
+          -0.619859578245142,
+          0.451340992970995,
+          -0.641923212948177
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 3,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903476,
+      "orientation_vector_residuals": [
+        0.08307670052047968,
+        0.256601383247592,
+        0.0573808338369476
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.026376601793908,
+        0.35393841245651964
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.5806652360481,
+        42.6155860280368,
+        72.5339865420174
+      ],
+      "input_axes": [
+        [
+          0.324358829665034,
+          -0.396151923792472,
+          -0.858984867674543
+        ],
+        [
+          -0.7072598862452043,
+          0.5014502526823373,
+          -0.4983283028217828
+        ],
+        [
+          0.628151894788791,
+          0.769162724890086,
+          -0.117532547462004
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 4,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465602,
+      "orientation_vector_residuals": [
+        0.08120758761329881,
+        0.2541237908386964,
+        0.05020868983122724
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025242,
+        0.3779693899402263
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.4222635905365,
+        42.2305496306382,
+        72.6434648062533
+      ],
+      "input_axes": [
+        [
+          0.0606807407538288,
+          -0.233279504460428,
+          -0.970514564805837
+        ],
+        [
+          0.4644096153502484,
+          0.8672550329476753,
+          -0.17942245399380408
+        ],
+        [
+          0.883539222033634,
+          -0.439828808317079,
+          0.160962922757315
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 5,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903486,
+      "orientation_vector_residuals": [
+        0.08307670052047976,
+        0.2566013832475914,
+        0.05738083383694806
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.026376601793911,
+        0.3539384124565183
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.0662246048126,
+        41.3048633499557,
+        72.8296823352071
+      ],
+      "input_axes": [
+        [
+          -0.19983081114383,
+          -0.80861867786175,
+          0.553356558405803
+        ],
+        [
+          0.7142516111358973,
+          -0.5068188764198639,
+          -0.48267925426133923
+        ],
+        [
+          0.670755009602891,
+          0.298781626472617,
+          0.67883522063532
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 6,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080494,
+      "orientation_vector_residuals": [
+        0.12664622784641563,
+        0.24820036650098318,
+        0.009613751424808364
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389699,
+        1.1942015343863874
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.6857684109678,
+        41.1761128575764,
+        73.4866844883178
+      ],
+      "input_axes": [
+        [
+          0.245319137762329,
+          -0.762828737366755,
+          0.598256498581495
+        ],
+        [
+          0.9177963720230684,
+          -0.015983947690397043,
+          -0.39672954631275636
+        ],
+        [
+          0.312199199468612,
+          0.646402994163605,
+          0.696200279364699
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 7,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080493,
+      "orientation_vector_residuals": [
+        0.1266462278464155,
+        0.24820036650098312,
+        0.009613751424807384
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.673122436838969,
+        1.1942015343863877
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        11.3290535540416,
+        41.8121231603317,
+        74.1746204310028
+      ],
+      "input_axes": [
+        [
+          0.821878554384191,
+          0.281429537528115,
+          0.49529088145257
+        ],
+        [
+          0.43031490717170895,
+          0.2630210404189858,
+          -0.863509706351189
+        ],
+        [
+          -0.373289060259145,
+          0.922831158827889,
+          0.0950680271553941
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 8,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903493,
+      "orientation_vector_residuals": [
+        0.08307670052047979,
+        0.2566013832475921,
+        0.05738083383694864
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939122,
+        0.3539384124565188
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        11.4230814561676,
+        41.2732819441306,
+        74.3486094410067
+      ],
+      "input_axes": [
+        [
+          0.95147574396971,
+          0.256502598830776,
+          -0.170000957145379
+        ],
+        [
+          -0.2379971226864962,
+          0.2631952470954309,
+          -0.9349254684194487
+        ],
+        [
+          -0.195067368440331,
+          0.930018644275175,
+          0.31147077402275
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 9,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169919,
+      "orientation_vector_residuals": [
+        0.11544824086189111,
+        0.2439291440508946,
+        0.07234058123830815
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270306,
+        1.4064141336109655
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        11.225161251475,
+        40.7944260757363,
+        74.541831954653
+      ],
+      "input_axes": [
+        [
+          0.942953318631459,
+          0.329659183412383,
+          -0.0465173265977305
+        ],
+        [
+          -0.33215813714512116,
+          0.9410307789031871,
+          -0.06428098540894688
+        ],
+        [
+          0.0225834189218994,
+          0.0760650770639401,
+          0.996847076156145
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 10,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169925,
+      "orientation_vector_residuals": [
+        0.11544824086189145,
+        0.24392914405089489,
+        0.07234058123830832
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270304,
+        1.4064141336109668
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.8556082206802,
+        40.1330398962727,
+        75.0521615404952
+      ],
+      "input_axes": [
+        [
+          -0.254946849168853,
+          0.835387720300422,
+          0.486959403718767
+        ],
+        [
+          0.7714724598251352,
+          0.47933738654660984,
+          -0.41840878765869804
+        ],
+        [
+          -0.582951411208713,
+          0.269003766943754,
+          -0.76668417587677
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 11,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465608,
+      "orientation_vector_residuals": [
+        0.08120758761329816,
+        0.254123790838697,
+        0.05020868983122719
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.024690669802526,
+        0.377969389940225
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.3104008916004,
+        39.8068310927795,
+        74.9697728411977
+      ],
+      "input_axes": [
+        [
+          0.265035863976228,
+          -0.546268263411846,
+          0.794573454877131
+        ],
+        [
+          -0.8014530770794973,
+          0.33337239981482525,
+          0.49652372378518805
+        ],
+        [
+          -0.536124011816464,
+          -0.768409934495065,
+          -0.349452738611547
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 12,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903486,
+      "orientation_vector_residuals": [
+        0.08307670052047962,
+        0.25660138324759163,
+        0.05738083383694905
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.026376601793911,
+        0.3539384124565176
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.1193981457157,
+        40.4856314404836,
+        74.5746693050117
+      ],
+      "input_axes": [
+        [
+          0.776984327549877,
+          -0.482168697670296,
+          0.404732877005065
+        ],
+        [
+          -0.08109993090430961,
+          0.560897759920818,
+          0.8239032128369957
+        ],
+        [
+          -0.624274103218435,
+          -0.672983692152149,
+          0.396704920751027
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 13,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169921,
+      "orientation_vector_residuals": [
+        0.11544824086189123,
+        0.24392914405089441,
+        0.07234058123830772
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.736625170927029,
+        1.406414133610967
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        9.94354887272087,
+        40.5947369784014,
+        75.2364159293622
+      ],
+      "input_axes": [
+        [
+          0.999832915282713,
+          -0.0181968828898795,
+          0.00173636700118253
+        ],
+        [
+          -0.000957322486976737,
+          0.042733555676362896,
+          0.9990860457202422
+        ],
+        [
+          -0.0182544529068037,
+          -0.998920775973924,
+          0.0427089952671107
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 14,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080504,
+      "orientation_vector_residuals": [
+        0.12664622784641566,
+        0.2482003665009832,
+        0.009613751424807781
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389696,
+        1.19420153438639
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.0237562722675,
+        41.1708648212718,
+        75.5426581374153
+      ],
+      "input_axes": [
+        [
+          0.953661580678079,
+          -0.193283458047451,
+          -0.230588582509642
+        ],
+        [
+          0.26424702861938854,
+          0.17154018335223578,
+          0.9490771693394088
+        ],
+        [
+          -0.143885709521171,
+          -0.966030781259428,
+          0.21466586187582
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 15,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169927,
+      "orientation_vector_residuals": [
+        0.11544824086189134,
+        0.2439291440508952,
+        0.07234058123830765
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270306,
+        1.4064141336109675
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.2448927073251,
+        41.9271155760882,
+        75.7175619747061
+      ],
+      "input_axes": [
+        [
+          0.735463576830826,
+          0.662874595047212,
+          -0.14032319265254
+        ],
+        [
+          -0.34023326573788504,
+          0.18220373162538928,
+          -0.9225199862697381
+        ],
+        [
+          -0.585947652986632,
+          0.726222466894806,
+          0.359536196420724
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 16,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080495,
+      "orientation_vector_residuals": [
+        0.1266462278464157,
+        0.24820036650098296,
+        0.009613751424807417
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389688,
+        1.1942015343863883
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.0430769347657,
+        42.3995523093339,
+        76.3370870606988
+      ],
+      "input_axes": [
+        [
+          -0.296032047475449,
+          0.138262811264194,
+          0.945118205246739
+        ],
+        [
+          0.8348074545812626,
+          0.5182928439216211,
+          0.1856584006049618
+        ],
+        [
+          -0.464178350036974,
+          0.843952559662544,
+          -0.268854117312702
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 17,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169921,
+      "orientation_vector_residuals": [
+        0.11544824086189137,
+        0.243929144050894,
+        0.07234058123830722
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.73662517092703,
+        1.4064141336109663
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.9662203893437,
+        42.9162565142373,
+        75.4324656853522
+      ],
+      "input_axes": [
+        [
+          0.408043020909891,
+          0.676698066310559,
+          -0.612846326690696
+        ],
+        [
+          -0.8720583463595105,
+          0.487574222190683,
+          -0.04225657818453202
+        ],
+        [
+          0.27021312631226,
+          0.551680256042121,
+          0.789071455231942
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 18,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903494,
+      "orientation_vector_residuals": [
+        0.08307670052047988,
+        0.25660138324759263,
+        0.05738083383694841
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939124,
+        0.35393841245651875
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        11.184259428584,
+        42.9276760854475,
+        75.5172731182436
+      ],
+      "input_axes": [
+        [
+          -0.77317148262435,
+          0.632379307147083,
+          0.0479819794156038
+        ],
+        [
+          0.6338559804682797,
+          0.773021714960987,
+          0.025768667473727646
+        ],
+        [
+          -0.0207955399319332,
+          0.0503372634432021,
+          -0.99851575121677
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 19,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465603,
+      "orientation_vector_residuals": [
+        0.08120758761329872,
+        0.25412379083869613,
+        0.05020868983122771
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025244,
+        0.3779693899402268
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.7922827541553,
+        42.2636317668126,
+        74.9088607536645
+      ],
+      "input_axes": [
+        [
+          -0.0771370758711233,
+          -0.865881579312909,
+          -0.494266084343883
+        ],
+        [
+          -0.9609092085893571,
+          0.19677735524520049,
+          -0.19476181687096694
+        ],
+        [
+          0.265901042446675,
+          0.459921474894667,
+          -0.847212412890939
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 20,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465613,
+      "orientation_vector_residuals": [
+        0.08120758761329867,
+        0.2541237908386972,
+        0.05020868983122835
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.024690669802527,
+        0.3779693899402257
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.901139118406,
+        42.4939925017835,
+        74.2611597400487
+      ],
+      "input_axes": [
+        [
+          0.881204234015976,
+          -0.450727911135939,
+          -0.142560331352556
+        ],
+        [
+          -0.3188692705248187,
+          -0.3440854594965677,
+          -0.8831350886914231
+        ],
+        [
+          0.34900069665731,
+          0.823680488227122,
+          -0.4469328440008
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 21,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465604,
+      "orientation_vector_residuals": [
+        0.08120758761329817,
+        0.25412379083869685,
+        0.05020868983122662
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025255,
+        0.3779693899402244
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        10.035378095,
+        42.7096552958016,
+        74.2402478032302
+      ],
+      "input_axes": [
+        [
+          -0.11961236370562,
+          0.782118333782179,
+          0.611542144427138
+        ],
+        [
+          -0.861984764238011,
+          0.22382099301288474,
+          -0.45484769902492195
+        ],
+        [
+          -0.492620694520941,
+          -0.581545419592068,
+          0.647402329530247
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 22,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903482,
+      "orientation_vector_residuals": [
+        0.08307670052047972,
+        0.25660138324759135,
+        0.057380833836948204
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939098,
+        0.3539384124565184
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        9.21813291136975,
+        41.9326232420239,
+        73.7657974834018
+      ],
+      "input_axes": [
+        [
+          -0.556500236308207,
+          -0.666634005605386,
+          -0.495889694951838
+        ],
+        [
+          0.396938828425212,
+          -0.7376490737656882,
+          0.5461807488927461
+        ],
+        [
+          -0.729895234590095,
+          0.107111841283488,
+          0.675114805036544
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 23,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465612,
+      "orientation_vector_residuals": [
+        0.08120758761329856,
+        0.2541237908386975,
+        0.05020868983122736
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025267,
+        0.3779693899402255
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        9.54590911017972,
+        42.572551130887,
+        74.3147379246505
+      ],
+      "input_axes": [
+        [
+          0.336896250737022,
+          -0.708613821072804,
+          0.61997368397694
+        ],
+        [
+          0.8160826407245052,
+          0.5481699814169638,
+          0.18308138895432638
+        ],
+        [
+          -0.469584965418887,
+          0.444270327681162,
+          0.762963849860933
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 24,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169927,
+      "orientation_vector_residuals": [
+        0.1154482408618911,
+        0.2439291440508942,
+        0.07234058123830744
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270304,
+        1.4064141336109675
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        9.25262039993209,
+        43.2103137231291,
+        73.5939239265392
+      ],
+      "input_axes": [
+        [
+          0.996223997681949,
+          0.0699146451296853,
+          0.0514751283532806
+        ],
+        [
+          -0.05789709148260042,
+          0.9767965753088631,
+          -0.2061949981515865
+        ],
+        [
+          -0.0646967792123531,
+          0.202436145145247,
+          0.977156043781279
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 25,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.625611098508051,
+      "orientation_vector_residuals": [
+        0.1266462278464157,
+        0.2482003665009831,
+        0.009613751424806999
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389693,
+        1.1942015343863916
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        8.58119579393529,
+        43.7340155347876,
+        74.553039045392
+      ],
+      "input_axes": [
+        [
+          0.0028978220924574,
+          0.939996115126255,
+          -0.341172839151457
+        ],
+        [
+          0.8752295399837693,
+          0.16264229950024484,
+          0.455544437736944
+        ],
+        [
+          0.483699136826723,
+          -0.299924633801257,
+          -0.822241058979825
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 26,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169917,
+      "orientation_vector_residuals": [
+        0.1154482408618911,
+        0.2439291440508946,
+        0.07234058123830825
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270304,
+        1.4064141336109646
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        8.28399448561769,
+        42.9307232579905,
+        74.391370184987
+      ],
+      "input_axes": [
+        [
+          0.937554223813226,
+          -0.344776465570723,
+          -0.0460572057178872
+        ],
+        [
+          0.34332507591707,
+          0.9385017577106597,
+          -0.036637999679851686
+        ],
+        [
+          0.0558566885566792,
+          0.0185375177022908,
+          0.998266693214253
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 27,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.503298383546561,
+      "orientation_vector_residuals": [
+        0.08120758761329828,
+        0.254123790838696,
+        0.05020868983122855
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025273,
+        0.37796938994022355
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        8.15991217274085,
+        42.6324474771724,
+        75.0134188706963
+      ],
+      "input_axes": [
+        [
+          0.930468580978369,
+          -0.226721504761758,
+          -0.287794334709122
+        ],
+        [
+          0.16052563625899088,
+          0.9583976050161105,
+          -0.2360202338847899
+        ],
+        [
+          0.329332263703009,
+          0.173411043414048,
+          0.928153473357883
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 28,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.503298383546561,
+      "orientation_vector_residuals": [
+        0.08120758761329837,
+        0.2541237908386965,
+        0.050208689831228275
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.024690669802527,
+        0.37796938994022333
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        7.11883945409904,
+        42.8513368082501,
+        74.9475196605482
+      ],
+      "input_axes": [
+        [
+          -0.368927690685458,
+          0.365191860080378,
+          -0.854708876973048
+        ],
+        [
+          -0.7947029310224021,
+          -0.6008310578422551,
+          0.08630927734931138
+        ],
+        [
+          -0.482016193161494,
+          0.711081532078559,
+          0.511882256253243
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 29,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465622,
+      "orientation_vector_residuals": [
+        0.08120758761329841,
+        0.25412379083869674,
+        0.05020868983123033
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025295,
+        0.37796938994022466
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        7.03662405325212,
+        42.3287051998459,
+        75.6145141744697
+      ],
+      "input_axes": [
+        [
+          0.0508470539165618,
+          -0.239036358387786,
+          -0.969678398478956
+        ],
+        [
+          0.1422774627086734,
+          0.9627648830410916,
+          -0.22987149363951015
+        ],
+        [
+          0.988519954635814,
+          -0.126275093948027,
+          0.0829632444834977
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 30,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.50095107479035,
+      "orientation_vector_residuals": [
+        0.08307670052048008,
+        0.25660138324759246,
+        0.05738083383694835
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939138,
+        0.35393841245651864
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        7.2310101355441,
+        41.8919520856747,
+        76.0373458481415
+      ],
+      "input_axes": [
+        [
+          -0.0430956554010323,
+          0.00851228996682364,
+          0.99903468678774
+        ],
+        [
+          -0.8860010028831385,
+          -0.46241445319505925,
+          -0.034279678621459544
+        ],
+        [
+          0.461676279849454,
+          -0.886623039626107,
+          0.0274699513747888
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 31,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903493,
+      "orientation_vector_residuals": [
+        0.08307670052047951,
+        0.25660138324759246,
+        0.057380833836949384
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939124,
+        0.35393841245651747
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        6.93209757079438,
+        40.8529078153991,
+        76.1011050661149
+      ],
+      "input_axes": [
+        [
+          0.204825200685667,
+          -0.201533403611791,
+          0.957826145181224
+        ],
+        [
+          0.9738788636722829,
+          -0.05602940770407822,
+          -0.22004695945346375
+        ],
+        [
+          0.0980132442910668,
+          0.97787780049502,
+          0.184792887424172
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 32,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903485,
+      "orientation_vector_residuals": [
+        0.08307670052047932,
+        0.2566013832475921,
+        0.05738083383694857
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.026376601793911,
+        0.3539384124565172
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        6.92778152648611,
+        40.3052396983636,
+        75.3674829837938
+      ],
+      "input_axes": [
+        [
+          0.971080686477101,
+          -0.234254772776319,
+          -0.0461194295571644
+        ],
+        [
+          0.23472721174249309,
+          0.9720482523537288,
+          0.005033007416702788
+        ],
+        [
+          0.0436513048918113,
+          -0.0157129414043636,
+          0.998923253835681
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 33,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903492,
+      "orientation_vector_residuals": [
+        0.0830767005204801,
+        0.2566013832475921,
+        0.05738083383694802
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939118,
+        0.35393841245651964
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        6.20079181923522,
+        40.5419442585194,
+        75.278455309093
+      ],
+      "input_axes": [
+        [
+          -0.0694045989436551,
+          -0.966085238928904,
+          -0.24872135567569
+        ],
+        [
+          -0.905131746304344,
+          0.16580907702062003,
+          -0.3914637554226714
+        ],
+        [
+          0.419427614109421,
+          0.197956210059833,
+          -0.885942331882402
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 34,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169918,
+      "orientation_vector_residuals": [
+        0.11544824086189127,
+        0.24392914405089394,
+        0.07234058123830579
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.73662517092703,
+        1.4064141336109655
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        6.06432900891259,
+        41.2962528468095,
+        75.5355199556924
+      ],
+      "input_axes": [
+        [
+          0.459875868622721,
+          -0.579422046721888,
+          0.672892470779036
+        ],
+        [
+          0.884123667822855,
+          0.22819676647994955,
+          -0.40773959307817575
+        ],
+        [
+          0.0827014235304261,
+          0.782429758854246,
+          0.617222931367044
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 35,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080485,
+      "orientation_vector_residuals": [
+        0.12664622784641533,
+        0.2482003665009828,
+        0.009613751424808767
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.67312243683897,
+        1.194201534386385
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        5.9754358469492,
+        40.975500973129,
+        74.5605355615386
+      ],
+      "input_axes": [
+        [
+          0.809761893126825,
+          -0.327884777245298,
+          -0.486597625652307
+        ],
+        [
+          -0.3037286723760645,
+          0.4753153003459443,
+          -0.8257265036522194
+        ],
+        [
+          0.502030447300096,
+          0.816435507623135,
+          0.285304209355241
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 36,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903494,
+      "orientation_vector_residuals": [
+        0.08307670052048016,
+        0.25660138324759235,
+        0.0573808338369479
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939127,
+        0.3539384124565183
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        5.96368113652736,
+        41.4994597077097,
+        73.8098777621826
+      ],
+      "input_axes": [
+        [
+          0.968955400778605,
+          0.165976706970275,
+          -0.183240727037627
+        ],
+        [
+          -0.16202177949698465,
+          0.9861135784912124,
+          0.036454811532754955
+        ],
+        [
+          0.186746818635834,
+          -0.00563409784807155,
+          0.982391919078549
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 37,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465614,
+      "orientation_vector_residuals": [
+        0.08120758761329834,
+        0.25412379083869774,
+        0.050208689831228455
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025273,
+        0.37796938994022516
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        5.17142199782904,
+        40.5348483278703,
+        74.7031180685727
+      ],
+      "input_axes": [
+        [
+          0.0183066996582237,
+          -0.629050579608818,
+          0.777148784365924
+        ],
+        [
+          0.9993024916799247,
+          0.03681505369418945,
+          0.006259548209587294
+        ],
+        [
+          -0.0325483466541358,
+          0.776492124953824,
+          0.629285773726673
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 38,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169917,
+      "orientation_vector_residuals": [
+        0.115448240861891,
+        0.24392914405089441,
+        0.07234058123830828
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.736625170927031,
+        1.4064141336109646
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        4.61197968868193,
+        40.6471765274358,
+        74.8078179251559
+      ],
+      "input_axes": [
+        [
+          0.130852614514182,
+          -0.168277889205838,
+          0.977015939112168
+        ],
+        [
+          0.7848367023689102,
+          0.6197005101299524,
+          0.0016212215680206643
+        ],
+        [
+          -0.605730091616306,
+          0.766585826733775,
+          0.213160095612187
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 39,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080504,
+      "orientation_vector_residuals": [
+        0.12664622784641524,
+        0.24820036650098268,
+        0.0096137514248078
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389699,
+        1.19420153438639
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        4.5962638528277,
+        40.5897835084098,
+        74.8972355962879
+      ],
+      "input_axes": [
+        [
+          0.231991279768954,
+          0.971679288571477,
+          0.0449378044901036
+        ],
+        [
+          -0.44638025366552714,
+          0.14739366842358295,
+          -0.8826209694122028
+        ],
+        [
+          -0.864248063491415,
+          0.184701019677388,
+          0.467932493081503
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 40,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.500951074790349,
+      "orientation_vector_residuals": [
+        0.08307670052048005,
+        0.2566013832475921,
+        0.057380833836948496
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.026376601793911,
+        0.35393841245651947
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        4.65825547212015,
+        40.7232827176421,
+        75.1809384383902
+      ],
+      "input_axes": [
+        [
+          0.846178651315402,
+          -0.333915528089469,
+          0.415309655749512
+        ],
+        [
+          0.41897561571474373,
+          0.898457955258674,
+          -0.13127351625082317
+        ],
+        [
+          -0.329303998600835,
+          0.285085465664482,
+          0.900158404822378
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 41,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080497,
+      "orientation_vector_residuals": [
+        0.1266462278464156,
+        0.24820036650098307,
+        0.009613751424807514
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389687,
+        1.194201534386389
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        4.91800860626391,
+        40.6233920135135,
+        75.6293390186448
+      ],
+      "input_axes": [
+        [
+          0.555891344320854,
+          0.681902452928312,
+          -0.475388113018725
+        ],
+        [
+          -0.2651057396360076,
+          -0.39659540896765916,
+          -0.8788805541129113
+        ],
+        [
+          -0.787847548781614,
+          0.614590210039279,
+          -0.039687700899343
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 42,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903494,
+      "orientation_vector_residuals": [
+        0.08307670052047991,
+        0.25660138324759224,
+        0.05738083383694769
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939129,
+        0.3539384124565181
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        4.71653186416084,
+        39.9700979761457,
+        76.2193911649402
+      ],
+      "input_axes": [
+        [
+          0.932493798390648,
+          -0.127390678748501,
+          -0.337974748954679
+        ],
+        [
+          0.360896447249483,
+          0.29116782100099153,
+          0.8859881795917129
+        ],
+        [
+          -0.0144592643548463,
+          -0.948152369074471,
+          0.317487030747377
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 43,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080503,
+      "orientation_vector_residuals": [
+        0.1266462278464154,
+        0.24820036650098348,
+        0.009613751424807684
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389703,
+        1.1942015343863894
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        4.80773695281195,
+        39.1229508572771,
+        76.4020822164168
+      ],
+      "input_axes": [
+        [
+          0.945675324644302,
+          0.0388281879777242,
+          -0.322785613336871
+        ],
+        [
+          0.1264646430989626,
+          0.8707164625654591,
+          0.4752468157319363
+        ],
+        [
+          0.299507720108757,
+          -0.490250154141597,
+          0.818504680474947
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 44,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080496,
+      "orientation_vector_residuals": [
+        0.1266462278464156,
+        0.24820036650098332,
+        0.009613751424808003
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389693,
+        1.194201534386388
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        4.31570295156104,
+        38.7976465509423,
+        77.1967730966356
+      ],
+      "input_axes": [
+        [
+          0.988420637164028,
+          0.117452218651678,
+          -0.0960709131946583
+        ],
+        [
+          -0.11259246007904668,
+          0.9921427561175571,
+          0.05454988008058674
+        ],
+        [
+          0.101723065042327,
+          -0.0431013667678477,
+          0.993878609399125
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 45,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169916,
+      "orientation_vector_residuals": [
+        0.11544824086189137,
+        0.24392914405089414,
+        0.07234058123830775
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270317,
+        1.406414133610964
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        4.613667627604,
+        38.242290761298,
+        76.8868159108196
+      ],
+      "input_axes": [
+        [
+          0.378032406022515,
+          0.106395683788837,
+          -0.919658337899426
+        ],
+        [
+          -0.917731357735577,
+          -0.08773649653569737,
+          -0.38739058094442397
+        ],
+        [
+          -0.121904286330075,
+          0.990445488478164,
+          0.0644754164593589
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 46,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169926,
+      "orientation_vector_residuals": [
+        0.11544824086189123,
+        0.24392914405089428,
+        0.07234058123830651
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270306,
+        1.406414133610967
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        5.19186214106481,
+        39.1972391401301,
+        77.6799317761302
+      ],
+      "input_axes": [
+        [
+          -0.253688338198303,
+          0.719386604493546,
+          0.64662596633404
+        ],
+        [
+          -0.7708093486920596,
+          0.2535156220801362,
+          -0.5844508339717263
+        ],
+        [
+          -0.584375885052684,
+          -0.646693700786214,
+          0.490195963194643
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 47,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169924,
+      "orientation_vector_residuals": [
+        0.11544824086189127,
+        0.24392914405089353,
+        0.07234058123830794
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270294,
+        1.4064141336109672
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        5.06066695449363,
+        39.2212879242062,
+        76.8727185590334
+      ],
+      "input_axes": [
+        [
+          0.758529800499973,
+          -0.155788644466503,
+          -0.632742001141667
+        ],
+        [
+          -0.19589180000458079,
+          0.8715744463881157,
+          -0.4494267316195336
+        ],
+        [
+          0.621497340657575,
+          0.464852538616861,
+          0.630597472954834
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 48,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169915,
+      "orientation_vector_residuals": [
+        0.115448240861891,
+        0.24392914405089383,
+        0.07234058123830625
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270317,
+        1.406414133610964
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        4.19149071830628,
+        39.043262183556,
+        77.399297457689
+      ],
+      "input_axes": [
+        [
+          -0.293510875243637,
+          -0.0166331633725898,
+          -0.955811018972859
+        ],
+        [
+          -0.7832022572601881,
+          0.5774806797149024,
+          0.23045669610267658
+        ],
+        [
+          0.548129173038857,
+          0.816234894152557,
+          -0.182523990838201
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 49,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903498,
+      "orientation_vector_residuals": [
+        0.08307670052047997,
+        0.25660138324759235,
+        0.05738083383694892
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939133,
+        0.3539384124565188
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        4.67451568606099,
+        38.2024935303673,
+        77.65871835336
+      ],
+      "input_axes": [
+        [
+          0.39360055942037,
+          -0.696228756863304,
+          -0.600286696288158
+        ],
+        [
+          0.7070948538264102,
+          -0.18799187990614036,
+          0.6816714170196408
+        ],
+        [
+          -0.587448267778688,
+          -0.69276588484562,
+          0.418306061966457
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 50,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465614,
+      "orientation_vector_residuals": [
+        0.08120758761329845,
+        0.25412379083869685,
+        0.05020868983122809
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025282,
+        0.37796938994022367
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        3.72207325589232,
+        38.6320651372561,
+        78.3508732867995
+      ],
+      "input_axes": [
+        [
+          -0.148511626091402,
+          0.961984618040317,
+          -0.229194004218072
+        ],
+        [
+          -0.5050023513250559,
+          0.12549128813044175,
+          0.8539464630522972
+        ],
+        [
+          0.850245212907343,
+          0.242564488862629,
+          0.467167578788339
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 51,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903492,
+      "orientation_vector_residuals": [
+        0.08307670052047997,
+        0.25660138324759146,
+        0.057380833836948114
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939124,
+        0.35393841245651797
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        3.64135693417681,
+        37.8701139014246,
+        79.0758680949824
+      ],
+      "input_axes": [
+        [
+          0.477404094868858,
+          -0.846844780679902,
+          0.234391227731876
+        ],
+        [
+          -0.47875560192807637,
+          -0.027010779522336215,
+          0.8775326155830804
+        ],
+        [
+          -0.736802825608678,
+          -0.531153777379777,
+          -0.418326739463619
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 52,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465619,
+      "orientation_vector_residuals": [
+        0.08120758761329808,
+        0.25412379083869685,
+        0.0502086898312286
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025295,
+        0.37796938994022244
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        2.69421863125604,
+        37.4525472342544,
+        79.1392221898798
+      ],
+      "input_axes": [
+        [
+          -0.134003202600241,
+          -0.98945919728037,
+          0.0548966174747148
+        ],
+        [
+          0.1615383721978162,
+          0.032845170481252635,
+          0.9863196992272527
+        ],
+        [
+          -0.977726186619014,
+          0.14103790871019,
+          0.15543427005039
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 53,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903493,
+      "orientation_vector_residuals": [
+        0.08307670052047993,
+        0.2566013832475917,
+        0.057380833836947864
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939129,
+        0.35393841245651747
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        2.96064149725461,
+        37.9531873796488,
+        80.1492201848673
+      ],
+      "input_axes": [
+        [
+          0.834399623963609,
+          -0.397741173351204,
+          0.381548458980766
+        ],
+        [
+          -0.3743168153569058,
+          0.09918664581297611,
+          0.9219809819261113
+        ],
+        [
+          -0.404554309420198,
+          -0.91212058869076,
+          -0.0661199093765826
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 54,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169912,
+      "orientation_vector_residuals": [
+        0.11544824086189123,
+        0.24392914405089275,
+        0.0723405812383074
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270287,
+        1.406414133610965
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        3.14952009585856,
+        38.2240722372924,
+        79.7716787117245
+      ],
+      "input_axes": [
+        [
+          -0.613464197701465,
+          -0.657343205980162,
+          -0.437677492784607
+        ],
+        [
+          0.7402012128615478,
+          -0.6717788335580187,
+          -0.02855456638998219
+        ],
+        [
+          -0.275252325361278,
+          -0.341486615162512,
+          0.89867850149431
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 55,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080495,
+      "orientation_vector_residuals": [
+        0.12664622784641563,
+        0.24820036650098207,
+        0.009613751424807722
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389693,
+        1.1942015343863883
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        3.18628830074657,
+        39.1911110412945,
+        80.2215006384237
+      ],
+      "input_axes": [
+        [
+          0.615596470468192,
+          0.755027413740947,
+          0.225775530221416
+        ],
+        [
+          -0.44229494649214884,
+          0.5681346943629827,
+          -0.6939727295568516
+        ],
+        [
+          -0.652239347061039,
+          0.327347786857858,
+          0.683686522161035
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 56,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465608,
+      "orientation_vector_residuals": [
+        0.08120758761329872,
+        0.2541237908386961,
+        0.05020868983122887
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.024690669802526,
+        0.3779693899402252
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        2.97340241735128,
+        38.4242838283967,
+        80.9329503656116
+      ],
+      "input_axes": [
+        [
+          0.492367588595654,
+          -0.418105229739058,
+          0.76338861307027
+        ],
+        [
+          -0.3022866080818978,
+          0.740330710713596,
+          0.600444206690883
+        ],
+        [
+          -0.816208897448957,
+          -0.526401420627977,
+          0.238127235078238
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 57,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169928,
+      "orientation_vector_residuals": [
+        0.11544824086189139,
+        0.2439291440508946,
+        0.07234058123830746
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270292,
+        1.4064141336109683
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        2.09091674772238,
+        38.7955252928654,
+        81.5749857419878
+      ],
+      "input_axes": [
+        [
+          -0.493719712606068,
+          0.445812488060441,
+          0.746653916398715
+        ],
+        [
+          0.10445076017527669,
+          0.8827817710543024,
+          -0.45802443536675563
+        ],
+        [
+          -0.863325479806422,
+          -0.148147123440138,
+          -0.482412215572351
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 58,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080485,
+      "orientation_vector_residuals": [
+        0.1266462278464152,
+        0.24820036650098345,
+        0.009613751424808682
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389706,
+        1.1942015343863845
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        2.25849073653719,
+        38.1625152923036,
+        80.6615469638491
+      ],
+      "input_axes": [
+        [
+          0.700271934184686,
+          -0.468981018176716,
+          0.538215591360164
+        ],
+        [
+          0.2025105700189637,
+          0.8534663086249608,
+          0.4801923875621925
+        ],
+        [
+          -0.684549988842184,
+          -0.227270905819498,
+          0.692632116021305
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 59,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903488,
+      "orientation_vector_residuals": [
+        0.08307670052047998,
+        0.2566013832475928,
+        0.057380833836947705
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.026376601793911,
+        0.3539384124565187
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        1.35784724270277,
+        39.074467724418,
+        81.2745182201859
+      ],
+      "input_axes": [
+        [
+          -0.557459604092688,
+          0.447027412892803,
+          0.699575072402662
+        ],
+        [
+          -0.22007237160969828,
+          0.7329401685710655,
+          -0.6437133372465575
+        ],
+        [
+          -0.800504179288844,
+          -0.51280132743333,
+          -0.310206153265388
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 60,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.625611098508049,
+      "orientation_vector_residuals": [
+        0.12664622784641547,
+        0.24820036650098318,
+        0.009613751424809228
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389691,
+        1.1942015343863868
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        1.3200992115826,
+        39.7725667890006,
+        80.6173076240349
+      ],
+      "input_axes": [
+        [
+          0.511611706179188,
+          0.738977345493181,
+          -0.438367363005358
+        ],
+        [
+          -0.6237366463718095,
+          0.6703159811933568,
+          0.4020311944733062
+        ],
+        [
+          0.590936593953418,
+          0.0677419235380705,
+          0.803868754040169
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 61,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080489,
+      "orientation_vector_residuals": [
+        0.12664622784641527,
+        0.24820036650098334,
+        0.009613751424808574
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389697,
+        1.194201534386386
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        2.29745666743269,
+        39.361775528933,
+        81.387032554249
+      ],
+      "input_axes": [
+        [
+          0.788369222584949,
+          0.213002219341595,
+          0.577151646828075
+        ],
+        [
+          -0.26717068391492704,
+          0.9636041482747946,
+          0.009320465870218633
+        ],
+        [
+          -0.554160441151508,
+          -0.161545968637917,
+          0.816583801871922
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 62,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465602,
+      "orientation_vector_residuals": [
+        0.08120758761329806,
+        0.25412379083869635,
+        0.05020868983122735
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025247,
+        0.3779693899402251
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        1.53902924502294,
+        38.9413306977998,
+        81.9552687316603
+      ],
+      "input_axes": [
+        [
+          0.0459148335930016,
+          0.42227532025967,
+          0.90530402736082
+        ],
+        [
+          -0.8791943755028779,
+          0.4473261093262272,
+          -0.16406279894956216
+        ],
+        [
+          -0.474245799285804,
+          -0.788405292863165,
+          0.391800990357497
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 63,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080481,
+      "orientation_vector_residuals": [
+        0.12664622784641552,
+        0.24820036650098307,
+        0.009613751424809684
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389697,
+        1.194201534386384
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        1.29838219253338,
+        38.1738539204849,
+        82.2864017150489
+      ],
+      "input_axes": [
+        [
+          0.78460167975052,
+          0.585152165118536,
+          0.204932056520578
+        ],
+        [
+          0.5793766640050935,
+          -0.5743056968633382,
+          -0.5783559870500572
+        ],
+        [
+          -0.220732610501921,
+          0.57251193018784,
+          -0.789624723811002
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 64,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465603,
+      "orientation_vector_residuals": [
+        0.08120758761329833,
+        0.2541237908386967,
+        0.05020868983122742
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.024690669802525,
+        0.3779693899402246
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        0.793075083445252,
+        38.7668577011978,
+        82.1484966118334
+      ],
+      "input_axes": [
+        [
+          0.45269336568205,
+          0.148630663324978,
+          0.879191470947617
+        ],
+        [
+          -0.3686350048383133,
+          0.9289968234615914,
+          0.03275874243813838
+        ],
+        [
+          -0.811897130106588,
+          -0.338930417516411,
+          0.475341164014686
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 65,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465601,
+      "orientation_vector_residuals": [
+        0.0812075876132981,
+        0.2541237908386962,
+        0.05020868983122781
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025247,
+        0.3779693899402243
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        0.0743632053596981,
+        37.7678967836905,
+        81.5786588516432
+      ],
+      "input_axes": [
+        [
+          0.618441552516415,
+          -0.726116931648355,
+          0.30047337268827
+        ],
+        [
+          0.7827852359194075,
+          0.5356015682022508,
+          -0.3168252429429909
+        ],
+        [
+          0.0691181636596527,
+          0.431144015049341,
+          0.899631879014661
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 66,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465612,
+      "orientation_vector_residuals": [
+        0.08120758761329838,
+        0.25412379083869674,
+        0.05020868983122844
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.024690669802527,
+        0.3779693899402255
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        0.203605836792448,
+        37.5872853739819,
+        80.8866737971556
+      ],
+      "input_axes": [
+        [
+          0.963240383894474,
+          0.0435110604784916,
+          -0.265093852155916
+        ],
+        [
+          -0.07743172486549918,
+          0.989884745213488,
+          -0.11888027245082641
+        ],
+        [
+          0.257239753574714,
+          0.135036953496686,
+          0.956866098454301
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 67,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080499,
+      "orientation_vector_residuals": [
+        0.12664622784641555,
+        0.24820036650098337,
+        0.009613751424808786
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389708,
+        1.194201534386388
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -0.200865901843943,
+        37.7435851908776,
+        80.6675832391768
+      ],
+      "input_axes": [
+        [
+          0.890411110067532,
+          0.362058452532956,
+          0.275829171803394
+        ],
+        [
+          -0.2684142140229204,
+          0.9071063047037335,
+          -0.32420974950978243
+        ],
+        [
+          -0.367589260967677,
+          0.214643492601521,
+          0.904879166687497
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 68,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169911,
+      "orientation_vector_residuals": [
+        0.11544824086189118,
+        0.24392914405089425,
+        0.07234058123830746
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270306,
+        1.4064141336109632
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -0.263274970003336,
+        37.7297037952285,
+        80.0166719673416
+      ],
+      "input_axes": [
+        [
+          -0.40659233258462,
+          0.208319801772219,
+          -0.889542317865194
+        ],
+        [
+          0.9074820656959202,
+          0.20466770754014035,
+          -0.36686159506076715
+        ],
+        [
+          0.105636052196513,
+          -0.956406811811714,
+          -0.27226280465111
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 69,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169924,
+      "orientation_vector_residuals": [
+        0.11544824086189119,
+        0.24392914405089308,
+        0.07234058123830626
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270302,
+        1.406414133610967
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -0.151815975548451,
+        36.7116360182528,
+        79.9663483960961
+      ],
+      "input_axes": [
+        [
+          0.784838638410402,
+          -0.470772835361413,
+          0.402990383438465
+        ],
+        [
+          0.4443154607386929,
+          0.8808003714956277,
+          0.1636290833615025
+        ],
+        [
+          -0.431986206963449,
+          0.0506324309009401,
+          0.900457813522873
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 70,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.50329838354656,
+      "orientation_vector_residuals": [
+        0.08120758761329845,
+        0.2541237908386965,
+        0.0502086898312272
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025238,
+        0.37796938994022616
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -0.733377851852048,
+        36.1858912587308,
+        80.2081375365204
+      ],
+      "input_axes": [
+        [
+          0.689055012731166,
+          0.356797465779088,
+          0.630792166916863
+        ],
+        [
+          0.7217867367350478,
+          -0.25978866151726365,
+          -0.6415089695557162
+        ],
+        [
+          -0.0650161218731273,
+          0.897332390901325,
+          -0.436540357969214
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 71,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169921,
+      "orientation_vector_residuals": [
+        0.11544824086189126,
+        0.24392914405089472,
+        0.07234058123830844
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270311,
+        1.406414133610966
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -0.967968565394579,
+        36.2938338475493,
+        80.4727263967056
+      ],
+      "input_axes": [
+        [
+          0.71105571205926,
+          0.584308094332717,
+          -0.39113146798125
+        ],
+        [
+          0.08575283524946051,
+          0.4800514821446689,
+          0.8730389600340795
+        ],
+        [
+          0.697886971933549,
+          -0.654319971717184,
+          0.291237272713241
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 72,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080507,
+      "orientation_vector_residuals": [
+        0.12664622784641572,
+        0.24820036650098284,
+        0.009613751424807596
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389704,
+        1.1942015343863908
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.83238253677128,
+        36.7477976761851,
+        80.7678296487098
+      ],
+      "input_axes": [
+        [
+          -0.682687094950765,
+          -0.120380020865146,
+          -0.720726703379437
+        ],
+        [
+          0.4743624944237185,
+          0.6772300518966061,
+          -0.5624408241692875
+        ],
+        [
+          0.555804420881835,
+          -0.725856809146699,
+          -0.405232449766281
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 73,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080482,
+      "orientation_vector_residuals": [
+        0.12664622784641544,
+        0.24820036650098265,
+        0.009613751424808276
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389693,
+        1.1942015343863845
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -0.868738891029458,
+        37.4577904310121,
+        81.3781922991042
+      ],
+      "input_axes": [
+        [
+          0.807223829619041,
+          0.346481411305166,
+          0.477849684017005
+        ],
+        [
+          -0.41906694505641806,
+          0.9065441740893023,
+          0.0506019365817891
+        ],
+        [
+          -0.415659216734396,
+          -0.241098096310872,
+          0.876982966481688
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 74,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080492,
+      "orientation_vector_residuals": [
+        0.12664622784641555,
+        0.24820036650098296,
+        0.009613751424807398
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389693,
+        1.1942015343863872
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.30403015361736,
+        38.2255816128361,
+        81.6902261201862
+      ],
+      "input_axes": [
+        [
+          -0.036637071370862,
+          -0.0381244427985328,
+          0.998601147537228
+        ],
+        [
+          -0.9901820116718507,
+          -0.13350484504882104,
+          -0.04142511448357203
+        ],
+        [
+          0.134897400875084,
+          -0.990314588002111,
+          -0.0328589109277101
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 75,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169912,
+      "orientation_vector_residuals": [
+        0.11544824086189102,
+        0.24392914405089447,
+        0.0723405812383072
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270313,
+        1.4064141336109632
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -0.834187617840859,
+        38.362385082194,
+        81.2775823003199
+      ],
+      "input_axes": [
+        [
+          0.278418714562836,
+          -0.245747595168787,
+          0.928488631513567
+        ],
+        [
+          -0.7958616694240815,
+          -0.6001978868156232,
+          0.07979160233743343
+        ],
+        [
+          0.537668320177684,
+          -0.761163987673365,
+          -0.362687415478521
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 76,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465605,
+      "orientation_vector_residuals": [
+        0.08120758761329853,
+        0.25412379083869613,
+        0.05020868983122733
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025258,
+        0.3779693899402245
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.31133237797173,
+        38.134058263424,
+        80.5001689331565
+      ],
+      "input_axes": [
+        [
+          0.60319279664633,
+          0.66980654712263,
+          -0.43303306975985
+        ],
+        [
+          -0.38602787873139255,
+          -0.22993261261713224,
+          -0.8933719664827189
+        ],
+        [
+          -0.697954817245443,
+          0.706038372248081,
+          0.119870304901422
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 77,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903506,
+      "orientation_vector_residuals": [
+        0.08307670052047963,
+        0.2566013832475924,
+        0.057380833836948295
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939167,
+        0.35393841245651586
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -2.31461744119624,
+        37.8480902564484,
+        81.2050238583738
+      ],
+      "input_axes": [
+        [
+          -0.467159914013466,
+          -0.673048194349694,
+          -0.573382719325888
+        ],
+        [
+          -0.6853900393972437,
+          0.6853449242836658,
+          -0.24605452374151565
+        ],
+        [
+          0.558571489277763,
+          0.278043994434758,
+          -0.781466204339501
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 78,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903478,
+      "orientation_vector_residuals": [
+        0.08307670052048034,
+        0.25660138324759174,
+        0.057380833836947434
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0263766017939082,
+        0.35393841245652063
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -2.37016010617632,
+        38.6040171957757,
+        81.5102490516794
+      ],
+      "input_axes": [
+        [
+          0.648631984102483,
+          0.649425982233869,
+          -0.396890970921298
+        ],
+        [
+          0.022552672139273422,
+          0.5048398583458579,
+          0.8629183590611065
+        ],
+        [
+          0.760767984459556,
+          -0.56866739929849,
+          0.312808987716844
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 79,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080487,
+      "orientation_vector_residuals": [
+        0.12664622784641566,
+        0.2482003665009835,
+        0.009613751424809105
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389692,
+        1.1942015343863859
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -2.77397065296738,
+        38.8413359940598,
+        81.8327721797676
+      ],
+      "input_axes": [
+        [
+          0.469397057715054,
+          0.879414930016429,
+          -0.0793459707398581
+        ],
+        [
+          -0.4010419459398699,
+          0.13227430502887635,
+          -0.9064595224420622
+        ],
+        [
+          -0.786658604354655,
+          0.457310495280097,
+          0.414771444414221
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 80,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169917,
+      "orientation_vector_residuals": [
+        0.11544824086189122,
+        0.24392914405089441,
+        0.07234058123830778
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270315,
+        1.4064141336109643
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -3.57605943468608,
+        37.7148307567293,
+        81.2316033186413
+      ],
+      "input_axes": [
+        [
+          -0.540852183476978,
+          -0.790702264561537,
+          -0.286825459897552
+        ],
+        [
+          0.8000989641785277,
+          -0.5888303895003004,
+          0.11454440152784584
+        ],
+        [
+          -0.259462064950992,
+          -0.167537163692662,
+          0.951110264708139
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 81,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169921,
+      "orientation_vector_residuals": [
+        0.1154482408618915,
+        0.24392914405089303,
+        0.07234058123830621
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270282,
+        1.4064141336109677
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -3.25691521519759,
+        38.2254075697368,
+        80.6202015825359
+      ],
+      "input_axes": [
+        [
+          0.931944234019503,
+          -0.239824678258368,
+          -0.271963358517412
+        ],
+        [
+          0.35368763415646737,
+          0.7665190936669493,
+          0.5360536694108132
+        ],
+        [
+          0.0799062082857213,
+          -0.595762203183676,
+          0.799176072674308
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 82,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169918,
+      "orientation_vector_residuals": [
+        0.1154482408618912,
+        0.24392914405089464,
+        0.07234058123830692
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270325,
+        1.4064141336109641
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -3.17816673862365,
+        37.2219156452166,
+        80.8635572038614
+      ],
+      "input_axes": [
+        [
+          -0.250487142297877,
+          -0.869924460647664,
+          0.424838350799825
+        ],
+        [
+          0.9563305645189248,
+          -0.15406419129223614,
+          0.2483869487883516
+        ],
+        [
+          -0.150625505510723,
+          0.468503636835769,
+          0.870526449547226
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 83,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080497,
+      "orientation_vector_residuals": [
+        0.12664622784641552,
+        0.24820036650098287,
+        0.009613751424807969
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389688,
+        1.194201534386389
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -2.65951705785024,
+        37.3837033239851,
+        79.8017328313066
+      ],
+      "input_axes": [
+        [
+          0.578956854114575,
+          0.265293690184465,
+          -0.770991711383503
+        ],
+        [
+          -0.5330221279948179,
+          0.8387000059639071,
+          -0.11166786047925928
+        ],
+        [
+          0.617005974153921,
+          0.475606515876779,
+          0.626978524284461
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 84,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465603,
+      "orientation_vector_residuals": [
+        0.08120758761329834,
+        0.2541237908386958,
+        0.05020868983122811
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025249,
+        0.377969389940225
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -2.42671984200972,
+        38.2723934936436,
+        79.5068759225971
+      ],
+      "input_axes": [
+        [
+          0.322660775421282,
+          0.760585390062971,
+          -0.563382541819762
+        ],
+        [
+          -0.2941584973832211,
+          0.6463225642634222,
+          0.704086586536912
+        ],
+        [
+          0.899644820149476,
+          -0.0614573620220819,
+          0.432275595230061
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 85,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080504,
+      "orientation_vector_residuals": [
+        0.12664622784641566,
+        0.24820036650098384,
+        0.009613751424807726
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389702,
+        1.1942015343863897
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.95294468413141,
+        37.8883877675184,
+        78.6925882709664
+      ],
+      "input_axes": [
+        [
+          0.286090741198567,
+          0.593467042602239,
+          -0.752295790992749
+        ],
+        [
+          -0.8166303410518262,
+          -0.2597041414029137,
+          -0.5154305433438664
+        ],
+        [
+          -0.501265372705948,
+          0.761807474551889,
+          0.410344243096989
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 86,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169921,
+      "orientation_vector_residuals": [
+        0.11544824086189137,
+        0.24392914405089466,
+        0.07234058123830679
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270311,
+        1.4064141336109657
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.2378317373788,
+        38.463516137927,
+        78.779694978345
+      ],
+      "input_axes": [
+        [
+          0.652506249108497,
+          0.756866626289853,
+          0.0372626472888886
+        ],
+        [
+          -0.701348091734039,
+          0.6218019749131108,
+          -0.34852999614836433
+        ],
+        [
+          -0.28696071002035,
+          0.201283913919547,
+          0.936556638384378
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 87,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169924,
+      "orientation_vector_residuals": [
+        0.11544824086189132,
+        0.2439291440508944,
+        0.07234058123830732
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270296,
+        1.406414133610967
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.2408724667427,
+        38.6314720175777,
+        78.9098116324189
+      ],
+      "input_axes": [
+        [
+          0.383842595689278,
+          -0.339478126710233,
+          -0.858731310259401
+        ],
+        [
+          -0.725767573372442,
+          0.46404788466381813,
+          -0.5078592227971364
+        ],
+        [
+          0.570899545608151,
+          0.818177341549096,
+          -0.0682608716620294
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 88,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169915,
+      "orientation_vector_residuals": [
+        0.11544824086189114,
+        0.2439291440508942,
+        0.07234058123830679
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270322,
+        1.4064141336109635
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.02937011625975,
+        38.8977581436455,
+        79.8455739328475
+      ],
+      "input_axes": [
+        [
+          0.819782530500774,
+          0.572201426849183,
+          0.023283680926929
+        ],
+        [
+          -0.5555922300600115,
+          0.8045274624258104,
+          -0.2098876749588481
+        ],
+        [
+          -0.138830387821585,
+          0.15912601708849,
+          0.977448225791455
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 89,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080494,
+      "orientation_vector_residuals": [
+        0.12664622784641552,
+        0.24820036650098362,
+        0.00961375142480819
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389698,
+        1.1942015343863874
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.05291145875715,
+        39.0148543960728,
+        80.5771919667644
+      ],
+      "input_axes": [
+        [
+          0.897905473777663,
+          -0.190896039375311,
+          -0.396641478303682
+        ],
+        [
+          0.44002676589303014,
+          0.3648402295728701,
+          0.8205291293933057
+        ],
+        [
+          -0.0119249929908165,
+          -0.911290463593269,
+          0.411591406015886
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 90,
+      "base": "U",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5009510747903494,
+      "orientation_vector_residuals": [
+        0.08307670052047968,
+        0.2566013832475919,
+        0.057380833836949044
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.026376601793913,
+        0.35393841245651664
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -0.972802422796065,
+        39.6322934707989,
+        81.1270447267741
+      ],
+      "input_axes": [
+        [
+          0.679910453524323,
+          0.659817816660397,
+          -0.319940969564476
+        ],
+        [
+          -0.7332626361159741,
+          0.6158637711210698,
+          -0.2881626656886474
+        ],
+        [
+          0.0069051911343863,
+          0.430525567461494,
+          0.902551967532815
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 91,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169919,
+      "orientation_vector_residuals": [
+        0.1154482408618912,
+        0.24392914405089433,
+        0.07234058123830692
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270303,
+        1.4064141336109657
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.12421464274597,
+        40.5764484211363,
+        81.4894813823392
+      ],
+      "input_axes": [
+        [
+          -0.42636632583061,
+          0.876670797254053,
+          0.222845393579606
+        ],
+        [
+          0.39188314989582973,
+          0.4010634846039193,
+          -0.8279949747100428
+        ],
+        [
+          -0.815254164678371,
+          -0.265699820397578,
+          -0.514552477805001
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 92,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169924,
+      "orientation_vector_residuals": [
+        0.11544824086189118,
+        0.24392914405089408,
+        0.07234058123830804
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270294,
+        1.4064141336109672
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -0.321115030450908,
+        40.4504315744285,
+        80.4592076094769
+      ],
+      "input_axes": [
+        [
+          0.420007514229094,
+          0.0205443899096761,
+          -0.907288055710167
+        ],
+        [
+          -0.7642446742374315,
+          -0.5311391287506158,
+          -0.36581594253088145
+        ],
+        [
+          -0.489411652794269,
+          0.847035509263499,
+          -0.207381484602426
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 93,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169915,
+      "orientation_vector_residuals": [
+        0.11544824086189126,
+        0.24392914405089422,
+        0.07234058123830849
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270304,
+        1.4064141336109643
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -0.383756831100062,
+        40.880817185651,
+        79.7047851980936
+      ],
+      "input_axes": [
+        [
+          0.937740657007752,
+          -0.0104697004440674,
+          -0.347178405963393
+        ],
+        [
+          0.021685620549394862,
+          0.999360349525511,
+          0.028436343956947368
+        ],
+        [
+          0.346658613128332,
+          -0.0341946950397521,
+          0.937367872702644
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 94,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080492,
+      "orientation_vector_residuals": [
+        0.12664622784641563,
+        0.2482003665009831,
+        0.009613751424808267
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389693,
+        1.1942015343863872
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.01471170150041,
+        41.2697963776941,
+        79.1875554399944
+      ],
+      "input_axes": [
+        [
+          0.894444709885386,
+          0.365502287863676,
+          -0.257636834564599
+        ],
+        [
+          -0.27327678951385137,
+          0.9028089568438401,
+          0.3320478636515223
+        ],
+        [
+          0.353961095702692,
+          -0.226592288061523,
+          0.907395987273469
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 95,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465612,
+      "orientation_vector_residuals": [
+        0.08120758761329853,
+        0.25412379083869674,
+        0.050208689831227366
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025273,
+        0.37796938994022494
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.12067064171644,
+        40.4150141900369,
+        79.8006185309797
+      ],
+      "input_axes": [
+        [
+          0.96290917996969,
+          -0.269787264424101,
+          -0.00455445766902771
+        ],
+        [
+          0.268451062505937,
+          0.9561654616765851,
+          0.11696852968314674
+        ],
+        [
+          -0.0272018045271331,
+          -0.113852719999848,
+          0.993125178403561
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 96,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465609,
+      "orientation_vector_residuals": [
+        0.0812075876132983,
+        0.2541237908386967,
+        0.0502086898312285
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025264,
+        0.37796938994022483
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.60156160335067,
+        41.0663544877914,
+        80.4261805489858
+      ],
+      "input_axes": [
+        [
+          0.847384143297907,
+          0.51326057125496,
+          0.136028304710099
+        ],
+        [
+          -0.5276730985729422,
+          0.785455187222167,
+          0.32345208286270083
+        ],
+        [
+          0.0591710632801316,
+          -0.345866643174536,
+          0.936416066932577
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 97,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.720927214216992,
+      "orientation_vector_residuals": [
+        0.11544824086189133,
+        0.24392914405089391,
+        0.07234058123830688
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270311,
+        1.4064141336109655
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.41912923044079,
+        41.155579936273,
+        81.4018090447087
+      ],
+      "input_axes": [
+        [
+          0.978486119516052,
+          -0.000343715281105144,
+          0.206312374263455
+        ],
+        [
+          -0.19173518769379602,
+          -0.3707324698324861,
+          0.9087326634450482
+        ],
+        [
+          0.0761743507648295,
+          -0.928739639334788,
+          -0.362822478098927
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 98,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.625611098508049,
+      "orientation_vector_residuals": [
+        0.12664622784641552,
+        0.24820036650098337,
+        0.009613751424806924
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389687,
+        1.194201534386387
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.75687095008853,
+        41.2317036175021,
+        81.7845760427375
+      ],
+      "input_axes": [
+        [
+          0.996183840621978,
+          0.00180282669441699,
+          0.0872611339575439
+        ],
+        [
+          4.978808999836558e-05,
+          0.9997747471279095,
+          -0.021223866906646873
+        ],
+        [
+          -0.0872797410903163,
+          0.021147217813104,
+          0.995959357591449
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 99,
+      "base": "A",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.7209272142169909,
+      "orientation_vector_residuals": [
+        0.11544824086189122,
+        0.2439291440508946,
+        0.07234058123830765
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.7366251709270311,
+        1.4064141336109626
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -1.53372218874866,
+        41.7070558419909,
+        82.5911324400054
+      ],
+      "input_axes": [
+        [
+          0.820193452673884,
+          0.360308362845661,
+          0.444365372024389
+        ],
+        [
+          -0.2216527560351375,
+          0.9162186935091454,
+          -0.33378640087101197
+        ],
+        [
+          -0.527401892234871,
+          0.175274611190199,
+          0.831339915280869
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 100,
+      "base": "G",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.6256110985080494,
+      "orientation_vector_residuals": [
+        0.12664622784641558,
+        0.24820036650098412,
+        0.00961375142480814
+      ],
+      "interaction_site_residuals_angstrom": [
+        0.6731224368389696,
+        1.1942015343863874
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -2.31677520561611,
+        41.742130815825,
+        83.1966622284209
+      ],
+      "input_axes": [
+        [
+          0.157703035233621,
+          -0.765538341230711,
+          0.623763417317683
+        ],
+        [
+          -0.2747635378105216,
+          0.5727056018425705,
+          0.7723427295624556
+        ],
+        [
+          -0.948490775373145,
+          -0.293188235991606,
+          -0.120024611260278
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 101,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.503298383546561,
+      "orientation_vector_residuals": [
+        0.08120758761329797,
+        0.2541237908386967,
+        0.050208689831228386
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025273,
+        0.37796938994022344
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -3.28131571745588,
+        41.6590170118938,
+        83.8506074683578
+      ],
+      "input_axes": [
+        [
+          -0.408715547029471,
+          -0.603753582382295,
+          0.684421809542146
+        ],
+        [
+          -0.8399299888029306,
+          -0.04453310356331777,
+          -0.5408645085384391
+        ],
+        [
+          0.357028311938856,
+          -0.79592613630133,
+          -0.488909367906289
+        ]
+      ]
+    },
+    {
+      "chain": "1",
+      "residue": 102,
+      "base": "C",
+      "constraints": [
+        "a1",
+        "a3",
+        "a2",
+        "RNA_BACK_PROXY",
+        "RNA_BASE_PROXY"
+      ],
+      "mapping_profile": "RNA-specific official atomic backmapping proxies",
+      "proxy_fit_rmsd": 0.5032983835465621,
+      "orientation_vector_residuals": [
+        0.08120758761329844,
+        0.2541237908386972,
+        0.05020868983122772
+      ],
+      "interaction_site_residuals_angstrom": [
+        1.0246906698025298,
+        0.3779693899402236
+      ],
+      "origin_convention": "atomic geometric centroid + 0.5 \u00c5 * template a1",
+      "input_com_native": [
+        -2.49099987773505,
+        41.288196079627,
+        84.1773866743458
+      ],
+      "input_axes": [
+        [
+          0.79454750958811,
+          0.320944053852726,
+          0.515450452811821
+        ],
+        [
+          0.030081638410540068,
+          0.8270463622894677,
+          -0.5613282548155738
+        ],
+        [
+          -0.606456387581062,
+          0.461507561065188,
+          0.647473104492991
+        ]
+      ]
+    }
+  ]
+}

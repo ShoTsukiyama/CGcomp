@@ -1,0 +1,1739 @@
+{
+  "mode": "ifoldrna",
+  "residues": [
+    {
+      "chain": "A",
+      "residue": 1,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.037653145583886105,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.04834841252852828,
+        "S": 0.04231626820147749,
+        "B": 0.011182243449140093
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 2,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04588941158403014,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.01974194540975536,
+        "S": 0.04588573025649022,
+        "B": 0.06182450676594327
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 3,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.07242581763727175,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.06461127142901053,
+        "S": 0.03660336276849144,
+        "B": 0.10110427597113128
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 4,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12617544407088951,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.13447690562650633,
+        "S": 0.04646530557298273,
+        "B": 0.1658844938220185
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 5,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.08478445876309128,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.08489596682450049,
+        "S": 0.03249997603569312,
+        "B": 0.11533273480614334
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 6,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.042644415577620824,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.03998241996938269,
+        "S": 0.050410693117365755,
+        "B": 0.036274049300972465
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 7,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.01993185723381591,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.014093870574010134,
+        "S": 0.02721563013190826,
+        "B": 0.01589053451378973
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 8,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10746883618111576,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.07501586026451802,
+        "S": 0.1361672238943444,
+        "B": 0.10237069940198833
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 9,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.4218631326965665,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.463368312737385,
+        "S": 0.3563627976587321,
+        "B": 0.43840719814053397
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 10,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.14848622448669854,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.1621087516316893,
+        "S": 0.10863134850298375,
+        "B": 0.16752450374133374
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 11,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10721485790822002,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.10742602315354885,
+        "S": 0.04234425339762625,
+        "B": 0.14543620946122884
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 12,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11113453641664328,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.11029379359855566,
+        "S": 0.05343810858283502,
+        "B": 0.1484328238576473
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 13,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.022313107813939418,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.026513196753798745,
+        "S": 0.016897254572639298,
+        "B": 0.022475709705173826
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 14,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10306393724674245,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.11762710421351014,
+        "S": 0.07934939126888525,
+        "B": 0.10832388444845835
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 15,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.02554474866590686,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.027364475392122608,
+        "S": 0.024508498971697715,
+        "B": 0.024660119989191473
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 16,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.07400778741467429,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.08850573531485409,
+        "S": 0.04937883120094371,
+        "B": 0.07848518101943096
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 17,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.021939283794889845,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.01898020361406481,
+        "S": 0.030397181040582266,
+        "B": 0.0126396113806105
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 18,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10445910584335186,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.12090212785279723,
+        "S": 0.027056714598721433,
+        "B": 0.1318549356549342
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 19,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11985529425660489,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.12813585763467011,
+        "S": 0.03227673981959317,
+        "B": 0.16011023933171156
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 20,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.19114232938520528,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.20381992797608492,
+        "S": 0.10143715409288437,
+        "B": 0.24036245750484286
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 21,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1025971342813521,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.09651527900134141,
+        "S": 0.06374161721413625,
+        "B": 0.13490857290200647
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 22,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.037835756755152695,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.010010311570577714,
+        "S": 0.04051985308471906,
+        "B": 0.050522951576074095
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 23,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1435139549408009,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.14547708557168734,
+        "S": 0.06919725353658689,
+        "B": 0.18930642742604364
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 24,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12042555821330113,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.14007588136769777,
+        "S": 0.08094328128222043,
+        "B": 0.13165818579672808
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 25,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.06932128263437673,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.0827466699082491,
+        "S": 0.041758501158835566,
+        "B": 0.07632520473793622
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 26,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.06116379185422313,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.06460658317975282,
+        "S": 0.06066731127550685,
+        "B": 0.058038737532780216
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 27,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0936809304400892,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.08596086823866556,
+        "S": 0.04432747680515805,
+        "B": 0.1302848959630602
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 28,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.14038449736270517,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.15100873997374736,
+        "S": 0.04391475450643274,
+        "B": 0.18544885032676733
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 29,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1177114765732418,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.13859897370374485,
+        "S": 0.017606793719697023,
+        "B": 0.1484867012709929
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 30,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10976416452521018,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.12959225138607916,
+        "S": 0.06495272754798076,
+        "B": 0.12301019066125596
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 31,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.03696403871867978,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.03879339946396935,
+        "S": 0.04970307877619369,
+        "B": 0.011121897022764015
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 32,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.6817625800989257,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.5912542279327956,
+        "S": 0.6795503960261334,
+        "B": 0.7635642370369132
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 33,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.28673786463099105,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.24406110513570284,
+        "S": 0.2466569866387396,
+        "B": 0.35531720608726414
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 34,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.07839721150279687,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.08442239740735707,
+        "S": 0.062057347729671856,
+        "B": 0.08637194407326772
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 35,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.02931541660502913,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.03458851116611582,
+        "S": 0.015285065271064654,
+        "B": 0.033884843619977366
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 36,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04227303696513241,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.007328743070403146,
+        "S": 0.050650696997606506,
+        "B": 0.05236244247006306
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 37,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11857689901330512,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.11579671878564626,
+        "S": 0.05716480102222546,
+        "B": 0.15970206129352496
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 38,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.38861680381485664,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.3738239853172051,
+        "S": 0.3840646686613503,
+        "B": 0.4072088148719721
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 39,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.6532165507871687,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.6381993439694164,
+        "S": 0.5937280140773507,
+        "B": 0.72129344189701
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 40,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.051012816805574145,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.0417022831415731,
+        "S": 0.04138993034507557,
+        "B": 0.06599026960186534
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 41,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.05401905890846894,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.05096553400271304,
+        "S": 0.06061198463316409,
+        "B": 0.04982848421051401
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 42,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10229205633607362,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.10887776815888271,
+        "S": 0.059554066049624856,
+        "B": 0.1264513312942341
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 43,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1070660133337962,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.11394836674196941,
+        "S": 0.10242606656667795,
+        "B": 0.10447039886060208
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 44,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04250432652601265,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.05774736459388255,
+        "S": 0.028536033113589657,
+        "B": 0.03564814184345717
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 45,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.039053451397015784,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.021132643358644693,
+        "S": 0.04039560695797885,
+        "B": 0.04997121692764765
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 46,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.25942108001545966,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.3342303702581627,
+        "S": 0.28539766134019556,
+        "B": 0.09346723900811449
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 47,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.45562827427847347,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.452513818266922,
+        "S": 0.40538967965193523,
+        "B": 0.5036683679517039
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 48,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.057697646756847694,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.06749375953242766,
+        "S": 0.035649589060509496,
+        "B": 0.06450391110490433
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 49,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.059688488557124615,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.03970448770529684,
+        "S": 0.04558162193631935,
+        "B": 0.08386904313521326
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 50,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0879399927144215,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.07755706437335813,
+        "S": 0.046055175951566815,
+        "B": 0.1227360969303424
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 51,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11151532393738543,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.11834983924497795,
+        "S": 0.03843076127335202,
+        "B": 0.1477274333264422
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 52,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0899138571801826,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.09124170372929465,
+        "S": 0.03300393969193761,
+        "B": 0.12181624113574235
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 53,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.13692208365289477,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.14295892617927317,
+        "S": 0.0691328954207089,
+        "B": 0.17614300772942795
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 54,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0770579550984493,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.08054690603910097,
+        "S": 0.06586799041671813,
+        "B": 0.08359060412424225
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 55,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.06044233218751836,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.07031431340383175,
+        "S": 0.03774596084801839,
+        "B": 0.06775667001119952
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 56,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0408481974755583,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.009362536141318278,
+        "S": 0.0448533399871293,
+        "B": 0.05390961435595907
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 57,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.06391945392644836,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.051658823555371804,
+        "S": 0.07532803343740112,
+        "B": 0.06256311291883175
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 58,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.5600697498445146,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.6153346456319784,
+        "S": 0.4641129022362268,
+        "B": 0.5890643954064104
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 59,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.29939150561989725,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.33034685782658224,
+        "S": 0.16277915861669465,
+        "B": 0.3650749511486545
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 60,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1412606356772186,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.11020787408047632,
+        "S": 0.10641443133110676,
+        "B": 0.19077183982688614
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 61,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12093459147064935,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.09712878376687188,
+        "S": 0.10894621896315465,
+        "B": 0.15024063025733034
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 62,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11754475853294263,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.14428846459941727,
+        "S": 0.010671608864739007,
+        "B": 0.14323849525697624
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 63,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.14623641804543736,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.17895330101230505,
+        "S": 0.11343268456586146,
+        "B": 0.13879485587463802
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 64,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11465832717903857,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.11860140106509552,
+        "S": 0.09437966100467828,
+        "B": 0.12831906806286814
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 65,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.025640953078866033,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.01607730875545923,
+        "S": 0.031143164439248784,
+        "B": 0.02727634279498321
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 66,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10513204031656481,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.10928010417068619,
+        "S": 0.044980630953882064,
+        "B": 0.13853822351541265
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 67,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.017070235844572425,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.004189697580114989,
+        "S": 0.022264051128176726,
+        "B": 0.018998350373575508
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 68,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10172335084792412,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.11141967989922609,
+        "S": 0.049664345141338155,
+        "B": 0.12712996529546858
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 69,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11770188419061897,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.13537351651853244,
+        "S": 0.055205006196559395,
+        "B": 0.1420831409503271
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 70,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.10807276223671453,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.11050760237945172,
+        "S": 0.04385330471899267,
+        "B": 0.1445825829551699
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 71,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.07358866894027294,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.08856961113497065,
+        "S": 0.03422326494896056,
+        "B": 0.08502981070682089
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 72,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.0498296299434908,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.0330830987450824,
+        "S": 0.05970953234327892,
+        "B": 0.0528134110400539
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 73,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.05255462979524906,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.05788014262888994,
+        "S": 0.058304324168826194,
+        "B": 0.039197732220404895
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 74,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.05134492506332722,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.07076689503095698,
+        "S": 0.030354085610020495,
+        "B": 0.04449247176470628
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 75,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.27538432394274065,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.30367312240208993,
+        "S": 0.18078890179857043,
+        "B": 0.3203241878741477
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 76,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.03464569597301834,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.029817272432275804,
+        "S": 0.019318550251512762,
+        "B": 0.04836007267616105
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 77,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.33793958265953966,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.38968937411406646,
+        "S": 0.12823032598176945,
+        "B": 0.41750288596069607
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 78,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.2082746775729937,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.09352142642110035,
+        "S": 0.25626729083777555,
+        "B": 0.23604203524210246
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 79,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11723516342000376,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.00864274756614472,
+        "S": 0.14101559863211768,
+        "B": 0.14584976682627326
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 80,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.5041711184234706,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.5440582910656521,
+        "S": 0.36486885928914026,
+        "B": 0.5774399028478044
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 81,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.08121395237424273,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.06475269452231656,
+        "S": 0.10850303507666258,
+        "B": 0.06181664914882613
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 82,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.20923379281539534,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.27876745815303083,
+        "S": 0.1442976567045967,
+        "B": 0.1811166218551121
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 83,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.15678480483639948,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.16722281824471977,
+        "S": 0.13802625301168017,
+        "B": 0.16349222495462534
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 84,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12820206042970123,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.13529488263570041,
+        "S": 0.07179345501892807,
+        "B": 0.16077406334450073
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 85,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.061634343248222485,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.06617097826476304,
+        "S": 0.06522181122541967,
+        "B": 0.052572747492212954
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 86,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.12995235672387498,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.16698331648677853,
+        "S": 0.051728283323506645,
+        "B": 0.1417871706951889
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 87,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.043969142432008,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.048088157387957346,
+        "S": 0.055635450263942676,
+        "B": 0.019801066930289542
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 88,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04575351238865926,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.05101783446441723,
+        "S": 0.04258630559227104,
+        "B": 0.04317104157025013
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 89,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11506831183036584,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.14243244983395434,
+        "S": 0.10903692305752777,
+        "B": 0.08686826697313714
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 90,
+      "base": "U",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04313239376265939,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.02742119444552419,
+        "S": 0.054252738486017325,
+        "B": 0.04342727987152531
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 91,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.3219554105173106,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.4479267320132923,
+        "S": 0.281178880952719,
+        "B": 0.17682177110915762
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 92,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.24883542528997082,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.2051100129042376,
+        "S": 0.3090062102375665,
+        "B": 0.219550111088024
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 93,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.1692271542737368,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.20167563173200323,
+        "S": 0.022912448461499337,
+        "B": 0.21146027641558907
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 94,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.18569951458363126,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.19214657216826864,
+        "S": 0.14773340120339748,
+        "B": 0.21144140115560922
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 95,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.11017297596219279,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.09232745927627681,
+        "S": 0.0800471120599552,
+        "B": 0.1465685983133732
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 96,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.08959889208896635,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.09452670753240952,
+        "S": 0.03831128917902181,
+        "B": 0.1169650848554164
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 97,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.07866740583192607,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.09158421573043672,
+        "S": 0.0453540321810665,
+        "B": 0.09011673215853927
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 98,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.019093217699083977,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.025731411760759184,
+        "S": 0.019134350752299488,
+        "B": 0.008088507674482187
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 99,
+      "base": "A",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.020351399798703547,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.02549189807066418,
+        "S": 0.008890070522984097,
+        "B": 0.022664249384246334
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 100,
+      "base": "G",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.03264305242676964,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.038196263486025894,
+        "S": 0.02644639494776336,
+        "B": 0.03222328762220865
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 101,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.04254456983676911,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.02605468226804275,
+        "S": 0.05520911779965552,
+        "B": 0.04127018429183831
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 102,
+      "base": "C",
+      "constraints": [
+        "P",
+        "S",
+        "B"
+      ],
+      "fit_rmsd_angstrom": 0.16191973985219404,
+      "mapping_profile": "archive export COM groups; differs from Ding2008 native groups",
+      "output_site_residuals_angstrom": {
+        "P": 0.16315539713254493,
+        "S": 0.06276855219774576,
+        "B": 0.21930442700257446
+      }
+    }
+  ]
+}

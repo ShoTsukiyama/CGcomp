@@ -1,0 +1,1490 @@
+{
+  "mode": "hire-rna",
+  "residues": [
+    {
+      "chain": "A",
+      "residue": 1,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1278705537898102
+    },
+    {
+      "chain": "A",
+      "residue": 2,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.11323126194204688
+    },
+    {
+      "chain": "A",
+      "residue": 3,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.11840304644727721
+    },
+    {
+      "chain": "A",
+      "residue": 4,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.14616439030685768
+    },
+    {
+      "chain": "A",
+      "residue": 5,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13266047077418475
+    },
+    {
+      "chain": "A",
+      "residue": 6,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.11963019147842398
+    },
+    {
+      "chain": "A",
+      "residue": 7,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.12738546084058835
+    },
+    {
+      "chain": "A",
+      "residue": 8,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1516533222168791
+    },
+    {
+      "chain": "A",
+      "residue": 9,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.6213806885437316
+    },
+    {
+      "chain": "A",
+      "residue": 10,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.21239021150219967
+    },
+    {
+      "chain": "A",
+      "residue": 11,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.15510663750985218
+    },
+    {
+      "chain": "A",
+      "residue": 12,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.12798934593330202
+    },
+    {
+      "chain": "A",
+      "residue": 13,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.10497475684643108
+    },
+    {
+      "chain": "A",
+      "residue": 14,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1320431739457052
+    },
+    {
+      "chain": "A",
+      "residue": 15,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.09377466952173905
+    },
+    {
+      "chain": "A",
+      "residue": 16,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14159848177906173
+    },
+    {
+      "chain": "A",
+      "residue": 17,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1461717167877246
+    },
+    {
+      "chain": "A",
+      "residue": 18,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.16934160557238884
+    },
+    {
+      "chain": "A",
+      "residue": 19,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.14004566083727832
+    },
+    {
+      "chain": "A",
+      "residue": 20,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1828045437133957
+    },
+    {
+      "chain": "A",
+      "residue": 21,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.11454473041862316
+    },
+    {
+      "chain": "A",
+      "residue": 22,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.08074341042551567
+    },
+    {
+      "chain": "A",
+      "residue": 23,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.17618214855936581
+    },
+    {
+      "chain": "A",
+      "residue": 24,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1722011859312878
+    },
+    {
+      "chain": "A",
+      "residue": 25,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.17669301652092137
+    },
+    {
+      "chain": "A",
+      "residue": 26,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14562063846795403
+    },
+    {
+      "chain": "A",
+      "residue": 27,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1382022705125971
+    },
+    {
+      "chain": "A",
+      "residue": 28,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.16245852868997696
+    },
+    {
+      "chain": "A",
+      "residue": 29,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1782457457752259
+    },
+    {
+      "chain": "A",
+      "residue": 30,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.4592645860093473
+    },
+    {
+      "chain": "A",
+      "residue": 31,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.2647572331773932
+    },
+    {
+      "chain": "A",
+      "residue": 32,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.9387541283231978
+    },
+    {
+      "chain": "A",
+      "residue": 33,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.6859993766732492
+    },
+    {
+      "chain": "A",
+      "residue": 34,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1390238512937316
+    },
+    {
+      "chain": "A",
+      "residue": 35,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.13192249733711864
+    },
+    {
+      "chain": "A",
+      "residue": 36,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.12187403076429855
+    },
+    {
+      "chain": "A",
+      "residue": 37,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1723225781988456
+    },
+    {
+      "chain": "A",
+      "residue": 38,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.46443222023824715
+    },
+    {
+      "chain": "A",
+      "residue": 39,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.7824167001523262
+    },
+    {
+      "chain": "A",
+      "residue": 40,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.10784326993311544
+    },
+    {
+      "chain": "A",
+      "residue": 41,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14318992872643138
+    },
+    {
+      "chain": "A",
+      "residue": 42,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.12876355898378422
+    },
+    {
+      "chain": "A",
+      "residue": 43,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.20139288838564412
+    },
+    {
+      "chain": "A",
+      "residue": 44,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14088248596014993
+    },
+    {
+      "chain": "A",
+      "residue": 45,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14650023763951422
+    },
+    {
+      "chain": "A",
+      "residue": 46,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.47702261026116627
+    },
+    {
+      "chain": "A",
+      "residue": 47,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.35214878237800307
+    },
+    {
+      "chain": "A",
+      "residue": 48,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1586949595668933
+    },
+    {
+      "chain": "A",
+      "residue": 49,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1299416354803834
+    },
+    {
+      "chain": "A",
+      "residue": 50,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.15854856664092506
+    },
+    {
+      "chain": "A",
+      "residue": 51,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.11800304423359646
+    },
+    {
+      "chain": "A",
+      "residue": 52,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.12475144561491407
+    },
+    {
+      "chain": "A",
+      "residue": 53,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1321639325165871
+    },
+    {
+      "chain": "A",
+      "residue": 54,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.10299372827962083
+    },
+    {
+      "chain": "A",
+      "residue": 55,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14719081749150661
+    },
+    {
+      "chain": "A",
+      "residue": 56,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13389439449221016
+    },
+    {
+      "chain": "A",
+      "residue": 57,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.16512630191868918
+    },
+    {
+      "chain": "A",
+      "residue": 58,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.9475242765924456
+    },
+    {
+      "chain": "A",
+      "residue": 59,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.2551603201141545
+    },
+    {
+      "chain": "A",
+      "residue": 60,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.2564875137557302
+    },
+    {
+      "chain": "A",
+      "residue": 61,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.3148217565119849
+    },
+    {
+      "chain": "A",
+      "residue": 62,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.2419837092728986
+    },
+    {
+      "chain": "A",
+      "residue": 63,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.18184169783167228
+    },
+    {
+      "chain": "A",
+      "residue": 64,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1471106454211303
+    },
+    {
+      "chain": "A",
+      "residue": 65,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.10829560930004571
+    },
+    {
+      "chain": "A",
+      "residue": 66,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13258803770273453
+    },
+    {
+      "chain": "A",
+      "residue": 67,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.08340210021185215
+    },
+    {
+      "chain": "A",
+      "residue": 68,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.18423095792364008
+    },
+    {
+      "chain": "A",
+      "residue": 69,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.13467065444726378
+    },
+    {
+      "chain": "A",
+      "residue": 70,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13108600102229517
+    },
+    {
+      "chain": "A",
+      "residue": 71,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.12485117669264575
+    },
+    {
+      "chain": "A",
+      "residue": 72,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.15199083274386388
+    },
+    {
+      "chain": "A",
+      "residue": 73,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.16150154688513
+    },
+    {
+      "chain": "A",
+      "residue": 74,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.10218425453868758
+    },
+    {
+      "chain": "A",
+      "residue": 75,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.25014247388881017
+    },
+    {
+      "chain": "A",
+      "residue": 76,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.10074971542409576
+    },
+    {
+      "chain": "A",
+      "residue": 77,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.27978318617516545
+    },
+    {
+      "chain": "A",
+      "residue": 78,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.2604043048909766
+    },
+    {
+      "chain": "A",
+      "residue": 79,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.217056954134975
+    },
+    {
+      "chain": "A",
+      "residue": 80,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.3942504187509615
+    },
+    {
+      "chain": "A",
+      "residue": 81,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.2268569195884949
+    },
+    {
+      "chain": "A",
+      "residue": 82,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.3589243301198566
+    },
+    {
+      "chain": "A",
+      "residue": 83,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.12855354015406778
+    },
+    {
+      "chain": "A",
+      "residue": 84,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.12758860738745995
+    },
+    {
+      "chain": "A",
+      "residue": 85,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.12185732971982735
+    },
+    {
+      "chain": "A",
+      "residue": 86,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.18926968533493146
+    },
+    {
+      "chain": "A",
+      "residue": 87,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.21175763251394622
+    },
+    {
+      "chain": "A",
+      "residue": 88,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.12424952824917808
+    },
+    {
+      "chain": "A",
+      "residue": 89,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.426524801308733
+    },
+    {
+      "chain": "A",
+      "residue": 90,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.16556865792347494
+    },
+    {
+      "chain": "A",
+      "residue": 91,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.9212682923090916
+    },
+    {
+      "chain": "A",
+      "residue": 92,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.6450578209720994
+    },
+    {
+      "chain": "A",
+      "residue": 93,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.5754593962761959
+    },
+    {
+      "chain": "A",
+      "residue": 94,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.2557533992850321
+    },
+    {
+      "chain": "A",
+      "residue": 95,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.2013345306168294
+    },
+    {
+      "chain": "A",
+      "residue": 96,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13027451346269792
+    },
+    {
+      "chain": "A",
+      "residue": 97,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1107266994452788
+    },
+    {
+      "chain": "A",
+      "residue": 98,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1022287646597077
+    },
+    {
+      "chain": "A",
+      "residue": 99,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.09953548487705606
+    },
+    {
+      "chain": "A",
+      "residue": 100,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.09264740897620595
+    },
+    {
+      "chain": "A",
+      "residue": 101,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.11455448506881222
+    },
+    {
+      "chain": "A",
+      "residue": 102,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.16096215775031886
+    }
+  ]
+}

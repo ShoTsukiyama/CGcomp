@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cgcomp"
+version = "1.1.0"
+description = "Single-nucleotide fragment reconstruction of coarse-grained RNA"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.23", "biopython>=1.81"]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.scripts]
+cgcomp = "cgcomp.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["cgcomp*"]
+
+[tool.setuptools.package-data]
+cgcomp = ["data/fragments/*.pdb", "data/fragments/README.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

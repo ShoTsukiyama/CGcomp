@@ -1,0 +1,2465 @@
+{
+  "mode": "hire-rna",
+  "residues": [
+    {
+      "chain": "A",
+      "residue": 1,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1278705537898094,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.2143245514201631,
+        "B2": 0.19517722644459493
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 2,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.11323126194204726,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.143569130052446
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 3,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.11840304644727744,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.18783513244580163
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 4,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.14616439030685757,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.25557921607474604
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 5,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13266047077418422,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.21406713734149635
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 6,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.11963019147842383,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.11192063216122676,
+        "B2": 0.14436400518789036
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 7,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1273854608405883,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.13504384324341867,
+        "B2": 0.14340032846440418
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 8,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.15165332221687913,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.09457628846238791
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 9,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.6213806885437319,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.836937702994224,
+        "B2": 0.3471528671757268
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 10,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.21239021150219967,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.18088324713836237,
+        "B2": 0.22780221726579356
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 11,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.15510663750985276,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.2646054521136713
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 12,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.12798934593330197,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.23090012269926258
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 13,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.10497475684643051,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.09763510245880586,
+        "B2": 0.11325956241171495
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 14,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.13204317394570486,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.14220236113628865,
+        "B2": 0.1594440412873899
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 15,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.09377466952173874,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.06706515219233254,
+        "B2": 0.09754165681110383
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 16,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14159848177906145,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.11886612013426545,
+        "B2": 0.1441957107226731
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 17,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14617171678772511,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.0803708808974619,
+        "B2": 0.11619721000448563
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 18,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.16934160557238906,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.24861910229754716
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 19,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.14004566083727793,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.24256702635120603
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 20,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.18280454371339594,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.32790105782476
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 21,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.11454473041862304,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.21759712716225044
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 22,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.08074341042551521,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.1005458449660973
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 23,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.17618214855936615,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.3152390961496929
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 24,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1722011859312882,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.17344221558995299,
+        "B2": 0.19628325158640944
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 25,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.17669301652092168,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.2616831626711268,
+        "B2": 0.266667381904641
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 26,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1456206384679538,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.09010128571491244,
+        "B2": 0.092396560670972
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 27,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13820227051259767,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.22885578524324945
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 28,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.16245852868997812,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.2895460057344938
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 29,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.17824574577522512,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.25501647143154554
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 30,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.4592645860093487,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.3570529615917249
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 31,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.26475723317739236,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.24963502583278388
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 32,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.9387541283231975,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 1.3715072315857701
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 33,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.6859993766732481,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.8610517599808116
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 34,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.13902385129373093,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.14647808374383062,
+        "B2": 0.15824830145173932
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 35,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1319224973371173,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.165593823306058,
+        "B2": 0.16778611038456798
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 36,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1218740307642984,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.1342120827338858
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 37,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.17232257819884567,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.2772845560854525
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 38,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.4644322202382476,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.48096175414796466,
+        "B2": 0.5583265704011957
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 39,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.782416700152327,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 1.2992646205694454,
+        "B2": 0.5845657176476546
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 40,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.10784326993311569,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.07417010184727789
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 41,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14318992872643158,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.13757824559933057,
+        "B2": 0.14754732954228075
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 42,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.12876355898378372,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.18774004767971506
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 43,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.20139288838564423,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.17473542226072464,
+        "B2": 0.1951993567141567
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 44,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1408824859601501,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.14498920715284747,
+        "B2": 0.1667734490295409
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 45,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14650023763951375,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.12612327379537014,
+        "B2": 0.11675708519398442
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 46,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.47702261026116616,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.354372895709916,
+        "B2": 0.3621041810918943
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 47,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.3521487823780038,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.46345247380010907,
+        "B2": 0.3929268961227738
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 48,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.15869495956689325,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.22436474659548275,
+        "B2": 0.21432093796556606
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 49,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.12994163548038304,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.18414471603074284
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 50,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.15854856664092487,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.24330430253297744
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 51,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1180030442335965,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.22030342773557315
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 52,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.12475144561491402,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.21110870485572664
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 53,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13216393251658698,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.24862149418493107
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 54,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1029937282796213,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.120145456554767,
+        "B2": 0.12682494810864833
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 55,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.14719081749150617,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.1373602710895607,
+        "B2": 0.15364588443393995
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 56,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13389439449221033,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.15583673025251682
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 57,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.16512630191868888,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.10265709547542144,
+        "B2": 0.16859173725450763
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 58,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.9475242765924459,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.6968795798961797,
+        "B2": 0.7987068816881172
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 59,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.2551603201141546,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.4186815735444161
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 60,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.25648751375573003,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.09312533318874203,
+        "B2": 0.261435914425283
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 61,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.3148217565119844,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.19314277979447228,
+        "B2": 0.09528869108948962
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 62,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.2419837092728987,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.27022897509880756
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 63,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.18184169783167242,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.18205393681470894,
+        "B2": 0.2198784756255224
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 64,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.14711064542113028,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.11684616634994448
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 65,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1082956093000452,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.08985794673886155
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 66,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.1325880377027343,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.23106774602062694
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 67,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.08340210021185204,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.021223703066523446,
+        "B2": 0.06483085469685683
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 68,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.18423095792363944,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.28427296540150965,
+        "B2": 0.21020011273957295
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 69,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1346706544472645,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.17167990447064357,
+        "B2": 0.17142564762046913
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 70,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13108600102229512,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.22970401082325437
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 71,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.12485117669264557,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.10910913430925424,
+        "B2": 0.1304647978814753
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 72,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.15199083274386319,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.06246798755739045,
+        "B2": 0.15572037693500757
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 73,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.16150154688513077,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.12905209446740662,
+        "B2": 0.18155017829319686
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 74,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.10218425453868751,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.09624027190837434,
+        "B2": 0.11739545460688912
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 75,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.2501424738888104,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.2361999589243881,
+        "B2": 0.2078106825664503
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 76,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.10074971542409564,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.13176469829244447
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 77,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.27978318617516446,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.4717916580259104
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 78,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.26040430489097743,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.43233016368524757
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 79,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.21705695413497483,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.17483981510816166,
+        "B2": 0.10483114718530323
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 80,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.39425041875096145,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.4808421952270763,
+        "B2": 0.42842529950211294
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 81,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.22685691958849546,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.21634925731802654,
+        "B2": 0.04135109446376596
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 82,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.35892433011985675,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.14546477744343653,
+        "B2": 0.11248743667249202
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 83,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.12855354015406836,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.15761401115861168,
+        "B2": 0.14941297075929072
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 84,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.12758860738746097,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.22996812072812342
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 85,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1218573297198277,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.05915982237891998,
+        "B2": 0.10078771263045085
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 86,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.1892696853349291,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.0643289330178172,
+        "B2": 0.11098990655805156
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 87,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.21175763251394628,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.06546643185685233,
+        "B2": 0.16340632168996663
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 88,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.12424952824917844,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.09684702695176912,
+        "B2": 0.026742491542748173
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 89,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.4265248013087329,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.18900611866658934,
+        "B2": 0.2544717928305888
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 90,
+      "base": "U",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.16556865792347455,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.13322095534042
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 91,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.9212682923090906,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 1.1033624653784182,
+        "B2": 0.769444704001672
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 92,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.6450578209721,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.8820618176146383,
+        "B2": 0.5259638169868659
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 93,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.575459396276196,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.22150752239198343,
+        "B2": 0.19355146395177142
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 94,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.25575339928503105,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.39990515463867016,
+        "B2": 0.2684967355763137
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 95,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.2013345306168296,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.2916965747803194
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 96,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.13027451346269742,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.20855428919191102
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 97,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.11072669944527842,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.1208085244687621,
+        "B2": 0.13526891750551964
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 98,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.10222876465970786,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.06479529412513657,
+        "B2": 0.10145424612288395
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 99,
+      "base": "A",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.09953548487705635,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.07972252646870728,
+        "B2": 0.10069577573264603
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 100,
+      "base": "G",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1",
+        "B2"
+      ],
+      "fit_rmsd_angstrom": 0.09264740897620533,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.096297397795294,
+        "B2": 0.10647897743114347
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 101,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.11455448506881236,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.1068631878118769
+      }
+    },
+    {
+      "chain": "A",
+      "residue": 102,
+      "base": "C",
+      "constraints": [
+        "P",
+        "O5'",
+        "C5'",
+        "C4'",
+        "C1'",
+        "B1"
+      ],
+      "fit_rmsd_angstrom": 0.16096215775031839,
+      "mapping_profile": "atomic backbone and ring COMs",
+      "output_site_residuals_angstrom": {
+        "P": 0.0,
+        "O5'": 0.0,
+        "C5'": 0.0,
+        "C4'": 0.0,
+        "C1'": 0.0,
+        "B1": 0.31097528690145004
+      }
+    }
+  ]
+}
