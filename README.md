@@ -1,39 +1,29 @@
 # CGcomp
 
 CGcomp reconstructs RNA backbone, ribose, and nucleobase heavy atoms by rigidly
-superimposing the supplied **single-nucleotide Arena fragments**. All supported
-models use the same four templates and Kabsch engine. This independent Python
-package requires no RNArefine, other reconstruction software, dynamics, or refinement.
-
-Version 1.1 accounts for every model in `CG_models.zip`: eleven CG models pass
-installed-CLI reconstruction tests; three are recognized and parsed but lack
-the geometric information needed to orient individual fragments. Generic atomic
-fitting is also supported. Unsupported entries never produce fabricated output.
+superimposing the supplied **single-nucleotide fragments**. 
 
 ## Complete inventory and coverage
 
-The recursively inspected archive contains **14 distinct CG models**, **27
-structural files**, and a full-atom reference (`exp.pdb`). All examples have
-102 nucleotides. There are no topology or FASTA files inside the ZIP. Twelve
-CG models have PDB/CIF pairs; SPQR supplies native PDB, and oxRNA native DAT.
+CGmap supports the reconstruction of RNA backbone and all-atom structures from 12 different coarse-grained (CG) models.
 
-| CG model / mode | Bead representation | Input format | Additional inputs | Reconstruction method | Test status |
-|---|---|---|---|---|---|
-| FebRNA / `febrna` | P/C4′/N9(A/G) or N1(C/U), atomic | PDB/CIF/MMCIF | None | Three-atom Kabsch; preserve atoms | Passed |
-| HiRE-RNA / `hire-rna` | Five atomic backbone sites plus B1/B2 ring COMs | PDB/CIF/MMCIF | None | Atomic/virtual-site Kabsch | Passed |
-| iFoldRNA / `ifoldrna` | Archive P/S/B COM groups, detailed below | PDB/CIF/MMCIF | `--bead-profile archive` | COM-site Kabsch | Passed, explicit archive profile |
-| isRNA1 / `isrna1` | P and S=C4′; 3 purine or 2 pyrimidine COMs | PDB/CIF/MMCIF | None | Atomic/virtual-site Kabsch | Passed |
-| isRNA2 / `isrna2` | P and S=C4′; 3 base COMs for every nucleotide | PDB/CIF/MMCIF | None | Atomic/virtual-site Kabsch | Passed |
-| Nares-2P / `nares-2p` | S/B centers; P is an adjacent-sugar midpoint | PDB/CIF/MMCIF | Missing base normal or third local landmark | Local S/B axis leaves axial rotation free | Unsupported; rejection tested |
-| NAST / `nast` | One C3′ point per nucleotide | PDB/CIF/MMCIF | Missing nucleotide orientation | One point leaves 3 rotations free | Unsupported; rejection tested |
-| oxRNA / `oxrna` | COM, a1/a3 axes, strand connectivity | DAT | Matching native `--topology` | Official RNA atomic proxies; shared Kabsch | Passed |
-| RNA-JP / `rna-jp` | P/C4′ + N9/C6/C2(A/G) or N1/C2/C4(C/U), atomic | PDB/CIF/MMCIF | None | Five-atom Kabsch; preserve atoms | Passed |
-| SimRNA / `simrna` | Five named atomic sites listed above | PDB/CIF/MMCIF | None | Five-atom Kabsch; preserve atoms | Passed |
-| SPQR / `spqr` | BASE/XVEC/YVEC, virtual SUGR, PHOS | Native PDB | A3 state | Rigid A3 base-frame Kabsch; report PHOS residual | Passed, A3 only |
-| TopRNA / `toprna` | P atom, geometric S/B centers; cytosine B includes N4 | PDB/CIF/MMCIF | `--bead-profile archive` | Geometric-site Kabsch | Passed, explicit archive profile |
-| VFold / `vfold` | P/C4′/N9(A/G) or N1(C/U), atomic | PDB/CIF/MMCIF | None | Three-atom Kabsch; preserve atoms | Passed |
-| YUP / `yup` | One P point per nucleotide | PDB/CIF/MMCIF | Missing nucleotide orientation | One point leaves 3 rotations free | Unsupported; rejection tested |
-| Atomic reference / `generic` | Any matched template heavy atoms | PDB/CIF/MMCIF | ≥3 non-collinear matches | All matched atoms enter Kabsch | Passed |
+| CG model / mode | Bead representation | Input format | Additional inputs |
+|---|---|---|---|
+| FebRNA / `febrna` | P/C4′/N9(A/G) or N1(C/U), atomic | PDB/CIF/MMCIF | None |
+| HiRE-RNA / `hire-rna` | Five atomic backbone sites plus B1/B2 ring COMs | PDB/CIF/MMCIF | None |
+| iFoldRNA / `ifoldrna` | Archive P/S/B COM groups, detailed below | PDB/CIF/MMCIF | `--bead-profile archive` |
+| isRNA1 / `isrna1` | P and S=C4′; 3 purine or 2 pyrimidine COMs | PDB/CIF/MMCIF | None |
+| isRNA2 / `isrna2` | P and S=C4′; 3 base COMs for every nucleotide | PDB/CIF/MMCIF | None |
+| Nares-2P / `nares-2p` | S/B centers; P is an adjacent-sugar midpoint | PDB/CIF/MMCIF | Missing base normal or third local landmark |
+| NAST / `nast` | One C3′ point per nucleotide | PDB/CIF/MMCIF | Missing nucleotide orientation |
+| oxRNA / `oxrna` | COM, a1/a3 axes, strand connectivity | DAT | Matching native `--topology` |
+| RNA-JP / `rna-jp` | P/C4′ + N9/C6/C2(A/G) or N1/C2/C4(C/U), atomic | PDB/CIF/MMCIF | None |
+| SimRNA / `simrna` | Five named atomic sites listed above | PDB/CIF/MMCIF | None |
+| SPQR / `spqr` | BASE/XVEC/YVEC, virtual SUGR, PHOS | Native PDB | A3 state |
+| TopRNA / `toprna` | P atom, geometric S/B centers; cytosine B includes N4 | PDB/CIF/MMCIF | `--bead-profile archive` |
+| VFold / `vfold` | P/C4′/N9(A/G) or N1(C/U), atomic | PDB/CIF/MMCIF | None |
+| YUP / `yup` | One P point per nucleotide | PDB/CIF/MMCIF | Missing nucleotide orientation |
+| Atomic reference / `generic` | Any matched template heavy atoms | PDB/CIF/MMCIF | ≥3 non-collinear matches |
 
 `--mode` recognizes every discovered model. The three unsupported entries give
 precise technical errors and create no atomic output. `cgcomp --list-modes`
