@@ -85,3 +85,7 @@ Hydrogen atoms are not included.
 ## Template attribution
 
 The nucleotide fragments used by CGcomp originate from [Arena](https://github.com/pylelab/Arena). Please check the original source and its redistribution terms before sharing the fragment files.
+
+## Citation
+If you use CGcomp in your research, please cite the following paper:
+Tsukiyama, S., Li, Y., Sato, K., Kurata, H., & Zhang, Y. (2026). RNArefine: AI-guided Atomic-Level Refinement of RNA Structures. bioRxiv. https://doi.org/10.64898/2026.06.26.734804
